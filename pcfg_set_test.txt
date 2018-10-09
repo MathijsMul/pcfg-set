@@ -1,0 +1,557 @@
+reverse ( prepend ( E I F , shift ( O Z ) ) )	F I E O Z
+echo ( F E R P )	F E R P P
+echo ( G H H R )	G H H R R
+prepend ( append ( prepend ( echo ( N Q U ) , P K ) , A H ) , D Y K C )	D Y K C P K N Q U U A H
+echo ( append ( P R D , P H N S ) )	P R D P H N S S
+shift ( D L G Z )	L G Z D
+copy ( A T K P )	A T K P
+append ( V A Z , X T M O )	V A Z X T M O
+shift ( L L O G )	L O G L
+reverse ( K O R R )	R R O K
+append ( A O V , J V Q )	A O V J V Q
+append ( W H C , copy ( M A X ) )	W H C M A X
+echo ( I G N I )	I G N I I
+copy ( K L F )	K L F
+echo ( Z P )	Z P P
+reverse ( T G O P )	P O G T
+shift ( P E R )	E R P
+reverse ( R G C )	C G R
+reverse ( O O P )	P O O
+append ( append ( X V U Q , A L ) , M A V P )	X V U Q A L M A V P
+shift ( prepend ( X B B , A J D Z ) )	J D Z X B B A
+echo ( N E )	N E E
+copy ( prepend ( reverse ( shift ( F T ) ) , prepend ( Q S S M , F P ) ) )	F P Q S S M F T
+copy ( Q W )	Q W
+copy ( K Y V F )	K Y V F
+shift ( F A )	A F
+append ( reverse ( reverse ( echo ( prepend ( X X , copy ( P Y ) ) ) ) ) , D U J D )	P Y X X X D U J D
+echo ( R I H )	R I H H
+copy ( U A A )	U A A
+copy ( append ( I A W , copy ( H L D ) ) )	I A W H L D
+echo ( S U )	S U U
+prepend ( C I , echo ( prepend ( P X , Y E X ) ) )	Y E X P X X C I
+shift ( G V X )	V X G
+copy ( Q I H )	Q I H
+echo ( reverse ( B F V ) )	V F B B
+prepend ( prepend ( reverse ( I M N ) , F C A I ) , I R C J )	I R C J F C A I N M I
+reverse ( append ( V C V O , prepend ( O W , A G ) ) )	W O G A O V C V
+prepend ( copy ( J X ) , W D B L )	W D B L J X
+reverse ( B U Q U )	U Q U B
+echo ( L U N T )	L U N T T
+copy ( V Z F X )	V Z F X
+reverse ( Q B )	B Q
+append ( reverse ( A W B ) , K K )	B W A K K
+reverse ( R G )	G R
+echo ( P U M T )	P U M T T
+prepend ( H N G L , copy ( shift ( X T P B ) ) )	T P B X H N G L
+copy ( prepend ( Z R K W , U O S O ) )	U O S O Z R K W
+append ( reverse ( M U O G ) , C T )	G O U M C T
+copy ( P Z E Z )	P Z E Z
+shift ( shift ( C Z Q Y ) )	Q Y C Z
+shift ( D M A )	M A D
+copy ( B V )	B V
+shift ( M S W D )	S W D M
+prepend ( W Q U , copy ( A X ) )	A X W Q U
+reverse ( echo ( R T L K ) )	K K L T R
+shift ( shift ( copy ( shift ( X W E ) ) ) )	X W E
+prepend ( U Z L B , U E F S )	U E F S U Z L B
+prepend ( C F , W B L )	W B L C F
+copy ( I B P )	I B P
+reverse ( reverse ( copy ( reverse ( F C U H ) ) ) )	H U C F
+shift ( E M B )	M B E
+reverse ( J T G )	G T J
+prepend ( B L E , echo ( J V L ) )	J V L L B L E
+append ( prepend ( copy ( copy ( F U ) ) , Z L Q Q ) , echo ( X W ) )	Z L Q Q F U X W W
+shift ( Z V R J )	V R J Z
+prepend ( L S S , O I )	O I L S S
+append ( J K , S U U )	J K S U U
+append ( copy ( V T ) , reverse ( G I C Z ) )	V T Z C I G
+echo ( append ( copy ( N A H E ) , R P ) )	N A H E R P P
+reverse ( copy ( shift ( reverse ( Z E B U ) ) ) )	U Z E B
+shift ( R M P )	M P R
+shift ( reverse ( append ( append ( append ( B M O , copy ( K A O I ) ) , E F ) , U A S ) ) )	A U F E I O A K O M B S
+echo ( echo ( A M L V ) )	A M L V V V
+echo ( S Y V S )	S Y V S S
+shift ( H Y Q G )	Y Q G H
+echo ( T C N )	T C N N
+echo ( S M X V )	S M X V V
+prepend ( shift ( T G ) , I Q I )	I Q I G T
+shift ( G S )	S G
+reverse ( O A O B )	B O A O
+shift ( G B R )	B R G
+copy ( S C N )	S C N
+copy ( D T F J )	D T F J
+shift ( prepend ( H V R Y , H J Z ) )	J Z H V R Y H
+copy ( copy ( R R F Z ) )	R R F Z
+append ( prepend ( shift ( Q E G ) , echo ( D W A ) ) , L T Y R )	D W A A E G Q L T Y R
+copy ( I G )	I G
+reverse ( shift ( M I K ) )	M K I
+prepend ( prepend ( N O O , P K G Q ) , R Q )	R Q P K G Q N O O
+echo ( E N N )	E N N N
+prepend ( copy ( D A R F ) , reverse ( B Q O D ) )	D O Q B D A R F
+append ( K O , D Z Z )	K O D Z Z
+echo ( J W F )	J W F F
+echo ( K V W )	K V W W
+reverse ( N J M I )	I M J N
+copy ( append ( D J , echo ( echo ( I G N A ) ) ) )	D J I G N A A A
+reverse ( Z O )	O Z
+reverse ( V O A K )	K A O V
+reverse ( I K A )	A K I
+reverse ( reverse ( G R A ) )	G R A
+prepend ( J S E , G Q T )	G Q T J S E
+reverse ( B S )	S B
+reverse ( echo ( S S ) )	S S S
+shift ( Y R Z A )	R Z A Y
+echo ( T T P C )	T T P C C
+echo ( X I U U )	X I U U U
+copy ( F O R S )	F O R S
+append ( X A , R K A )	X A R K A
+echo ( E S )	E S S
+echo ( echo ( X C L ) )	X C L L L
+prepend ( K P M , prepend ( K L V , Q L Q A ) )	Q L Q A K L V K P M
+reverse ( B M F )	F M B
+copy ( A F )	A F
+append ( F A Y , prepend ( M X F , append ( B Z , O J N ) ) )	F A Y B Z O J N M X F
+echo ( V P I X )	V P I X X
+copy ( V O B )	V O B
+reverse ( shift ( L X ) )	L X
+echo ( T E A J )	T E A J J
+prepend ( prepend ( O R A , X D S J ) , copy ( Z W ) )	Z W X D S J O R A
+reverse ( U H )	H U
+reverse ( O J M )	M J O
+copy ( echo ( J H I ) )	J H I I
+shift ( J J U )	J U J
+echo ( echo ( C J ) )	C J J J
+copy ( S D P B )	S D P B
+shift ( Q O H )	O H Q
+reverse ( L W D )	D W L
+prepend ( T C V E , B H S )	B H S T C V E
+shift ( copy ( N T H M ) )	T H M N
+reverse ( B V I )	I V B
+reverse ( S A T D )	D T A S
+reverse ( copy ( append ( D R L , L I ) ) )	I L L R D
+echo ( reverse ( F Z ) )	Z F F
+reverse ( echo ( reverse ( M M ) ) )	M M M
+prepend ( B F , T R F )	T R F B F
+copy ( G T X )	G T X
+echo ( S H Z B )	S H Z B B
+echo ( T U X C )	T U X C C
+echo ( H F L )	H F L L
+shift ( W F )	F W
+shift ( shift ( reverse ( K I D O ) ) )	I K O D
+append ( append ( N U I M , I N A Y ) , X M J )	N U I M I N A Y X M J
+copy ( U T U )	U T U
+shift ( W X R )	X R W
+echo ( prepend ( Q R R , reverse ( append ( L Y C B , O B V G ) ) ) )	G V B O B C Y L Q R R R
+copy ( reverse ( L Z D ) )	D Z L
+echo ( shift ( P L G ) )	L G P P
+copy ( echo ( K N ) )	K N N
+reverse ( N K X M )	M X K N
+prepend ( T F V A , prepend ( R Q T , W B U P ) )	W B U P R Q T T F V A
+reverse ( A O R J )	J R O A
+copy ( echo ( W I W G ) )	W I W G G
+copy ( E H L )	E H L
+copy ( P K C S )	P K C S
+echo ( F G K A )	F G K A A
+copy ( Q S P )	Q S P
+shift ( K D E )	D E K
+reverse ( copy ( E N I ) )	I N E
+prepend ( Z O H P , reverse ( P T ) )	T P Z O H P
+shift ( A H T )	H T A
+append ( A N , B F G )	A N B F G
+prepend ( Z N , X V G )	X V G Z N
+copy ( echo ( append ( shift ( echo ( L D G ) ) , E R O N ) ) )	D G G L E R O N N
+copy ( U A F )	U A F
+echo ( W B T E )	W B T E E
+prepend ( copy ( R W T K ) , W H C L )	W H C L R W T K
+prepend ( Y F , F I )	F I Y F
+copy ( U R T )	U R T
+append ( M I Y V , S E )	M I Y V S E
+prepend ( L Q K , Z O N I )	Z O N I L Q K
+copy ( U W )	U W
+echo ( G U W )	G U W W
+copy ( echo ( M L R W ) )	M L R W W
+reverse ( I E K N )	N K E I
+prepend ( shift ( R L Y F ) , P G B )	P G B L Y F R
+reverse ( C Z F )	F Z C
+echo ( G O U )	G O U U
+copy ( Y Q )	Y Q
+prepend ( J W , O L )	O L J W
+copy ( Z I B N )	Z I B N
+shift ( R V )	V R
+copy ( J X A W )	J X A W
+shift ( prepend ( V N , Q L P ) )	L P V N Q
+copy ( B W R G )	B W R G
+append ( shift ( A Q H B ) , F Y )	Q H B A F Y
+echo ( Z V S )	Z V S S
+copy ( copy ( G A ) )	G A
+reverse ( S X T I )	I T X S
+append ( U T H N , prepend ( X O I , G W K X ) )	U T H N G W K X X O I
+reverse ( E B )	B E
+reverse ( copy ( L W N M ) )	M N W L
+prepend ( append ( K G G T , E K K ) , echo ( X D V A ) )	X D V A A K G G T E K K
+prepend ( C J A E , copy ( S R Q ) )	S R Q C J A E
+prepend ( G G , P X N U )	P X N U G G
+prepend ( O E L , X W N )	X W N O E L
+shift ( G J )	J G
+reverse ( append ( shift ( echo ( Y Q S ) ) , L F O K ) )	K O F L Y S S Q
+append ( Z T I I , Q L )	Z T I I Q L
+shift ( S I )	I S
+echo ( L Y )	L Y Y
+reverse ( L J )	J L
+shift ( D R I )	R I D
+reverse ( echo ( D N Y P ) )	P P Y N D
+echo ( C O H )	C O H H
+prepend ( R E , N C J )	N C J R E
+shift ( L F J )	F J L
+append ( reverse ( shift ( copy ( K K O ) ) ) , B Y Y )	K O K B Y Y
+append ( prepend ( D Y T P , Z Y ) , A Y U )	Z Y D Y T P A Y U
+echo ( Q T )	Q T T
+reverse ( H F A )	A F H
+prepend ( C D R X , O Y M )	O Y M C D R X
+shift ( append ( I G K , W F K ) )	G K W F K I
+echo ( C H )	C H H
+prepend ( E W D , echo ( V V P R ) )	V V P R R E W D
+copy ( I P Y I )	I P Y I
+copy ( A R H )	A R H
+copy ( I N L D )	I N L D
+echo ( M T )	M T T
+echo ( reverse ( D O D ) )	D O D D
+reverse ( B G Q )	Q G B
+reverse ( W C )	C W
+echo ( H W T )	H W T T
+reverse ( copy ( copy ( reverse ( echo ( P X L ) ) ) ) )	P X L L
+shift ( D X )	X D
+shift ( W D D K )	D D K W
+copy ( B U E M )	B U E M
+copy ( O J )	O J
+shift ( prepend ( F U W , H W ) )	W F U W H
+echo ( shift ( A M J ) )	M J A A
+reverse ( F I J Y )	Y J I F
+append ( W U K , U I Z )	W U K U I Z
+copy ( J D D M )	J D D M
+prepend ( L N , Q B G )	Q B G L N
+append ( H E B S , W B )	H E B S W B
+reverse ( J Q Q )	Q Q J
+append ( R X M F , Z L E )	R X M F Z L E
+copy ( K N D T )	K N D T
+reverse ( H Q W )	W Q H
+echo ( L T F E )	L T F E E
+echo ( V F O )	V F O O
+shift ( reverse ( B S M I ) )	M S B I
+reverse ( prepend ( Q N , D Y ) )	N Q Y D
+echo ( prepend ( echo ( reverse ( S T I G ) ) , copy ( reverse ( prepend ( H D V , prepend ( D P W L , J Z ) ) ) ) ) )	V D H L W P D Z J G I T S S S
+shift ( P D )	D P
+reverse ( O D M Z )	Z M D O
+echo ( K V )	K V V
+shift ( D J A T )	J A T D
+append ( N I B N , copy ( K Y X F ) )	N I B N K Y X F
+reverse ( P U A H )	H A U P
+echo ( T G C I )	T G C I I
+echo ( S H R I )	S H R I I
+echo ( L C G )	L C G G
+reverse ( Q Y C F )	F C Y Q
+append ( reverse ( W X X L ) , K A K )	L X X W K A K
+reverse ( V Q I J )	J I Q V
+reverse ( V R S )	S R V
+shift ( prepend ( reverse ( shift ( J T X ) ) , shift ( F F T U ) ) )	T U F J X T F
+shift ( U N V )	N V U
+echo ( K Y M F )	K Y M F F
+shift ( J L L L )	L L L J
+shift ( T A Z )	A Z T
+append ( X Q V I , V V )	X Q V I V V
+reverse ( N E T )	T E N
+reverse ( shift ( I W Q ) )	I Q W
+shift ( Q G J X )	G J X Q
+reverse ( echo ( B G J ) )	J J G B
+shift ( echo ( reverse ( W I K ) ) )	I W W K
+copy ( V T T E )	V T T E
+prepend ( reverse ( F F O L ) , S T G F )	S T G F L O F F
+shift ( N Y L )	Y L N
+prepend ( J U P , shift ( O U J L ) )	U J L O J U P
+shift ( prepend ( Z X U M , V Z S ) )	Z S Z X U M V
+copy ( N F G )	N F G
+shift ( M J J )	J J M
+shift ( prepend ( B N D , O K V F ) )	K V F B N D O
+shift ( P Q E T )	Q E T P
+copy ( Z G S )	Z G S
+reverse ( K R )	R K
+echo ( echo ( B Y I ) )	B Y I I I
+copy ( R W )	R W
+echo ( B D K F )	B D K F F
+reverse ( append ( T B E , O K ) )	K O E B T
+append ( A N X , A C U R )	A N X A C U R
+copy ( V W J )	V W J
+shift ( S L Q )	L Q S
+reverse ( prepend ( L R C , S E U X ) )	C R L X U E S
+shift ( P Z E )	Z E P
+prepend ( echo ( append ( N L T , Y B S B ) ) , H E S )	H E S N L T Y B S B B
+shift ( T D W A )	D W A T
+echo ( E J M G )	E J M G G
+copy ( A A L H )	A A L H
+reverse ( P R Y )	Y R P
+copy ( I V )	I V
+shift ( H G O V )	G O V H
+copy ( R H J )	R H J
+echo ( Q S W Z )	Q S W Z Z
+shift ( Q H )	H Q
+prepend ( T V C , U L J Y )	U L J Y T V C
+prepend ( shift ( echo ( copy ( U U J L ) ) ) , I D Z V )	I D Z V U J L L U
+append ( Q B K , shift ( M H P ) )	Q B K H P M
+shift ( shift ( reverse ( L Z Z ) ) )	L Z Z
+shift ( reverse ( Z S V I ) )	V S Z I
+reverse ( Z K P )	P K Z
+shift ( B N Z P )	N Z P B
+copy ( O R R T )	O R R T
+copy ( D M U )	D M U
+reverse ( echo ( Y U G Q ) )	Q Q G U Y
+prepend ( echo ( V Q ) , append ( reverse ( N I P ) , shift ( O P V ) ) )	P I N P V O V Q Q
+shift ( shift ( R T E U ) )	E U R T
+copy ( U F R )	U F R
+shift ( W O I )	O I W
+reverse ( copy ( reverse ( D H E ) ) )	D H E
+reverse ( O A Y )	Y A O
+copy ( T G K H )	T G K H
+reverse ( E C E M )	M E C E
+reverse ( echo ( F I U Z ) )	Z Z U I F
+prepend ( S J G Q , N U H )	N U H S J G Q
+shift ( J A )	A J
+shift ( E D I K )	D I K E
+echo ( prepend ( A C S J , F B F ) )	F B F A C S J J
+reverse ( R B Z H )	H Z B R
+copy ( W T Q )	W T Q
+copy ( prepend ( J F , O V Q ) )	O V Q J F
+echo ( D Y L )	D Y L L
+copy ( F W T C )	F W T C
+copy ( P W )	P W
+copy ( N V P )	N V P
+copy ( T B U )	T B U
+copy ( S Z D O )	S Z D O
+prepend ( U N Q S , copy ( R T Q ) )	R T Q U N Q S
+shift ( J O F )	O F J
+append ( U X B V , R I )	U X B V R I
+echo ( F L A V )	F L A V V
+echo ( R I Y )	R I Y Y
+append ( V P N U , X T D Z )	V P N U X T D Z
+append ( S C C , O N D )	S C C O N D
+echo ( D E S R )	D E S R R
+reverse ( E J Z )	Z J E
+shift ( prepend ( G C I , append ( K X B , T D ) ) )	X B T D G C I K
+reverse ( P T L P )	P L T P
+reverse ( L P M F )	F M P L
+reverse ( K J P )	P J K
+shift ( U I H W )	I H W U
+prepend ( echo ( reverse ( Z E C ) ) , V G M )	V G M C E Z Z
+append ( echo ( V L K ) , I B )	V L K K I B
+echo ( O I I )	O I I I
+copy ( prepend ( R P P , C E Z ) )	C E Z R P P
+shift ( P Z B )	Z B P
+shift ( W S W F )	S W F W
+copy ( Z T S O )	Z T S O
+echo ( copy ( G F F X ) )	G F F X X
+reverse ( L W E D )	D E W L
+shift ( F C )	C F
+shift ( D B L )	B L D
+reverse ( Z W X X )	X X W Z
+echo ( copy ( prepend ( H Q W C , J X M ) ) )	J X M H Q W C C
+shift ( echo ( shift ( prepend ( append ( copy ( H J V ) , I L ) , copy ( J V L M ) ) ) ) )	L M H J V I L J J V
+echo ( R O N )	R O N N
+prepend ( S E T , S D G )	S D G S E T
+shift ( echo ( B V S V ) )	V S V V B
+copy ( Y Q H )	Y Q H
+echo ( K Q Q G )	K Q Q G G
+append ( L M Y W , D M W )	L M Y W D M W
+shift ( append ( Q K , W B F ) )	K W B F Q
+copy ( G A T P )	G A T P
+shift ( C D H M )	D H M C
+prepend ( U H P , J G R G )	J G R G U H P
+echo ( Y D )	Y D D
+reverse ( W F C )	C F W
+prepend ( L H P , append ( M M W F , shift ( prepend ( R Y , echo ( S G G T ) ) ) ) )	M M W F G G T T R Y S L H P
+shift ( append ( K L N D , K H O ) )	L N D K H O K
+shift ( L O F C )	O F C L
+reverse ( H K L M )	M L K H
+reverse ( B H G )	G H B
+reverse ( C P )	P C
+reverse ( O B Y )	Y B O
+echo ( Y F F F )	Y F F F F
+reverse ( P J O K )	K O J P
+copy ( I Z L X )	I Z L X
+copy ( M B Q H )	M B Q H
+shift ( D G L R )	G L R D
+reverse ( U J )	J U
+shift ( A X Q B )	X Q B A
+shift ( W Q B U )	Q B U W
+prepend ( Y H G S , prepend ( D R P K , echo ( A T ) ) )	A T T D R P K Y H G S
+reverse ( F C Y L )	L Y C F
+echo ( reverse ( T B ) )	B T T
+append ( Z P X , Q D Q H )	Z P X Q D Q H
+append ( A D G , copy ( R Z R ) )	A D G R Z R
+reverse ( X J D )	D J X
+shift ( Q A X Q )	A X Q Q
+reverse ( G D M )	M D G
+echo ( prepend ( Q R O , D Y X ) )	D Y X Q R O O
+prepend ( H K U , J V E V )	J V E V H K U
+copy ( L P C B )	L P C B
+copy ( W Z V )	W Z V
+prepend ( copy ( copy ( echo ( J O ) ) ) , J C X )	J C X J O O
+copy ( U P J M )	U P J M
+shift ( N E K Z )	E K Z N
+reverse ( N T Y )	Y T N
+reverse ( J H )	H J
+echo ( shift ( L U P D ) )	U P D L L
+shift ( I O B )	O B I
+echo ( A S )	A S S
+copy ( X X X )	X X X
+copy ( P C O Z )	P C O Z
+echo ( L P L V )	L P L V V
+append ( reverse ( I M Y ) , X X V )	Y M I X X V
+prepend ( O R R F , H N )	H N O R R F
+copy ( W F J )	W F J
+shift ( V D S R )	D S R V
+reverse ( D T )	T D
+echo ( shift ( G M H ) )	M H G G
+copy ( X X R U )	X X R U
+echo ( V A P W )	V A P W W
+copy ( J W X O )	J W X O
+prepend ( A H Q , D V H )	D V H A H Q
+shift ( L G I )	G I L
+shift ( reverse ( reverse ( C Q G R ) ) )	Q G R C
+reverse ( F X R S )	S R X F
+copy ( Q X )	Q X
+reverse ( F I J )	J I F
+reverse ( G V S I )	I S V G
+copy ( U T O Z )	U T O Z
+reverse ( copy ( D Z X ) )	X Z D
+echo ( echo ( reverse ( append ( shift ( reverse ( R E Z O ) ) , O U O X ) ) ) )	X O U O O R E Z Z Z
+copy ( copy ( Y H E H ) )	Y H E H
+reverse ( V D S M )	M S D V
+copy ( Q E )	Q E
+prepend ( M K A N , Y A R )	Y A R M K A N
+prepend ( X P D W , reverse ( P H F H ) )	H F H P X P D W
+reverse ( P G Y K )	K Y G P
+reverse ( C H X P )	P X H C
+echo ( prepend ( D K X , echo ( E E K I ) ) )	E E K I I D K X X
+reverse ( append ( prepend ( W P H F , K H U ) , copy ( append ( echo ( N L V Q ) , reverse ( M A ) ) ) ) )	M A Q Q V L N F H P W U H K
+reverse ( A H B )	B H A
+prepend ( M M V , S Z J A )	S Z J A M M V
+echo ( V Q N )	V Q N N
+echo ( E H A )	E H A A
+echo ( reverse ( copy ( copy ( R H ) ) ) )	H R R
+shift ( D D U )	D U D
+echo ( M D J )	M D J J
+echo ( prepend ( P L R L , shift ( shift ( E G ) ) ) )	E G P L R L L
+copy ( copy ( M I H ) )	M I H
+reverse ( O G I )	I G O
+prepend ( shift ( G P A I ) , echo ( append ( F Y A R , P W C W ) ) )	F Y A R P W C W W P A I G
+prepend ( L D P D , Z A F )	Z A F L D P D
+reverse ( P Z Z P )	P Z Z P
+reverse ( K W S Z )	Z S W K
+prepend ( G V N O , B Q F )	B Q F G V N O
+reverse ( copy ( Q T F I ) )	I F T Q
+echo ( Y E B )	Y E B B
+echo ( C U U Z )	C U U Z Z
+echo ( J B N M )	J B N M M
+shift ( A A W )	A W A
+echo ( H W N Y )	H W N Y Y
+shift ( O D B T )	D B T O
+append ( Y N R X , V F T O )	Y N R X V F T O
+echo ( X H H V )	X H H V V
+echo ( Q Q U D )	Q Q U D D
+copy ( W J Y )	W J Y
+append ( K L X F , F E Z )	K L X F F E Z
+prepend ( R S J Q , S A )	S A R S J Q
+echo ( S I S I )	S I S I I
+shift ( Z J )	J Z
+append ( B Z G N , R O K )	B Z G N R O K
+prepend ( D F D , reverse ( echo ( J O C T ) ) )	T T C O J D F D
+reverse ( J X E V )	V E X J
+prepend ( append ( T J W E , N Y B N ) , T V Z C )	T V Z C T J W E N Y B N
+copy ( copy ( K X H P ) )	K X H P
+shift ( shift ( echo ( Z V N ) ) )	N N Z V
+shift ( B T P Y )	T P Y B
+append ( reverse ( copy ( V U C ) ) , X D T A )	C U V X D T A
+echo ( V C P )	V C P P
+shift ( Q N U )	N U Q
+echo ( L I I O )	L I I O O
+reverse ( C P V )	V P C
+append ( T Q B D , append ( L G P , T U X ) )	T Q B D L G P T U X
+echo ( B D P )	B D P P
+reverse ( reverse ( I N S ) )	I N S
+echo ( P H K V )	P H K V V
+copy ( H E V )	H E V
+prepend ( R N R N , L K K I )	L K K I R N R N
+shift ( copy ( O B V S ) )	B V S O
+append ( copy ( Y E B O ) , F T S )	Y E B O F T S
+prepend ( prepend ( N L R , F C D ) , G G M N )	G G M N F C D N L R
+echo ( R F N T )	R F N T T
+reverse ( X O Q )	Q O X
+copy ( D G )	D G
+reverse ( T V P )	P V T
+prepend ( shift ( U R O C ) , C M I )	C M I R O C U
+reverse ( Z J K F )	F K J Z
+copy ( shift ( E D U Q ) )	D U Q E
+prepend ( append ( Y K M C , Y C ) , M V T )	M V T Y K M C Y C
+reverse ( prepend ( R A S , D P L ) )	S A R L P D
+echo ( F Z G V )	F Z G V V
+shift ( append ( R G L , I U Q K ) )	G L I U Q K R
+shift ( N R X )	R X N
+shift ( G D F L )	D F L G
+shift ( V V P D )	V P D V
+shift ( V Z E )	Z E V
+shift ( J I )	I J
+reverse ( P F W W )	W W F P
+reverse ( copy ( I I I U ) )	U I I I
+copy ( G V N A )	G V N A
+echo ( reverse ( copy ( append ( echo ( G C R F ) , C C J ) ) ) )	J C C F F R C G G
+append ( append ( Z M M , copy ( D B U ) ) , W F R )	Z M M D B U W F R
+reverse ( B X I )	I X B
+copy ( F S )	F S
+reverse ( prepend ( Q B T , C G O ) )	T B Q O G C
+append ( copy ( O N S ) , reverse ( H J O X ) )	O N S X O J H
+shift ( R L S )	L S R
+append ( I Q , shift ( E I H E ) )	I Q I H E E
+echo ( E A A D )	E A A D D
+reverse ( echo ( X U V J ) )	J J V U X
+prepend ( O S Y B , S B M O )	S B M O O S Y B
+echo ( shift ( T E J B ) )	E J B T T
+echo ( W R B X )	W R B X X
+reverse ( shift ( G B C U ) )	G U C B
+shift ( J J M H )	J M H J
+copy ( J T Y Q )	J T Y Q
+prepend ( K N E G , C X Y )	C X Y K N E G
+echo ( W R O )	W R O O
+shift ( echo ( shift ( U K P ) ) )	P U U K
+append ( I U M T , M C R )	I U M T M C R
+echo ( append ( G B L , C U C Y ) )	G B L C U C Y Y
+echo ( I E V F )	I E V F F
+echo ( G K F T )	G K F T T
+append ( O K W , I I Y )	O K W I I Y
+reverse ( C B J U )	U J B C
+echo ( Q I T )	Q I T T
+echo ( shift ( F F U Y ) )	F U Y F F
+copy ( T S B R )	T S B R
+prepend ( C J C I , Y N Q )	Y N Q C J C I
+echo ( X W N Q )	X W N Q Q
+append ( X H J I , D C C )	X H J I D C C
+append ( F C R , F Z Q C )	F C R F Z Q C
+append ( E G W N , copy ( I E O L ) )	E G W N I E O L
+reverse ( H S A D )	D A S H
+copy ( shift ( K R I E ) )	R I E K
+reverse ( W Y E G )	G E Y W
+copy ( H N C X )	H N C X
+append ( copy ( E X O Q ) , append ( U Y L R , append ( H A E , prepend ( M W D Z , reverse ( I E K G ) ) ) ) )	E X O Q U Y L R H A E G K E I M W D Z
+reverse ( X M I T )	T I M X
+reverse ( prepend ( E R D , T H S ) )	D R E S H T
+echo ( H T N B )	H T N B B
+prepend ( N K W E , H Y W E )	H Y W E N K W E
+echo ( I N T )	I N T T
+reverse ( T R K U )	U K R T
+reverse ( X S )	S X
+reverse ( G E K )	K E G
+echo ( B S J I )	B S J I I
+reverse ( T V P J )	J P V T
+reverse ( D I L H )	H L I D
+prepend ( copy ( shift ( shift ( Z U P M ) ) ) , F I F V )	F I F V P M Z U
+reverse ( append ( X Z N , O H H W ) )	W H H O N Z X
+prepend ( copy ( C M E ) , V S Z )	V S Z C M E
