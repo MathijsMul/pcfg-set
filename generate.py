@@ -65,7 +65,7 @@ class MarkovTree():
         return(next)
 
     def string_argument(self):
-        candidate = [random.choice(ALPHABET) for i in range(random.choice(self.lengths))]
+        candidate = [random.choice(self.alphabet) for i in range(random.choice(self.lengths))]
         if not candidate in self.string_arguments:
             # make sure that the same string arguments do not occur
             self.string_arguments += [candidate]
