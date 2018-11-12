@@ -1,0 +1,1395 @@
+echo append echo echo reverse echo Z95 M45 R17 , append shift prepend U12 U83 P71 , shift shift I15 D97 W41 , copy reverse shift append R69 C37 F86 , I98 U94 H33
+shift reverse K84 S18 O61 I98 P50
+reverse append copy reverse reverse X29 K4 Z5 M95 , append shift copy copy reverse O56 J48 L45 , reverse echo reverse Y42 T53 M52 K46
+append shift echo R90 P41 J81 M48 , copy L21 R47 F19 J42
+prepend P3 X69 A25 V31 , copy prepend copy echo prepend echo K79 H77 O54 , echo L79 Q25 J27 S50 , shift shift prepend echo echo echo copy V42 P47 U28 H91 Q11 , B26 S36 T66 T5
+echo append prepend D43 O91 T22 T75 Q18 , shift U50 X48 R43 B70 V45 , reverse shift append copy P54 N12 X33 J81 D4 , echo B53 Y61 N5 F47
+append shift L26 Z60 N65 I5 , reverse B35 P42 V67 B71 W20
+shift prepend copy append echo reverse copy copy A82 O94 D51 , T1 Q22 H10 M100 W10 , L28 S14 J91 J10 S5
+shift echo echo prepend copy Y46 Z68 S74 N96 , copy append copy shift G2 R53 Z61 C56 I24 , shift X47 Y21 W50
+shift append copy echo echo reverse G39 J79 W99 K90 , copy prepend shift shift K54 Y40 H67 I12 , shift shift S49 A42 P39 M5 X62
+reverse copy append H79 C21 I53 H63 , echo echo E39 W99 L41 Y72
+echo echo echo A24 T2 J33 Z12
+shift prepend append copy copy copy shift shift reverse F15 I56 F99 , prepend copy shift copy S98 V22 X76 C73 M82 , echo I5 V10 C91 H61 , reverse copy copy reverse shift echo copy reverse shift L46 A55 I22 S29
+append prepend Y100 C82 Q61 H66 , reverse copy G74 H58 E69 H8 H99 , prepend H48 M100 B75 W70 , reverse H24 H82 I46 I66
+append reverse echo I80 Q22 O41 , Z5 W22 H19
+copy prepend shift shift echo O94 A60 G30 W58 J85 , echo L52 Z98 G12 G56
+copy prepend copy echo O59 O79 K92 M37 , E3 K20 Z47
+prepend copy echo reverse copy copy O96 D50 I32 O96 , prepend reverse prepend A29 H8 K40 C70 O13 , H98 L21 W14 P72 J24 , shift copy append copy R42 C35 S73 M10 X68 , Y74 B23 O79 L48 P84
+copy shift E95 G20 N22 T58
+echo append shift copy E77 V32 X95 Z33 I92 , prepend copy U90 D86 V79 U50 I66 , S19 J30 Y15 J57 G56
+append N76 Z52 H53 Y89 , prepend T48 D76 M71 M29 K85 , append shift echo R72 I26 P44 W77 , echo echo M77 J85 E60 J87
+copy prepend reverse copy prepend echo reverse M1 Z93 Y34 , shift L84 D84 W15 A56 Y61 , T15 W73 V74 Y56
+append reverse append copy reverse copy X90 R74 U8 A36 F78 , shift shift reverse Z43 D47 M82 J28 W35 , reverse reverse U64 E9 J90 Q43 D35
+reverse shift F67 A81 J24 Y87 N43
+shift prepend N83 P59 L88 D4 T55 , append copy prepend shift echo copy reverse L87 S39 F100 T73 C39 , shift copy shift reverse V84 M33 R43 U49 A92 , T75 J49 H29 E84
+reverse reverse A41 K30 J92 L99 O98
+prepend V15 X73 A86 R62 F34 , shift copy copy H96 L6 E6 U17
+shift append T56 N10 B81 L14 , reverse shift M41 K84 V49 Z44 F92
+prepend copy Q64 E61 D90 N34 I70 , append copy copy echo reverse shift shift W75 M66 W51 A97 , copy reverse echo copy R37 B44 L53 E57 R48
+prepend echo echo echo prepend echo shift B60 H18 L59 D86 , echo shift prepend C79 R72 P97 G8 , A21 X29 L42 G79 , echo copy reverse shift echo M43 Q9 A27 V96
+shift echo reverse echo shift T41 Z77 U23 Q3 Z95
+append echo echo shift copy J39 B16 N85 L76 J34 , T94 M7 X28 C91 A54
+prepend Z19 S89 Q43 , echo Z26 A4 H20
+append shift shift W76 E41 Q44 T52 , shift X87 X64 E25 G71 X20
+append append Z41 O71 B49 Q52 U28 , P23 Y84 I17 U92 N94 , F96 R31 J16 U1
+append F61 M34 R73 N84 C95 , echo reverse W56 O13 K48
+prepend reverse shift reverse reverse T47 N90 C42 , shift shift shift J44 M89 Q3 X48
+append reverse prepend shift reverse reverse reverse echo copy V50 D34 G28 T30 , prepend echo echo K46 U97 R41 V3 U63 , reverse I58 X63 S68 T89 , reverse echo copy prepend N78 S93 M46 Q3 , reverse copy echo echo A46 H80 Z9 Y62 R39
+prepend copy reverse echo V60 C80 A63 M85 P65 , copy echo copy C2 C62 F28 B35
+prepend S56 R71 U17 L36 , copy V91 G6 S57
+prepend reverse P71 Q35 H5 , U11 U10 G10
+append N77 B5 G24 C7 Y83 , echo echo Q64 P31 J22
+prepend reverse reverse shift reverse I58 Z93 G31 M13 , copy append B69 G86 Q94 , copy E68 Y95 V84
+copy echo echo Y87 X26 X58
+append prepend copy E94 R74 Y16 E41 , M71 Z73 B76 Y99 M97 , prepend T5 O82 H97 U92 , reverse T49 B12 C45 I26
+prepend shift reverse G48 K6 Z13 S86 B44 , prepend reverse reverse shift Z54 Y79 M71 W70 , echo A32 U67 O67 W61 U75
+copy prepend prepend echo P52 Z11 V26 , echo append F99 J51 G81 U56 , echo T67 V88 U92 P48 M10 , copy append copy echo shift echo copy H88 V37 G4 B14 , prepend echo echo J30 V97 Z36 , copy echo reverse D35 N36 Y31 I9 P27
+prepend copy reverse reverse Z15 L89 J96 Y55 V1 , P64 K4 Z49 M31 Q62
+reverse echo prepend F91 G47 B28 , T25 G99 F8
+echo prepend copy reverse J29 M15 U30 P91 N82 , copy X23 X78 J4
+prepend copy J30 M67 Q76 W85 , reverse append copy copy X81 B68 D31 , J64 E14 G52
+prepend reverse copy copy O71 Z18 W63 , prepend W52 I27 B69 E88 , prepend echo echo append echo copy echo F3 W61 Q10 , E53 G29 Z15 I50 D74 , echo M15 F79 I17 O85 W61
+echo append shift copy copy W55 G34 T60 , C85 I69 D30 R93
+prepend prepend reverse echo R67 O29 I28 L89 N17 , prepend copy reverse Z18 A96 V36 L71 , reverse T30 G46 X83 I55 , T89 Z41 J32 W30
+append reverse prepend echo C81 Y61 Z47 E12 N26 , reverse shift F75 I40 D32 N90 , reverse copy shift U47 Q6 C50
+append copy reverse shift V58 E79 Z91 E88 , X5 V33 R46 T76 L52
+append shift append echo Q26 N20 U8 I64 , W69 C4 C79 F59 V74 , W43 S5 U24 E40 T83
+echo reverse V41 R51 U8 N4
+copy prepend echo J87 H20 D50 E83 , append V43 R27 A91 W45 Q15 , shift I21 H55 P77 P17
+append G73 I15 M94 V46 R21 , shift echo D62 L15 O67
+copy prepend append L59 O15 D71 B47 Z9 , echo I7 H50 H14 Y77 C40 , echo reverse prepend echo W84 B16 M90 S31 O49 , copy S73 O6 Q59 U77
+reverse copy S29 E39 B74
+append echo echo N10 V43 X77 K28 M25 , copy shift reverse reverse E37 J18 U49 K87
+prepend echo echo shift E46 X30 F46 F95 , reverse reverse copy Q84 C6 W37 A65 U70
+append append W64 D93 B10 M87 H77 , reverse reverse R97 S50 F69 O60 H79 , shift echo copy shift V5 R45 H78 X58
+reverse shift copy copy prepend shift T19 T43 U67 V19 S13 , reverse H22 E90 I57 U39 I2
+echo echo prepend reverse shift shift E63 X15 Y89 X73 , append append shift echo B33 W50 W1 W5 , reverse copy copy echo reverse B45 X35 P74 H61 E27 , echo copy copy V35 H93 R54 M91
+prepend U10 U80 H51 Y67 , append C15 F69 U64 Y4 , copy reverse copy reverse shift B31 A67 V1 C42 H50
+prepend reverse append reverse H60 I100 G20 Y59 , A77 F70 A77 K44 W36 , append shift copy shift I58 Z10 O64 K96 F89 , append X29 K33 Y57 C15 W99 , X84 F27 O99 G96 Q100
+append reverse Y3 A59 E55 , copy J100 N80 A92
+append prepend echo append A15 X39 R91 V32 X17 , shift copy A39 D44 C71 M30 , copy J94 N14 X77 N59 , append T32 X12 B92 E46 T14 , U47 I36 D73 H24
+prepend append echo reverse shift copy T52 K31 E5 X29 , echo echo W48 G62 E43 T79 K70 , prepend P65 W97 B2 M48 T16 , reverse reverse copy shift Y27 Q24 R14 B65
+shift shift K92 E52 K79 Z8
+prepend shift reverse I68 Y81 I72 , M97 L90 T52
+append reverse reverse shift echo echo I74 G20 H5 , echo prepend echo shift S16 L87 E39 C4 , copy B40 H24 G64
+prepend reverse echo reverse copy shift L21 Z85 E1 , echo reverse reverse copy reverse Y8 Y83 S84 Z41
+shift echo shift R87 O94 I26 K96 N23
+append prepend shift reverse copy echo shift echo copy K61 V40 B17 , copy shift reverse shift shift copy echo I1 V11 S4 O74 P28 , C73 W73 F74
+append reverse F50 K64 H23 D6 , shift copy append reverse reverse I67 F66 V42 J71 Z19 , echo reverse B3 Y87 M47
+prepend echo reverse G87 V31 O39 X63 Z12 , W59 S47 X36 R78 R48
+shift prepend V60 L87 D64 H56 , P17 T37 B85
+prepend echo shift reverse reverse U45 U88 F59 L64 , shift echo shift echo reverse C41 Y89 E9 Q24 E59
+prepend copy reverse shift reverse copy reverse U37 N37 C94 B94 , copy shift append Z85 L60 M73 , N68 N91 D53 M11 S10
+prepend L30 P62 L35 , shift reverse W36 U79 K57 Y13
+append shift reverse shift echo E25 F81 G75 W20 M99 , shift copy echo reverse A8 X35 H54 U35 N39
+prepend copy S33 N96 X47 , copy shift echo reverse H8 Q9 F80 F21 S6
+echo prepend prepend reverse echo shift echo I93 S73 O27 , copy D79 X21 C90 , echo reverse copy reverse B6 V40 B26 P12 L97
+prepend prepend prepend echo reverse V74 M59 F77 M100 W25 , echo echo shift O62 B9 Q46 A30 N8 , copy shift copy B83 U10 X66 C74 J2 , append copy V2 B89 B35 M34 S10 , reverse append copy F39 Y89 C62 X43 R71 , J50 G92 H17 F60 A22
+reverse shift copy shift prepend append reverse echo echo A56 K100 A20 H57 , copy copy echo L53 Y38 Q67 L37 U60 , shift copy echo copy H74 D94 Q42 A62 T28
+shift echo prepend U20 Q43 W29 U80 T64 , G7 I23 E60 E9
+prepend W57 E53 N66 Z77 , copy copy I18 D44 Z34 B96
+append I95 Y50 W56 , echo R38 F89 K77 M68 T18
+reverse append shift reverse shift copy K65 I87 N63 P60 , shift shift reverse H72 M96 S31 W35 J4
+prepend reverse reverse echo T69 V3 K89 , copy V15 Z74 J65
+echo prepend shift M29 M13 X62 I79 A70 , shift echo R56 G100 E8 W58
+copy append copy append echo reverse N11 R51 G100 M70 W57 , echo T91 T10 M41 Y85 A74 , copy O79 Y51 T77 A10
+copy copy copy Z100 Q36 E91 P13 S100
+shift append append append shift reverse I95 G74 C62 R59 , H25 R64 K71 Y60 J26 , reverse D48 F97 F17 E77 , K87 R30 P94 A52
+reverse reverse prepend C5 Y24 B46 , M39 Z25 Y4 E62
+reverse append reverse shift V90 P19 Z71 S14 , P98 N7 K19
+shift copy shift copy N23 W59 Y80 B55
+copy shift copy M20 S32 U75 T59
+prepend echo copy echo append copy T98 B50 W68 X3 , prepend echo U95 H16 S85 B5 Y14 , V82 C80 S15 G62 X62 , shift shift reverse echo A22 H19 D12 I36
+append reverse copy I82 A91 X52 Z86 R9 , echo echo Y81 B72 I57 Y59 E53
+reverse append reverse H36 E34 O87 E68 , reverse C54 W70 R48 J97 R52
+reverse append I44 M11 T20 C38 , copy K9 H81 N23 F17 V99
+echo append copy echo H83 H76 L52 Z13 , echo echo reverse Z16 I53 H77 D34 O73
+shift echo shift P78 P46 R85 K67 L47
+prepend reverse shift append copy N41 Q49 H97 G36 , P53 Y26 L47 S72 , prepend reverse T8 B35 P22 D9 Z95 , reverse G61 A71 O26 V13 F57
+prepend copy reverse shift reverse B59 I63 W73 , copy shift echo copy reverse J26 Q23 W6 L42
+echo copy prepend reverse shift H26 I19 N49 L23 R46 , X8 K92 T81 Z92 P54
+echo reverse prepend prepend copy K37 Q9 U30 W99 P31 , shift prepend V80 L53 V30 N59 M21 , S93 A13 S82 Z80 Q57 , echo shift E27 Y51 E81 Q47 G79
+echo prepend append shift P17 K80 U82 D69 X52 , L16 M1 Y11 G16 B38 , append echo G83 I81 I85 M38 , V56 L13 Q15 C85
+prepend prepend copy Z39 N75 O89 C22 , append shift V74 C37 B88 O88 , shift Y12 E79 I10 X14 , echo reverse prepend Y56 H62 M95 D83 B71 , prepend copy G61 O94 T77 E15 , reverse G58 S98 T53 I3
+shift prepend echo shift R90 R71 Y31 T39 F16 , copy A29 M41 H68 O74 I9
+append prepend append copy V31 J23 O88 , shift echo shift K72 W23 Q8 , F45 K88 T22 W90 , copy O60 O61 K86
+append copy shift reverse shift echo W67 S9 O17 S2 J5 , shift shift echo O23 N14 F34 Y52
+reverse append echo prepend copy R90 G2 S17 Y87 G7 , reverse L55 E37 Y95 , Z21 M77 N11 X7
+prepend E49 M68 L8 , reverse echo append reverse V33 Y83 Z20 D59 , X12 K4 D86 D92
+shift append copy echo D96 N10 U10 C58 B65 , reverse reverse H9 W36 G66 D26
+copy prepend Q40 S71 F48 , O87 L34 C65
+append shift E3 E41 F45 , B17 L53 M37 M2 G19
+shift prepend shift append Y30 F41 J27 I76 , shift A96 A42 L52 Z97 S74 , shift J86 J61 P27 M11
+append append copy M20 C87 H64 E78 U30 , J100 X38 V8 X90 , append copy copy copy Z87 Z65 G84 B81 A23 , append V34 E29 Z11 U30 M34 , reverse echo Q7 I48 A11 U81 W54
+shift copy prepend O56 K7 I74 Z76 , L8 S77 J28
+shift echo append reverse L68 Q12 X24 , echo D5 Z10 F51 J82 O13
+copy echo append C22 T28 G98 , U90 L93 B35 T28
+reverse prepend echo shift append echo reverse reverse reverse X34 N79 L35 Q15 , echo reverse copy W98 R89 P11 , echo W56 V20 R97
+echo append echo Q19 R17 R60 Z33 U34 , copy L4 U21 D5 A61
+append prepend reverse copy copy echo T96 Z46 P6 I34 , copy prepend reverse W99 W39 Q3 N46 , shift O98 Y85 Y66 I51 G9 , reverse copy prepend reverse I98 J72 Q86 K93 W68 , shift shift copy J56 R84 V27 W11
+prepend reverse append reverse H72 R70 O88 M4 Y86 , copy copy O83 R21 N3 , copy append reverse reverse A42 L18 V1 O90 R95 , echo shift copy copy copy H23 A70 Q26 V63 C18
+reverse shift reverse append G50 L40 A80 , B67 G85 O6
+prepend echo echo echo U94 V44 R87 H46 , append echo S40 Q98 K91 P47 , append echo Z55 V36 Q64 M84 F49 , F78 H57 T77 Q86 L70
+prepend shift reverse reverse I46 E63 K59 , echo H83 S96 W12 Z96
+echo shift copy T72 V1 P34 T91 N43
+shift shift G55 V94 F87 R81 I22
+append echo prepend C26 V94 V31 F4 S5 , echo V26 H10 Z60 O31 , N47 S69 F35 M20 P92
+append A86 A91 O31 , reverse shift W68 Z24 B68 B72 H8
+prepend copy copy echo M91 H69 L67 L67 N97 , append reverse G42 S97 I40 B47 , reverse echo shift copy copy reverse N76 I57 G16 D75 F34
+echo prepend reverse W80 H54 A11 S22 , append shift copy echo Q40 Q15 T11 S9 , echo P17 X17 H14 N70 T48
+shift prepend W57 J67 O71 , echo echo F100 B44 J76
+copy reverse shift prepend M92 P13 N59 I49 Y13 , copy echo A60 A81 S60 F95
+append append G79 I43 H21 G60 T33 , copy reverse O53 H66 J91 N69 , copy C69 G80 I27 M43 T16
+prepend append copy reverse F38 L68 J33 U71 J28 , echo shift C48 H86 Q94 I65 M43 , reverse echo A16 P2 M31 T86 U94
+append shift S87 E96 H72 , reverse copy copy T37 F38 I11
+reverse prepend copy R43 Z79 X65 J56 , echo reverse N28 Y30 B25 U31 N34
+shift shift D37 Z29
+copy copy echo N1 V41 X38 V39 H1
+append copy append E24 L54 F63 X9 , copy I30 G100 Y43 Q26 , prepend A44 P1 K96 K97 , echo copy W14 P19 X65 H47 L35
+copy prepend shift copy U39 T2 Z76 P49 Y49 , reverse prepend copy shift K17 B27 G78 R88 , echo reverse P81 N50 M44 B93 F93
+reverse prepend prepend echo E95 R20 O68 W46 , X3 E19 Q86 C88 , D14 J6 X31 D80 W54
+append append copy echo reverse S26 J67 B1 Q8 F23 , append echo Z43 Y65 I51 D20 , shift echo shift F78 R37 U95 Z88 M42 , copy V74 V12 Z57 L42 M28
+shift shift echo reverse echo prepend reverse I8 H20 Q29 G40 S71 , prepend D52 M30 E48 N60 K40 , T20 K76 P92 B77
+echo append A68 Y49 N18 V39 H78 , echo U17 A31 D13 N100 J72
+copy prepend append echo echo copy echo prepend X28 F40 T31 E11 , E33 X100 B44 , copy reverse copy V98 U87 G43 N27 , shift echo X94 D46 Z83 C28
+copy reverse E67 C1 A87 P92
+reverse append copy copy Z66 Z19 W35 X79 , reverse prepend shift prepend W71 N74 M73 F4 T48 , Z53 J84 H58 S36 X25 , X74 L79 U25 B75 N17
+reverse echo shift K79 S39 P9
+prepend copy copy I89 Y95 U68 , copy Y10 Y46 S35
+prepend reverse J62 O89 F13 S97 N80 , prepend copy R61 H80 O29 A76 , Q87 E48 J21 J2 W10
+append echo reverse append shift H52 F6 O60 K81 T87 , reverse append Q52 Z50 N23 J50 , V45 K21 N29 X42 , C21 M77 J62 X41 B1
+shift echo echo S30 L48 C65 B4 C96
+prepend copy copy echo V40 C47 I22 , reverse copy reverse U55 P3 U12 D79 I47
+append reverse shift Q29 Z59 H18 B61 C85 , reverse reverse Q56 A39 M71 S65
+copy append echo K91 E94 S25 T82 , echo copy echo echo Y86 Q83 I50 J47
+prepend shift shift reverse M91 F79 Z18 J85 W99 , B17 Z78 I88 J37 X1
+append reverse copy reverse L60 U50 B76 B80 D20 , reverse reverse reverse A88 R94 Y37 S71 K42
+append copy echo echo shift echo append I97 U91 E63 O42 , F52 I49 V71 Q18 , echo copy copy append echo N89 P43 T32 E85 , reverse copy O91 T56 D53 W3 K73
+echo copy reverse W74 F33 Y55 J57 I82
+echo copy copy H36 K25 W80 J17 T34
+prepend prepend B50 M10 W73 , copy R68 M32 A52 W91 X79 , shift T78 B42 C70 G72 R18
+copy reverse shift B97 U52 F10 T5
+prepend shift N48 W19 C12 E88 H49 , D42 X72 O3
+echo prepend copy append copy D68 W12 L31 C41 , copy X13 N65 S71 , reverse echo E68 I77 Z99 H59 J61
+append echo echo copy shift W24 S85 X91 H68 V97 , echo echo echo reverse T60 U42 T79 P37 G88
+copy prepend echo copy echo X56 P67 M31 , echo reverse shift T2 G33 B76 M39 P26
+echo echo prepend append M6 B99 R7 N58 , E61 S66 L90 B24 T48 , reverse copy M68 R47 A36 S39
+prepend append copy Z33 P35 Y60 D89 , F47 O6 O86 K45 Y10 , shift echo I4 Q65 Q72 E96
+echo shift J63 D55 Q83 U57 B9
+append prepend prepend copy H100 R55 W14 E79 , reverse echo O34 S48 Z18 W21 , reverse shift reverse copy copy S76 V51 Q7 B99 , copy echo echo echo copy L29 F75 N45 P46 R47
+prepend R39 L74 Z70 , shift echo M53 C64 X93 B43 V57
+append echo append echo S10 M85 K8 H88 N31 , prepend J84 W51 P46 K39 , J10 P32 P24 C51 , echo echo shift copy W41 L68 K46 Q24 I16
+prepend copy reverse S51 L91 W58 J47 E3 , copy reverse P83 Z59 Q93 J44 K17
+append T8 S54 F33 , copy H52 P63 M67
+copy prepend J44 M12 V28 E72 , append prepend reverse copy echo N96 M70 T3 E55 , copy A45 O69 U7 B90 R14 , shift I95 U86 A73 I92 Z7
+append shift copy J50 Q32 O56 I83 O97 , append echo A70 M98 F38 G92 X30 , reverse echo N10 O22 E29 X25
+prepend copy C94 R32 R47 , T99 Q33 H62
+append shift shift X41 D46 J46 O6 , copy B5 M57 X40 L29
+prepend shift Q29 Q72 I81 P57 , prepend shift reverse reverse copy reverse G50 T36 P26 , reverse echo L45 J7 X23 F55
+append shift prepend copy reverse P25 A62 R80 , shift Q88 A2 N46 , echo shift M45 O71 R59
+copy shift prepend I80 T21 T25 Z59 J55 , V60 E98 D54 S67 A12
+append echo shift B60 F91 J8 , echo shift I75 C29 W66
+echo shift reverse M37 P4 E12 B57 I46
+echo append prepend Y70 Z63 Q35 V40 S76 , shift G51 O17 M73 R92 V54 , reverse X85 E65 N32 J82 B16
+shift prepend copy Z56 H32 I63 , reverse append echo U20 Y5 G79 I61 , O46 K96 S69 R71 L62
+prepend copy copy shift echo prepend I50 B1 Q18 M70 , G59 Y58 X31 , append reverse H99 S98 A15 , echo I63 E73 E63
+append append D62 F98 M33 K33 W44 , copy L69 V33 N23 J9 , prepend shift F63 N11 N80 M42 E99 , shift shift reverse G15 G94 K87 S90 B71
+echo append shift E72 Q3 U68 , W50 G88 R4 F63
+prepend copy shift C67 J70 X48 B40 K86 , prepend shift reverse append shift Q59 G45 L17 E73 J39 , B80 E70 J60 H76 , U75 B45 K31 C15
+shift echo G11 S5 E48 Q53
+shift reverse append copy echo echo E82 P31 Y23 Q36 , shift copy R25 U2 M13 Y76 I95
+append K73 U53 R26 Y40 , echo copy C55 U82 C68 C37
+reverse append shift copy Q100 Y2 L68 G84 H73 , copy copy Q95 H79 B83 D42
+prepend reverse shift reverse copy copy append shift copy echo U17 E3 O59 T89 X99 , L66 Z87 J3 W32 K35 , prepend copy P18 U69 H4 T72 , shift W1 D81 O11
+prepend copy A37 A98 T11 L96 , echo shift prepend copy copy M93 B29 T79 D10 H94 , shift echo Y54 L73 D92
+shift append shift copy shift C31 X54 N100 M49 M12 , shift copy Y52 M70 R28 T30 I75
+reverse append E87 U12 Y79 B16 V13 , copy L4 U61 B76 P94
+prepend reverse K1 N77 I92 , copy Q30 P60 R21 O38
+reverse echo J67 W31 F10 C71
+copy prepend G67 K63 B61 R19 J39 , prepend echo W67 G97 R18 P36 , copy J28 Y99 U54 S14 X94
+prepend echo C75 P15 I86 Q100 , echo copy reverse O17 N56 O80
+prepend append echo N63 Z7 C68 Z85 I8 , reverse reverse M12 W71 I78 N16 , reverse F72 U82 G93 H24
+copy append B99 Y41 K64 X83 X90 , append echo copy L12 L27 G85 F65 G62 , echo G85 O65 B43 A74
+append copy reverse Q26 U5 A56 G58 W83 , copy copy Y63 A23 Y54 Y17 R32
+shift reverse echo append T16 O7 Q86 K84 C23 , R11 D87 V77
+append shift copy P42 Q15 U12 R92 L44 , echo J26 W7 Y5 K78 X31
+prepend shift O27 T63 M24 X17 W64 , reverse reverse shift copy Q49 K37 B74 S9 N21
+append copy echo append O54 C37 H30 K57 B1 , V48 Q67 Z50 Y61 S76 , shift P89 D55 I17 Y22
+reverse append shift copy P72 F33 Q24 B15 , echo echo Y77 P57 B52 Q5 O30
+reverse copy echo H14 Z71 U57 O70 U92
+prepend shift shift reverse shift copy H49 S20 D55 C73 , copy R47 M55 Q94 A32 G17
+reverse echo prepend shift shift Y64 V80 P88 R41 R26 , echo M6 T36 L8 I22 Q10
+prepend reverse X28 I72 P43 , U9 S62 Q49
+append echo echo echo P60 U72 G27 R47 R1 , reverse copy U93 Z96 R93 L57
+reverse prepend reverse prepend shift V50 E76 X55 R25 , copy G58 A58 F53 , reverse copy W94 M35 Q66 W74 V36
+prepend prepend reverse H54 Z60 H77 V70 W34 , append I89 S21 J47 C4 F22 , copy reverse B9 Y99 K99 T12 N46 , echo prepend echo reverse Z8 R29 H76 Z75 V18 , echo P27 H75 Y94 T94 R30
+copy shift copy append echo Z44 D81 M37 , echo W24 Q13 F48 Q19 V70
+append shift reverse W89 T49 G27 S54 , I60 D99 J39 B7 F38
+copy append append P55 Q27 B17 J77 C73 , W91 A89 U31 , echo K19 K85 O15 B81 O43
+prepend M57 P73 K93 A30 M19 , shift Y1 U39 T80
+prepend echo reverse O3 J70 W39 V85 , shift append append I59 J50 K21 R47 L63 , Y39 O9 V24 Q36 Y2 , echo echo R71 J86 F8 K98
+copy shift prepend reverse reverse T48 S96 T76 S71 , reverse echo echo V57 L34 F40 M64 W40
+echo copy I23 C31 Z36 Z95
+echo append reverse echo J23 L43 S39 K32 , copy shift echo prepend echo Q11 M6 M50 J12 B96 , echo J78 X8 L39 Y43
+prepend reverse S38 J90 E84 H55 A44 , append echo P76 T20 R45 Z55 F72 , E50 Z94 H12 F1
+append append prepend copy echo R20 F89 R56 V42 Y40 , echo shift copy F1 S53 O40 K24 O33 , shift shift copy M7 D81 L87 A64 S34 , prepend echo N85 B54 N98 V67 D78 , copy append reverse E56 Q38 W69 H58 Y74 , K83 R97 Q39 N78 N28
+append shift V34 F14 F22 J7 I54 , shift R51 D97 S51 F61 K81
+reverse reverse append shift N66 V68 T30 S33 U26 , append T42 S65 J4 B94 T90 , copy N11 L45 C36 R53
+append prepend reverse echo shift copy copy copy E57 D11 S94 C29 V100 , append copy D18 V25 F73 M6 , append shift M11 H7 F92 R25 I59 , reverse R57 J52 X55 T59 T55 , U28 S27 Y73
+shift append C81 H27 F12 W67 , reverse Q26 W7 L49
+prepend shift shift V12 F24 K9 N35 B93 , reverse reverse C12 I3 D54 D51 W31
+prepend copy prepend copy prepend copy J10 Y51 O61 G38 , W30 V4 Y42 L93 W75 , copy echo reverse shift E12 R36 G67 P90 Q40 , W4 D63 T82 J75 P73
+prepend copy W19 R80 C47 , shift copy Z47 W90 I57
+copy copy shift copy shift copy copy C36 H38 O82 I54 G2
+prepend copy append Q76 E76 U70 J33 , shift reverse O79 P28 K56 K33 , shift copy reverse reverse copy append shift copy reverse shift copy echo D73 G75 D99 , copy reverse shift reverse append echo Q13 C36 Q74 O86 U56 , U35 M75 U50
+shift reverse shift append reverse S80 T51 M30 , echo P74 F63 T70
+shift prepend shift reverse reverse R32 I78 H46 Z36 T31 , append copy echo reverse D68 W35 I58 D97 W51 , echo M18 B52 F22 B95 F59
+reverse reverse append shift echo Y90 N96 B98 P79 , echo append J79 P35 M61 E40 M10 , V60 M38 E69
+shift copy prepend A50 G36 W74 Q64 W74 , D20 U43 P83
+copy append echo prepend echo D59 W96 R1 T28 , B55 Y59 V29 W39 , append shift copy V16 Z66 A17 G51 B76 , copy T32 Q63 P49 G8
+prepend W97 A99 I69 R73 V58 , echo copy S17 C51 R70 Q34 X32
+prepend prepend L40 P61 I46 O40 O58 , copy R10 C20 U1 , D33 H56 I26 G27 T46
+append copy reverse shift copy X77 W60 A29 X43 , copy append prepend copy D89 B11 S88 Z64 , shift W44 G46 N89 Q42 , shift F66 N65 D66 E23 E16
+echo echo prepend Z66 G49 J98 X81 D54 , echo echo E47 Q97 G23 C21 R57
+prepend echo echo shift L79 G11 H29 F54 L85 , shift shift copy O50 A69 I23 P50 I6
+prepend append copy shift shift reverse echo reverse L84 T76 I35 O70 P20 , append reverse W83 N11 I26 X61 , append echo E51 A29 T35 J33 G32 , reverse M23 U59 C60 I55 C28 , M94 P27 A16
+copy append echo R23 O56 M58 C77 , shift O50 C41 B14
+prepend B32 K28 D64 , reverse echo append append prepend Q26 H88 Z11 , append copy Q42 L8 G83 N84 , shift copy O99 M56 Z19 U60 K36 , H11 N85 U48 S87 , I15 J52 N75 F27
+prepend shift append reverse I72 Q46 T66 H79 X90 , reverse shift X43 A25 N91 , Q97 S89 V94 E51
+copy shift prepend prepend M42 Y69 M19 O94 Y80 , shift echo prepend copy copy N64 S38 P85 X10 I20 , reverse reverse reverse V36 B31 E48 B30 J90 , echo shift shift shift L92 W15 B59 P15 B71
+reverse copy reverse M76 P95 K30 R57 N98
+shift echo prepend Y58 W16 B44 V70 L52 , N84 R39 B51
+shift echo prepend shift copy echo A27 Q72 W61 X23 , O74 Y52 W15
+shift shift reverse copy prepend echo echo W70 H18 G45 , copy prepend reverse echo copy reverse I29 H98 J89 , echo reverse copy T76 W18 B13 A16
+prepend echo append J99 Y66 M100 , reverse echo D71 I62 D21 , prepend prepend Q93 W51 O2 C87 , J74 C95 D65 , reverse I26 P61 B17 F84 F56
+copy prepend shift reverse append shift copy S30 W63 J31 , shift M82 B62 N54 B43 R33 , A32 K14 W90 Q33
+copy W64 Y81 Y98
+shift echo echo prepend M27 Z53 B36 W96 W14 , Q62 L39 Z87
+prepend prepend prepend N15 P52 F16 T2 , shift H34 K48 P14 G31 , shift S5 R82 R42 V2 D11 , shift echo D36 L44 J79 D22
+prepend echo echo shift reverse L64 E55 G66 B23 M21 , C27 O75 W8 M73 Y61
+reverse echo append H24 R50 N24 X1 G47 , copy echo C62 W37 Z96
+reverse append append reverse K69 G59 L42 G45 , O50 B91 R22 H90 A90 , M80 M16 R34 H87 X56
+copy reverse append reverse reverse reverse copy Q56 H79 C84 O74 D60 , shift copy reverse shift R73 E46 Q99 A84 Q45
+prepend shift prepend F99 S22 E95 O80 S14 , copy L82 F86 N1 W100 , G46 E12 N64 C64 X95
+append reverse reverse Q9 J93 L42 U82 C64 , Y98 V31 O33 O96 Z70
+shift reverse prepend prepend reverse N51 X80 G24 , shift echo J65 G84 L95 , reverse G97 S71 V25 K30 Y72
+copy prepend F42 S87 X56 A9 T38 , echo D13 J84 O35 H82
+echo append I13 F16 Q87 K68 E11 , prepend shift shift N58 Q58 I41 O6 O66 , echo L5 W56 X8 X82
+copy reverse B43 H67
+reverse shift reverse O1 I99 O32 I61 X44
+shift append X81 W7 B24 , echo W51 E7 T55 N48
+prepend reverse shift shift N55 N17 S9 , shift M21 O16 B48 J40
+append reverse shift U54 C94 T96 J32 K17 , echo shift N20 W89 L48 F40
+prepend append echo H24 J11 R31 B46 , J67 W48 B65 Q26 K6 , reverse shift echo S29 M65 H19 D47 R26
+append copy echo shift reverse N16 H33 X99 D9 , echo echo reverse reverse echo Q45 G10 G47 E21 N43
+append copy reverse echo copy echo G5 G44 W20 I2 V40 , copy copy reverse A39 P2 V22 Q84 F5
+echo echo B53 B40 R90 F43 V34
+reverse prepend echo copy reverse L51 J39 Y5 G45 , shift reverse P30 Y79 R89 U23
+append prepend A36 O79 L69 O48 G33 , append A36 X5 V14 Q31 , echo copy echo E58 A99 S92 C19 , T24 R58 L90 X62 L25
+prepend reverse reverse reverse shift echo A30 I53 X75 Z71 , copy append append copy echo S16 L86 R40 G100 , P32 N6 S72 J11 A88 , copy copy S21 M38 K40 Z95
+append shift reverse reverse O56 F98 E34 B13 , echo copy echo U82 I45 S12 N53
+append echo echo copy copy echo A52 U82 S47 F3 A18 , prepend copy echo reverse shift Q95 S29 F86 Y39 , copy shift shift shift Y47 F78 R88 H8 N77
+prepend reverse copy K70 L10 N34 , reverse W52 O49 Q40 O40 P26
+prepend X72 K55 G84 G58 , echo reverse reverse C1 I34 R63 K40 P67
+prepend echo prepend prepend W94 R77 P57 U93 , J74 K93 O86 L39 V77 , echo W38 S85 T84 V13 G35 , copy reverse shift O95 D9 X67 J48
+copy append prepend echo V82 V47 S10 L30 D37 , echo shift reverse Y43 Q54 V41 R19 O96 , copy Y75 X5 D88
+append P2 Y66 P67 C9 , append reverse H41 D83 T15 I81 M55 , copy copy O6 Q17 V39 H59 W36
+reverse C59 V99 M12 O36 V85
+append echo reverse A13 X27 I35 G87 Z79 , K66 R53 L99 Z64 U50
+append echo reverse shift echo prepend copy shift P13 Z95 K32 C7 B17 , echo shift X39 H61 R45 , L12 H76 U46
+prepend shift copy echo shift Q57 R85 , echo J77 F82 Q98 N87 N12
+copy copy copy append prepend append shift A66 V4 T59 , reverse copy E48 R13 V9 L42 H89 , copy V85 K51 F45 Y18 Q18 , copy W3 C1 Y42 R100 B91
+copy shift append M58 E80 U81 L68 , prepend shift echo reverse append H18 W35 Y10 I94 , U90 D74 K66 Y88 V100 , echo copy K26 O40 D3 D53 H67
+prepend prepend echo F13 H87 I85 C89 R59 , echo N5 V87 U93 Z60 N14 , prepend F72 C55 A70 D70 J13 , copy R25 X90 S72 E10 I16
+append echo reverse J40 N20 Z34 L52 M25 , echo echo J74 N7 C17 H27 J11
+echo echo echo shift shift prepend copy B40 I28 R18 D100 B2 , echo Y19 Y87 P35 C20 Y76
+echo copy append prepend L51 M66 S90 B19 , L36 X61 A51 B90 , F2 J52 V35
+append shift reverse reverse W91 O44 W21 M38 W26 , reverse S41 C51 D60 K57 I69
+append echo shift Y80 E28 Q26 L83 D40 , B44 S89 D68 H59
+copy prepend reverse F51 Y79 R42 A31 B96 , prepend copy X98 U19 C46 V8 Z6 , E3 B1 U65 I6 B94
+copy reverse reverse copy V24 C24 G12 A56
+reverse append echo V97 G57 T94 A22 H27 , echo shift R4 N85 F63 X76 W48
+reverse prepend I79 W55 K69 , Z53 A45 R51
+prepend shift reverse O54 Y89 P80 J55 , D20 O51 G75
+shift append V86 J45 N20 Y91 O54 , X21 C85 E88
+echo shift append S50 G41 R91 V76 , echo reverse append J97 A44 V49 S28 , append T1 N24 R22 Z28 L53 , R50 W50 T5 I15
+prepend shift reverse reverse shift H27 K64 S22 R28 R31 , copy copy echo prepend echo echo copy append reverse W22 W43 E42 Q98 L7 , Y11 T57 R85 , shift copy C97 Y59 F48 I45 Q44
+reverse echo prepend reverse O23 Y74 I31 K69 U67 , echo F33 G65 F48 R57 O7
+prepend copy reverse X20 F43 M11 , J98 N75 C17
+copy append A16 K7 B54 , copy copy reverse T85 G56 X8
+append shift shift shift echo K14 V66 J23 I31 , copy echo shift echo prepend T60 R53 N73 R28 , O85 K97 V24
+shift prepend echo reverse W58 F92 R21 J62 Y58 , reverse echo K62 P31 C48 P45 N37
+append echo echo R64 M86 A82 U30 G22 , echo shift copy append reverse E2 A72 I98 Z14 Y12 , prepend echo J76 T22 U63 R59 , shift shift K70 T87 Q26
+echo copy prepend shift T73 J25 D27 , F85 S50 N57
+append prepend copy copy reverse echo B88 O17 D48 V57 Q48 , reverse B89 Z17 A31 Q30 , append shift copy K34 B78 U75 I45 , echo echo copy B4 Y27 L33 K8 T59
+prepend prepend F90 D6 B55 A98 Y61 , T38 D30 V12 , shift shift X72 U87 T31
+append echo echo shift D39 L10 H16 , shift shift K81 J74 F81 Y21
+reverse shift append shift append I31 L87 G83 I84 , J32 X88 Z67 , Q38 R49 X67 P88
+prepend reverse prepend V80 C21 U45 H26 , X37 W92 K59 P53 , reverse S67 G34 T14
+reverse shift prepend echo echo X38 C62 J7 , echo append echo echo A73 Q33 N97 Q36 W23 , shift P54 H97 K82 Q20 S81
+reverse append M45 O11 Y77 E87 R43 , echo echo shift C26 B53 D96
+shift append copy F31 F87 R15 , D19 K26 U17 O86
+reverse prepend W90 T21 L66 V8 N9 , L48 M98 N19
+append echo reverse prepend prepend append copy W10 M45 X62 V5 U19 , C11 W53 O44 T70 , reverse D38 W7 U44 , reverse shift append O88 V15 I63 O98 , S3 M28 T81 H65 , H46 C7 Y10
+reverse reverse prepend echo L95 P99 N11 A23 , shift append L25 Z73 B38 , T47 B85 I71
+prepend reverse reverse append shift shift J39 L43 Q20 D44 J8 , C48 J48 I84 Y61 Q77 , echo append shift F95 Z66 Q52 S18 , R6 I73 S33 U46 I27
+append append reverse D89 W63 U19 H13 H34 , C65 D16 Y37 T84 , copy O74 U59 Y50
+echo append shift echo D41 G75 K34 V55 , shift shift H4 O87 U60
+append append G82 S47 C50 N7 C80 , Z42 N70 M78 T51 I3 , reverse reverse reverse B53 O65 A33
+prepend shift reverse O93 N77 D70 O46 G93 , prepend reverse K17 Z28 E100 S1 C32 , reverse copy K46 H97 D99 J77 E69
+prepend shift J11 Z45 Z22 E57 T85 , reverse shift prepend R52 Q83 U35 M22 X65 , B32 Z3 U64 S65
+copy append copy reverse copy append C9 V33 W52 W15 N61 , reverse R2 V67 H99 , H94 G8 U69
+reverse copy shift K2 J30 Z8 J91 A49
+reverse copy echo P4 M93 L93 Q34
+append copy reverse O93 H40 Z85 C78 , prepend P97 N53 B25 P85 I31 , prepend reverse copy G29 N74 T75 G72 , copy reverse copy J44 V16 E91 C66 T4
+reverse append O48 D39 X46 B83 , copy I87 L51 I56
+append shift E10 P94 I39 K53 H54 , copy append M85 X12 L92 R46 , G42 F20 H85 M39 Y5
+reverse append echo A96 M60 R83 N56 O73 , echo copy N68 I1 J77 Z97 B69
+echo prepend W85 E97 D5 , prepend copy N31 N44 D27 D1 Y94 , shift shift G49 L8 C32
+append echo echo Q38 V45 I5 L61 , echo X30 Y56 R75 V44 G8
+append echo echo prepend reverse B47 J22 C38 I69 U1 , G2 A51 C64 F87 , prepend copy copy F94 P71 G36 T18 Y69 , H27 Z22 N8 O40 T66
+shift shift copy copy prepend echo E25 G73 D57 H96 K60 , shift Z6 E90 A13 O100
+prepend echo prepend U45 C39 U84 R41 Y79 , G17 D75 E53 U76 C90 , Q11 Q5 Z93 T30 W16
+append prepend copy echo T97 P10 S47 L72 R77 , append shift G9 L35 E72 U36 L22 , copy M88 L56 I60 E11 H44 , copy shift R52 V78 K64 F1 N55
+prepend echo echo reverse prepend copy echo T91 F48 W67 F37 , reverse shift prepend J15 O40 H53 Y84 , H69 J60 C38 E50 , echo shift echo reverse copy X32 H72 V45 R97
+append shift shift reverse Q61 U77 T53 Y52 C79 , reverse copy copy N54 E31 A6 M69 D2
+echo echo copy echo echo append copy L59 Z13 I90 Z58 Y72 , prepend O1 O1 A39 D17 S15 , T30 Z81 P52 V48
+echo prepend copy echo C72 N85 E59 I47 P94 , copy copy E70 M35 C5 I64
+prepend echo echo reverse prepend shift Y4 R65 W74 , L3 Q95 A15 X12 , shift L96 C63 F22 Z16
+echo echo append prepend B29 R42 E35 M88 J35 , prepend P98 K38 C16 H72 , P38 X49 H39 , echo P36 K4 S84 Y5 U52
+append echo append Q19 Z19 J17 A55 M13 , reverse reverse echo D90 Y56 U48 K32 , shift append shift reverse echo echo reverse copy P36 N26 I66 , reverse J58 P39 K14 B24
+prepend copy reverse shift Y47 F51 M9 K32 B100 , reverse echo echo C27 Z13 K96 A77 S86
+prepend append M20 V5 W85 P14 Q1 , shift M29 V3 T30 W74 , prepend reverse X71 X95 L90 A90 T39 , reverse echo copy B29 Y2 C88 D78 B11
+echo echo prepend I75 W71 R100 Q88 , M24 U68 L80 Z20 S22
+reverse prepend append copy echo R78 A53 W11 A73 I71 , copy echo copy append N12 Q1 P11 R5 , R17 O64 N36 U38 J34 , M52 H40 P24 U57
+append prepend copy copy echo K53 Y5 Z88 W30 , copy copy P97 J68 W6 M67 F38 , J21 H13 M49 B70 D21
+prepend echo echo R19 C51 V20 L93 G84 , append copy W3 G21 L76 Y60 X1 , shift shift reverse J66 I57 O12 X67
+reverse reverse H14 X34
+shift prepend echo copy copy shift L49 P73 I51 Z25 M10 , reverse copy prepend shift copy X36 R93 Q14 S75 Z97 , reverse D19 L89 C92 F5
+reverse echo shift A8 Z69 L67
+echo echo reverse T12 E93 W77
+echo reverse X44 X42
+copy prepend reverse copy echo L89 A91 T5 P48 , append shift Q17 Y89 N48 O46 , I12 C23 A89 K72
+prepend echo copy reverse echo T76 W9 J99 V63 , copy copy echo shift shift K14 J73 H6 I50 A90
+prepend copy prepend copy prepend echo C99 T1 W49 M83 , D35 X32 C34 V23 R26 , shift reverse copy reverse V56 P21 V91 B94 K83 , D35 O1 H93 K67 Q2
+echo shift append copy reverse Q63 J96 N3 I21 , S31 C25 O61 D84
+copy append shift R40 L81 I41 E65 , D96 S49 Y30
+echo R74 R72 R26 D70 I21
+append append K62 F37 J81 K97 C31 , echo echo reverse shift D89 L14 C62 , reverse shift H1 H67 O94 T59
+prepend shift echo shift W45 F43 M13 N44 S49 , echo append copy M42 N64 S10 S78 A98 , copy K96 M48 R50 U58
+append reverse append C27 S18 R73 M68 P48 , C45 V32 S50 F97 V49 , P78 Q16 G38 M100 X49
+shift prepend T2 B71 W36 Z38 F17 , W84 F57 S56
+reverse prepend M67 V73 F15 , reverse D68 K46 H38 R100
+append prepend F6 T84 J21 F1 , reverse shift U41 Y97 F85 K88 , R45 H54 V84 C14 T61
+prepend reverse J11 D68 A19 O23 , echo V56 N62 U67
+append reverse shift append prepend append shift N48 V46 S22 V4 Y35 , Q20 V46 G45 Z24 , copy E32 D35 K27 , echo copy prepend U91 V3 W39 I32 , K95 S19 Z65 S29 , I64 O51 B6
+append N41 X99 R54 T88 P66 , copy append A37 N98 X79 G43 N63 , D87 U29 R37 R64
+shift append T72 B9 N14 M10 K10 , copy echo D18 D49 U92 P34
+append reverse reverse copy reverse C92 F75 N77 Z76 Y7 , copy echo shift copy copy H69 Q68 S59
+append U2 K11 R3 S51 F14 , reverse reverse A35 E26 E80
+reverse reverse Z8 X2 Q1 G91 L59
+prepend echo append R9 I68 G58 E99 , reverse echo shift X85 H44 S13 L94 , copy shift reverse shift H14 A80 G24 B42
+prepend append copy shift B30 N82 U86 O44 P33 , echo shift J92 V87 R46 X74 E37 , reverse A64 T37 X26 I46 V28
+prepend shift echo shift copy B20 P35 I97 U64 F83 , reverse copy O46 V48 C33
+prepend S98 H50 H8 C54 , echo append append echo P4 K67 I69 P53 , shift C96 S65 I91 X55 U4 , copy F93 G100 X59 H85
+copy prepend copy copy prepend G44 D75 V32 , shift Y37 X2 B35 , echo shift echo shift X20 J13 U60 S74
+append reverse reverse shift B41 O81 C79 Y58 A87 , reverse shift copy echo S92 S91 J17 A68 O99
+echo Q26 T48
+copy echo append Q70 B95 U44 , shift P51 O46 F18
+shift prepend copy copy prepend shift echo N13 R62 P66 , shift reverse prepend I59 P15 W22 A92 C11 , K42 M3 T28 C29 Q18 , shift shift copy copy L91 Z38 P34
+prepend shift prepend G5 N3 J97 X68 , append U69 D35 T49 K3 , Q67 I31 V56 K29 , reverse R90 D37 Z27 D56 U98
+prepend copy copy T37 I60 W37 S97 M89 , shift Z72 P77 F34 P37 J44
+shift append echo shift I28 A23 E81 K15 B11 , shift C19 I58 V79 I83 W48
+echo Q3 H48 W99 Q25
+echo shift append reverse J72 C74 N21 Y95 , echo reverse D32 Y58 S57 V95
+append shift D52 W100 E83 U23 , reverse P67 D5 T8
+prepend reverse echo P22 F31 F6 C28 T93 , shift shift copy echo echo L100 H61 V12 O47
+append reverse copy S5 B39 V65 I31 , prepend echo shift copy echo reverse A19 T4 N52 , reverse shift reverse append C93 Y70 V67 C73 E80 , I6 M63 A35 F16
+copy append echo shift shift copy J8 G5 K11 C71 , echo reverse E14 F19 K71 X98 I85
+shift prepend echo reverse shift shift T11 E21 G32 K35 , copy append copy shift O14 C14 P94 F58 , copy shift J16 B12 Y69 Q33 D53
+append P75 V51 X81 M62 N24 , append H73 U31 S95 G38 K6 , shift echo reverse H47 P60 V19 R39 M87
+append copy append prepend prepend echo echo K80 E47 P61 H13 , shift shift copy A26 J90 M70 H87 , L29 N79 T26 , echo copy Y68 W86 O50 K17 , Q6 T44 O91
+shift reverse reverse prepend shift B87 W73 R2 H90 R45 , prepend C46 M53 X97 I81 , shift A68 Q79 A61
+append copy Z25 Y81 Y88 U11 J8 , echo shift append reverse Z70 S50 K46 J85 P67 , shift V88 G70 S95 V97
+append prepend reverse copy copy copy F86 M23 U44 Z71 L18 , shift E5 C40 X70 L14 G85 , shift Y50 W92 E41 I61 K100
+append copy append V99 G43 R81 V8 T40 , shift Q60 F60 H66 , echo N4 R95 C18 R22 I5
+reverse echo prepend echo H5 Z44 V52 C7 K11 , shift I14 C84 W62 Y34 W53
+copy reverse echo C9 E85 F14 Y6 R62
+prepend prepend echo copy L85 B5 L12 Y3 , I56 V38 G53 C57 , I93 E34 F60 Y16
+shift prepend copy shift copy L10 D36 T42 Z47 , prepend Q73 J86 Z35 J37 , reverse C31 Q10 J26 W30
+prepend append reverse copy T41 F18 L36 Z66 D40 , append X92 C9 C56 H4 , reverse R41 T89 Z52 N98 F90 , echo echo A46 K99 E79 Q73
+copy copy prepend append shift Y81 X100 P5 , copy copy S67 G6 B92 , echo L58 O34 F13 C12 C22
+append shift echo B26 U92 J45 , X8 B48 K8 F3 C17
+prepend Z60 I72 J42 R18 , reverse echo E7 L2 C29
+echo copy copy A32 Z80 W58 E43 L94
+echo prepend V96 E100 N39 , U67 E25 G32 L72
+append copy echo shift G74 C40 H59 T42 O74 , echo A6 U57 L24 S36 G16
+prepend copy reverse M33 E48 S71 R82 S31 , I41 L69 W5 M3 E23
+append reverse prepend shift T75 T90 W85 , D35 R29 C39 , shift N80 S96 A74
+reverse shift Y99 N89 E61
+prepend shift copy reverse Z91 Q3 O36 , prepend G88 E86 R35 R5 A21 , shift M65 Q11 G31 Y93 Z72
+copy prepend reverse echo W94 J9 H91 T54 P87 , J70 X79 R18 Y87 C97
+shift prepend shift append P31 A23 I18 C55 A65 , Z39 I28 S93 R86 O28 , prepend G60 P80 A85 D88 , copy echo V63 H29 P23 N60
+shift append reverse shift X49 F58 C70 , Y69 V41 I44
+reverse reverse append M85 W4 H50 , N18 E7 Z98 D14
+reverse reverse shift W10 F50 P45 D75 F63
+append append copy H33 L50 R27 N6 , reverse Z99 T48 R59 X29 , shift Y21 B92 D6 N8
+prepend echo K94 H70 J86 M56 G76 , echo echo copy T90 F79 S65 Z85 D11
+shift echo Q43 L68 S20 B20
+prepend append copy R69 D91 V57 Z78 , prepend copy W3 D71 I66 W16 , G88 X38 O78 V94 , C27 W91 Q100 K47
+prepend prepend shift Z65 E92 X90 J75 , reverse P44 W65 B64 G53 L63 , C61 R30 U1 X13 N36
+prepend reverse N17 K53 A69 , echo N90 D73 E78
+shift prepend copy F74 W4 P1 H55 E95 , append J38 B54 X32 L58 C50 , prepend reverse echo D1 Z63 E47 O30 , C8 A18 P5 Y79 B61
+prepend shift reverse H66 U66 P98 W14 F33 , reverse shift M19 G92 U86 X61
+echo echo prepend F37 B15 Y1 , S33 D86 F69 M67
+prepend append shift echo append reverse H30 B95 K86 M5 , reverse prepend reverse echo echo Y22 B22 S45 W54 Z76 , prepend copy G77 A14 R19 W53 S81 , reverse I40 T71 G5 L87 Z82 , shift U93 O35 S66 P33 F22 , append echo shift shift copy C87 V79 E39 F46 C65 , copy U46 H20 C76 K88 G98
+append shift copy reverse echo Q51 O40 C73 F18 , reverse echo prepend echo echo copy Q45 X33 E73 , append reverse echo C24 U96 N38 R84 , shift prepend I15 B87 M54 Z57 O7 , append J5 R88 S72 , N53 L26 I19 G15
+copy copy shift append shift D36 T13 O94 H50 , append reverse echo V58 W22 D29 J44 , W31 C73 X30 A34 A39
+prepend prepend Q83 D80 A54 R16 , shift C41 D92 W9 L85 H94 , X89 U64 D74 T74 F55
+prepend shift shift reverse shift prepend copy C4 V52 M24 K10 , prepend shift W78 W85 U5 O15 , echo D44 D20 E42 Z44 , echo A29 K100 Z37 U87 X20
+prepend shift prepend U57 G36 A50 X6 , copy shift C43 F18 A38 J43 , shift shift shift copy echo R65 E62 F29
+prepend reverse Y89 F64 F2 B30 E14 , copy append echo copy reverse H28 A41 K67 Y14 , append echo append I65 I51 W50 L74 P75 , Y96 C68 T44 R4 B51 , C13 S65 B29 A96
+prepend shift echo D63 F69 F37 N81 , R63 H4 X55
+copy echo echo Y48 H95 Y14 M24 N78
+prepend reverse shift O52 K8 C38 , H50 K8 T5
+reverse reverse append G50 X3 R49 D77 I44 , C97 R58 H25 Z19 D38
+reverse shift reverse copy reverse R34 X36 E47 V33 N7
+copy append shift shift append H80 J81 R36 , reverse Q41 X82 H39 , echo shift copy shift Q77 Q9 F54 V3
+shift reverse append shift C25 M45 N25 , M51 T81 W81
+reverse prepend copy echo reverse K69 T82 A32 X11 , echo U28 R15 Z83 G90
+prepend E99 B28 J7 , reverse reverse R55 R90 U65 X55
+reverse append prepend echo reverse reverse reverse Y39 F100 B25 , prepend copy copy shift Y82 Y86 F79 K78 , V57 N73 V10 , reverse shift echo B85 P61 I85 Y21 B39
+append echo shift echo copy append reverse W99 X31 F14 T16 Z20 , shift I92 A20 C92 A83 R25 , reverse echo copy shift reverse J56 G29 G11 C98 C2
+prepend append reverse A5 P24 K19 T49 , G35 O93 N29 X97 P79 , reverse prepend E70 P14 I18 N49 , F55 X8 R4 B90 Y73
+append copy shift echo Z33 P35 P30 , copy W73 S99 S22 G43
+append shift G9 U50 E58 C31 T45 , shift echo echo R80 J10 X93 Y74 X94
+prepend prepend copy V27 Q31 Y38 X30 I70 , A20 S40 X32 G26 , prepend I29 N91 E28 A79 , F9 W53 U60 N4 L95
+shift prepend append D25 S17 Q35 Z96 F64 , B56 L100 F80 V48 L88 , reverse L98 Z1 U4 M45
+append N78 W15 Q95 , copy copy K71 U40 X10 F25
+copy prepend shift P8 M10 N20 , reverse B17 A51 I25
+prepend prepend S73 Z29 R78 , R56 I37 Q92 J57 C69 , shift U48 K90 O6 K90 B41
+append copy reverse reverse B15 P71 U39 A33 , echo reverse reverse W85 X86 H12 N75 X82
+reverse echo L47 W56
+shift reverse prepend copy prepend D65 R14 Z91 Y13 W66 , echo C52 F40 R69 J67 , echo shift A27 X19 D17 P48 S37
+reverse append echo reverse F95 G88 Z63 Q51 , shift reverse B94 A7 B2 A84 I29
+echo append copy shift reverse shift reverse copy V52 T54 X47 , reverse shift append reverse copy copy echo Y42 G44 F72 M74 H16 , echo copy shift O62 W36 F1
+prepend prepend echo J62 C68 X77 E14 W91 , copy reverse copy shift reverse shift G74 R41 M16 F75 O53 , reverse echo shift append R60 Y81 R15 D15 , G87 M90 W97 L26 N5
+prepend echo append reverse B67 C67 Q37 M64 R3 , F43 M57 S17 Q94 N99 , append copy reverse S75 I93 R10 P89 U77 , shift shift I74 A34 A6 E62 B42
+echo reverse copy X10 Y63 Q27 Q16 X90
+reverse shift copy shift prepend echo shift V84 A5 E12 K39 A98 , append W11 S41 U60 Q50 , I17 B20 A15 U74
+append K32 U53 L56 V35 , copy echo K36 U58 K9 A99
+shift shift prepend Y78 C76 O5 U7 , prepend U35 O57 S19 P75 H66 , E53 W13 K59 G45
+reverse copy prepend echo append shift shift D87 I76 R29 , echo reverse reverse J6 S70 Y8 B39 , shift reverse reverse E57 X37 S36
+copy append reverse copy prepend O2 L44 N6 M72 , X73 V83 V62 C38 E80 , copy reverse P14 N97 T59 G37
+shift L67 A74 L23
+append prepend B9 E80 B96 H9 J54 , echo shift Z64 G46 K73 W39 , shift B36 U27 C23 L15
+reverse prepend reverse echo reverse Y17 Y56 C4 H95 X6 , reverse reverse S83 T27 X37 S84 J4
+shift shift echo copy prepend reverse D17 D77 Y42 B19 , shift prepend reverse R44 U64 X1 J23 , shift L53 J45 F22 B14 D84
+copy copy shift K89 B18 I39 R75 V77
+shift append L53 I7 C25 O81 B60 , echo O7 S65 E28 H26 S48
+append shift reverse F14 H46 Y25 P98 , echo Q24 Z27 J43 H10 U73
+prepend echo copy shift M51 X60 X1 I40 , P60 R25 Q74 K83 Y5
+prepend copy reverse I33 V94 W64 L92 , N26 I40 U31
+append X14 A44 I93 , prepend shift reverse echo shift B54 L7 P25 I18 Z81 , shift copy append echo shift shift P21 V67 M60 V47 K99 , I65 A91 W66 W62 L87
+append shift shift G74 B69 F80 U45 , reverse echo reverse D20 V49 A9 B44 H97
+append echo D13 D39 Z39 Y81 , copy copy reverse E99 Z24 B9 Q9 L72
+echo echo append U95 J97 A75 R37 E51 , G32 J85 K10 P5
+append U60 B74 B64 M88 Q19 , prepend reverse copy shift append W80 H11 Y50 H72 , Y78 O56 K43 I15 Q76 , append K6 C8 I46 O71 , shift copy Y25 P46 C44 W36
+append copy C81 D43 Q27 I74 R50 , prepend copy echo echo shift C100 Z10 R18 Y88 , reverse append F87 X13 G37 B45 , echo A22 H73 Q76 T93
+echo prepend copy copy Z43 M2 R12 H32 U27 , reverse B54 Z68 F11 X27 H56
+append Y6 N22 K74 Z43 W94 , append shift P89 N85 T58 G81 N85 , Y56 H24 W98 D60 S16
+echo prepend reverse shift V40 Y40 C48 T73 , shift echo J98 W19 D34 W38
+echo append append N9 M16 D10 U76 , echo reverse T72 H99 H53 F1 J97 , T45 F73 A78 Y1 F41
+shift prepend reverse H19 C29 B16 F56 T27 , I30 V12 Z38 H60 L21
+copy prepend append reverse A47 U88 M49 I56 , R46 E48 O81 Z96 O64 , F82 J64 E74 W42
+reverse copy N59 U83 N21 T28
+reverse Q21 R32 S99 U30
+shift append Q94 U11 T73 Q39 C99 , reverse echo shift Q80 A82 I77 W93
+echo shift append copy V78 G85 S92 C65 K21 , shift N90 B41 S59 L9 B3
+reverse append reverse K39 H42 R14 J60 I48 , reverse copy V85 X19 G43 P9 H96
+append V1 M4 W90 , append shift R63 B84 J81 , echo reverse shift Y5 H6 I69 V50
+prepend copy append copy copy P29 T21 V54 B89 , reverse shift append C97 C50 A15 J11 R20 , F12 P21 F5 F40 , copy shift copy Q29 P88 U76 D19 W16
+prepend echo shift copy reverse echo C81 U39 S73 , append copy copy echo W92 F39 O16 D3 L59 , reverse L54 P63 M43
+prepend shift D94 J80 M25 C26 R10 , echo shift echo Q22 L97 G81 E98 H13
+shift append prepend shift shift copy reverse echo reverse C91 G99 T30 , append shift reverse copy V66 F50 H17 E72 M10 , shift D51 A65 U97 V59 , copy echo copy shift echo echo shift echo echo X8 Z50 X95 S36
+echo append W82 T9 Z33 A86 I49 , prepend reverse reverse S41 R77 A55 B94 X100 , echo echo Z65 Y17 A69 N95
+reverse copy echo O24 Y97 J23 I18 R82
+echo shift prepend G23 K90 R38 O38 P85 , I84 U73 P9 P22 V87
+append prepend reverse prepend shift shift K40 H56 Y59 A18 , copy prepend reverse echo echo L57 S65 Z42 L81 , echo F91 Y92 S48 X80 A85 , echo copy reverse G84 F52 I39 S13 W28 , I47 J36 Y82 R60 G51
+shift reverse T71 M62 G79 W84
+prepend reverse copy reverse append G88 X60 M91 Z37 W41 , P91 W54 M74 W4 , H59 S40 J12 F90
+prepend Y57 P51 V33 X73 O55 , shift prepend N51 V20 W56 X38 J34 , F88 Q98 B30 M57
+prepend copy copy reverse E42 K55 O36 J67 , copy echo shift F19 F93 B9 V34 V74
+copy shift prepend E8 A79 Q51 , reverse copy shift N83 Y78 I20 X91 A3
+echo reverse D28 C16 J8 G67
+append shift shift G89 X63 B97 B59 M75 , shift reverse A33 T82 A27 D36
+reverse prepend I74 W54 P56 L71 P85 , append shift append echo shift echo reverse B69 H18 E29 L53 C47 , shift copy shift reverse R20 F76 W61 T72 K42 , V90 K32 L15 Y22
+reverse prepend copy shift copy echo S88 U56 X26 , shift echo append echo W55 J73 M25 E48 , T81 L50 F42 F35 E41
+append echo reverse reverse U53 E67 Q13 T76 Z2 , echo copy P61 J74 I18 K95
+prepend echo copy R7 B6 W43 O93 V67 , O42 L78 Q5
+copy shift prepend A82 J72 U47 W50 , echo reverse prepend J55 B64 F90 J70 , prepend I47 X18 S29 I36 Z48 , K13 L98 B59 N14
+echo append Q49 G65 B59 , reverse G85 X40 Q26 O79
+reverse echo H21 A60 C77 I69 C30
+shift reverse A36 Q68 G17
+append prepend echo E38 Z80 S50 W14 , shift shift R52 V5 I24 C80 , reverse append append echo K89 I21 X26 S99 R9 , append T98 Q74 R90 E55 , reverse D91 C45 D28 K27 , append reverse K57 F92 D67 P74 F11 , R41 U30 U60 T33 Y63
+append shift I70 P47 C26 J25 U19 , shift reverse H52 Q69 N29 K90 Y3
+prepend S78 V26 F39 G41 , append prepend reverse T64 D56 X52 Q61 J20 , echo H3 B26 C67 F38 , shift Q100 T68 Z70 C87 M68
+shift echo prepend R43 L18 R49 Q13 , Y51 I67 W34
+prepend echo P21 I15 Q80 B60 X87 , shift copy prepend shift Y41 W41 P51 S60 Y34 , reverse L56 R16 P31 H44
+reverse shift reverse R19 T73 H56 R16 P40
+append echo copy append reverse echo V12 K30 K37 , Y81 H70 I26 , reverse append reverse reverse D55 I16 R75 Q4 J23 , copy shift J21 W78 J13 E7 B22
+shift shift prepend echo L1 T21 R4 P30 , Y29 Y53 J89
+copy copy reverse reverse reverse append echo L50 M92 P3 Q25 I4 , reverse G23 G91 D35 U55 Z20
+append copy copy shift reverse K34 V60 G18 , Z8 Y94 W90
+shift shift copy C64 Y11 P20 I52 C50
+append reverse echo echo B100 B31 U9 , echo prepend shift copy B30 G27 Z24 X92 E45 , J18 W43 H54 M71 N4
+copy reverse append copy echo C20 D34 W54 L32 , append echo reverse shift Z18 U89 D27 , copy shift echo C23 J25 D89
+append append F14 A69 E32 H26 Q38 , X13 J23 D58 L15 , reverse shift prepend reverse copy G60 V26 A39 G67 T90 , K42 R61 J45 I94 X64
+append append T45 B22 H44 B81 D62 , N25 N26 P70 A7 , shift copy append shift reverse D72 N19 D10 C62 A17 , H5 G70 V30 Q73 X87
+prepend prepend copy Q87 V84 O77 R31 , append shift T34 L20 O57 T21 , reverse G94 F2 A51 M74 , shift echo prepend O59 H32 K1 O9 T81 , append shift N87 D31 C8 S45 , reverse D20 V51 U28 H5
+echo X73 J43 V23 Z67
+echo prepend shift prepend reverse copy reverse O95 R2 Y96 K34 , shift V82 L59 H14 A49 U61 , reverse shift K39 D7 M90 V8 I18
+append echo prepend D41 R84 P55 D71 , I59 C45 H37 A51 , reverse X87 S60 L84 S68 F47
+append prepend V89 M39 F7 R99 , R39 G81 R100 M90 , copy reverse D67 B84 D22 I49 Q84
+append copy E6 V4 A62 X72 R17 , P24 E39 T37
+prepend echo append shift U15 Z10 T91 N27 , copy echo copy P78 J16 L80 M16 O94 , shift copy reverse copy W88 J48 Z54 J43
+shift echo append copy append echo O59 J7 T64 , echo N4 Z52 L94 P16 , L30 E11 J72
+echo prepend shift append copy N11 X95 A9 R98 M11 , V67 N85 B39 Q61 , append copy reverse S66 O45 E5 L46 , copy shift append prepend F91 Q65 B84 O80 , echo echo prepend reverse reverse copy B47 V38 Q83 B77 , J21 H65 Y99 O85 R79 , copy echo copy K68 N37 M68 R49
+reverse shift prepend shift copy S70 V13 I65 X57 R74 , Y48 M99 S5 K17 L45
+reverse prepend prepend echo reverse copy shift M56 J6 P41 , append shift copy copy U77 W21 F18 P45 , V11 R66 H2 , shift reverse echo Z57 F51 L50 F92 A28
+shift O72 P24 W72
+append copy echo shift shift Z39 A60 C51 W59 C8 , reverse echo A45 J23 V77 Q3
+append echo shift T36 D76 W64 , echo reverse L32 M59 R48
+append shift shift copy reverse I39 G62 R5 U40 P27 , copy append copy Q26 R11 M1 S18 , reverse A59 P20 Y29 N19
+echo shift prepend prepend L94 Z36 Z28 E61 V76 , shift echo U16 Q16 L61 N80 , prepend reverse I10 P79 Q62 Q52 , shift P74 Z86 I10 K14
+echo append prepend echo S11 W26 T84 S6 , prepend S32 S32 R17 , S59 E52 P63 , reverse copy reverse Y38 I51 O32 W11 B49
+prepend R7 B64 W81 U24 C12 , append copy U10 W32 I82 Q54 , shift R54 U64 M80 Q31 F91
+append reverse append U75 I24 Z22 , A29 S12 P100 , shift F88 J26 D95 K40 V79
+reverse reverse append M96 K2 C71 C95 , copy A36 K59 A28 P43 L71
+shift prepend prepend shift B6 Z15 C84 K79 W21 , reverse copy echo S1 X5 Z52 Y83 P17 , echo B63 D12 V11
+reverse append append echo echo reverse Y49 S75 O94 X69 B9 , copy append R32 G81 R21 Z21 , shift K10 P71 O58 N60 J72 , shift reverse D61 E83 Q13 F95 G88
+reverse copy append A53 F92 P30 Y1 , C99 W30 H73 H88
+shift copy append echo C51 O4 N68 V98 A18 , copy Z61 Y1 J18 J100 R33
+reverse prepend echo H97 H1 A87 T9 C40 , Y99 Z7 Y27 O93 D61
+append copy Z37 S7 S73 H11 , shift reverse Y59 A20 F18
+reverse prepend shift append P99 S40 V12 , K68 X94 U17 , echo Z58 E38 U30 R80 E96
+prepend F68 V49 Z57 T28 , copy copy shift F96 B92 Z1 F79
+copy prepend echo R17 N15 K30 V93 G91 , echo B7 Z81 S68
+copy copy prepend V16 A22 I28 , shift prepend L89 T91 G30 Z32 P76 , reverse echo G72 I51 V90
+echo reverse I53 Z37 V66
+append shift reverse copy V32 Y37 Z50 I64 G60 , copy copy N41 Y79 J62 M86 L31
+append M42 Y28 J39 , copy reverse shift J12 J69 E93
+prepend E25 T31 Z3 , shift I11 N64 V30
+echo copy append shift prepend reverse copy A63 O58 T97 , echo copy copy T44 S72 M78 A55 , reverse shift copy L38 T62 I12
+prepend copy H3 P15 W36 , Y53 V6 H8 X20
+prepend copy append echo reverse H39 Z28 G49 Z52 , D71 T2 V100 , copy C6 Q75 V64 R61 T4
+copy echo append prepend P90 A2 X44 X5 X96 , copy prepend O3 T85 J93 L17 , E81 N66 T67 , append echo echo append copy A76 L89 Z77 P45 , reverse copy M81 E46 F12 T68 , D66 W3 J34
+append shift shift prepend reverse S98 G66 A21 , echo F82 P86 A27 , reverse echo echo Z50 V3 O9 Q91 Z60
+copy shift echo G14 I30 B77
+prepend echo shift shift Y34 J74 N49 , reverse L45 O29 C26 H45
+copy shift shift append reverse P43 R68 C10 S30 , append reverse shift M91 P37 P52 , echo H59 X83 I74 U20
+prepend prepend copy echo reverse Z26 F52 M4 G80 , echo reverse O51 X81 G62 L52 , shift echo S1 N44 Y26 Z67
+reverse J16 P91
+append reverse reverse F66 C6 O83 Y63 , G4 G3 I14
+shift copy K93 H71 C98 M97
+prepend copy shift X14 J93 A75 N17 , reverse N64 A38 Y5
+prepend prepend H18 G40 P2 H22 H73 , append echo reverse copy A88 X28 V36 H95 , Z4 F80 P81 C22 N83 , copy reverse copy copy N15 B60 F28 V70 Y94
+append reverse echo N37 E11 L14 F61 T55 , echo echo reverse P27 E91 P52 S49
+prepend shift copy reverse B68 I2 A55 L1 X58 , copy shift H40 P87 F16 E65 Y66
+append prepend shift T87 C79 G80 R76 G59 , shift reverse E8 O20 G63 K86 , echo S50 L72 O54 T5
+append echo echo A45 E86 P100 , E36 C92 X16
+append echo shift echo A64 O74 F19 K49 , prepend echo shift H58 Z70 L32 U10 X61 , R28 Z75 I32 R27 C69
+copy copy append reverse append append copy reverse G70 U29 B7 R95 O47 , append M81 S32 J77 G12 , I73 B85 T68 R11 , echo shift shift A60 M7 S78 U18 Y62 , reverse reverse reverse reverse T83 J10 H38 Z35 O66
+append reverse reverse shift R39 N30 A85 Q15 O8 , shift append shift D53 A71 S93 M83 U8 , echo Z91 P65 G97 Z70
+append append reverse T64 X90 K76 S32 Y92 , echo H20 O23 R89 Z45 M43 , echo reverse B59 D56 C83 L10 J33
+append echo reverse N30 Q21 B75 P17 , D49 Y76 B55 R12 Z20
+echo copy echo O83 B39 H71 Z16 T67
+prepend reverse copy echo shift shift O22 L48 Z52 M27 , reverse copy append shift reverse N75 C68 N95 R98 , prepend V67 U10 Q89 Z89 , G74 Z19 D1
+echo reverse reverse P4 E62 L18 P19 P56
+prepend append prepend append shift H51 Q22 A55 Q20 X85 , copy H80 M29 U71 H68 J35 , J63 U65 E96 C43 T4 , Y98 X85 K47 K30 , reverse I9 Y41 J23 Q72 Q51
+append reverse shift prepend B5 F70 D44 Z9 , shift K54 H47 V73 R97 Q89 , copy shift shift echo O72 K85 I23 F81 V81
+prepend H17 L64 F68 O58 , shift echo W99 H75 R94
+prepend reverse prepend copy copy U46 Z48 U12 X63 I50 , shift shift K82 Z92 Y4 M10 Z37 , copy prepend shift E60 Q48 D89 Y51 , prepend shift reverse echo copy D96 R89 W48 Z62 , copy F78 R64 R8 U64
+echo append echo append reverse H36 E4 X63 , shift echo R16 O42 W83 T76 , echo K27 Z90 G97 K60 C96
+prepend append copy copy Q22 O66 C20 Q18 T35 , copy copy L62 P69 D77 E41 J53 , shift reverse X10 R50 J64 G9
+prepend V27 F94 W4 , prepend copy Y15 D8 J90 , copy shift copy P71 J47 M41 W34
+prepend O88 I73 H27 Z93 , reverse append A70 S92 L7 K98 U86 , echo I65 U89 C97 Q32
+prepend copy A42 N13 C61 Q6 Z83 , append prepend reverse echo U92 H95 K42 O16 , shift echo Q58 T93 W88 L53 J61 , B33 V76 T44 B94
+echo prepend echo append R50 R56 E53 U84 , copy shift shift V51 F44 D56 J59 , echo copy echo reverse copy copy append shift T78 L50 G19 , F30 G24 U27 Y38
+append prepend prepend copy B78 O78 V55 C38 , echo reverse D34 L92 T94 X57 J49 , echo copy reverse V26 G60 B36 T82 , echo shift prepend reverse V74 A88 Z17 F41 N42 , B92 H38 H83 K89
+shift shift echo echo append copy copy N1 X55 O36 O41 W81 , prepend V59 U97 Q45 H93 , V61 L65 B22 I36
+prepend shift reverse echo shift K75 F3 , reverse L63 F58 V13 X43 Q73
+prepend shift reverse reverse shift copy T44 J26 D88 T27 G88 , prepend shift copy shift append shift shift H29 I95 V78 W21 , reverse U79 U19 D60 Q4 , prepend Z83 T39 K99 N99 J24 , reverse copy V67 K48 E24 F9 E66
+prepend reverse prepend V25 A89 U38 , echo shift copy U14 H63 D32 , prepend reverse echo Y43 F96 E25 N78 K35 , S39 T85 H35
+reverse M46 R60 Y60 V53 J64
+echo echo append prepend J7 M15 S48 B84 , W49 N85 V95 R42 , J48 E76 L52 B1 O18
+prepend prepend echo shift shift M9 P88 U75 G18 , J25 M5 T63 M25 O87 , shift append F44 X67 D86 Z72 , S32 L20 W50 P23
+echo prepend reverse copy U12 R39 C69 , T43 L93 H71
+append copy append T76 R56 B84 L46 C16 , copy shift echo F40 S61 D78 R56 , reverse prepend copy shift reverse copy reverse reverse Y37 J14 K89 , copy U11 F27 W53 W16
+shift append echo copy M5 X89 A2 P44 E2 , Q22 Q19 W22 R40
+append echo shift M48 C73 W19 C53 Q11 , H32 W80 B32 G61 X12
+prepend reverse copy V81 H35 P100 T97 , prepend M97 P90 X88 L77 , echo reverse reverse S22 G73 M34
+reverse echo echo reverse T68 F93 N20 B47 X95
+shift shift C31 E82
+echo copy V12 C21
+prepend prepend Z52 L59 G39 O18 , shift reverse reverse M61 E71 Z77 A71 L67 , echo prepend reverse U31 W17 O100 S20 O27 , echo O2 P70 K21 A23 C30
+prepend reverse shift reverse K45 P95 M37 , echo prepend E27 Q66 V37 , L26 J86 J57
+append echo prepend reverse B40 T100 T22 K78 Z52 , shift echo F55 O43 D62 , shift append copy echo U13 U70 O10 M49 S19 , copy shift shift shift echo J58 Z6 J92 G52 Y36
+append reverse shift reverse I56 E75 A36 F31 Z5 , reverse shift copy G29 K73 D17 M79 Q69
+echo append copy copy copy O34 K42 X70 G67 Q13 , echo append echo reverse P58 S72 Q42 H76 E86 , G20 A3 F35 J74
+copy prepend reverse echo O25 P7 U39 H11 , reverse reverse K53 N96 W38 L53 G43
+append shift shift Q54 A93 J18 N57 , shift B29 G45 Y69 J11
+reverse append copy N70 L17 B18 N8 , reverse Z85 O6 V71 Y74
+shift prepend Z76 X77 O87 Z62 C92 , U85 W80 C100 O75
+append copy shift reverse W84 B34 D64 B83 , append P88 T11 B18 S53 F68 , shift append Q22 Q17 S91 J98 D17 , P11 P43 T68 M71
+prepend prepend F73 L99 V13 T2 , N35 C15 T7 P19 , copy reverse F31 U46 V44 B98 V3
+prepend shift shift reverse copy X8 H32 R36 V15 , reverse echo prepend reverse reverse reverse Z81 Y64 X55 , append copy reverse D66 V22 E27 F69 , shift prepend J70 T55 R2 F61 H55 , append I39 Q40 E67 , C88 Y89 U90 Y61
+append W51 R86 Q59 , echo reverse Z59 I86 A8 L14
+copy echo append copy append E83 H42 R71 G18 G33 , reverse V56 P4 F21 H19 , reverse echo G81 V13 H41 G34 U97
+copy V64 U76 O63 E27 I51
+append M1 F66 X77 J22 , shift prepend echo A61 S35 A79 S95 , reverse E49 D49 L1 D32
+prepend reverse shift O76 B52 T22 Q74 , echo Z51 X88 O78 D71
+reverse prepend R18 H72 K27 L87 T64 , reverse W21 F31 O73
+prepend copy reverse U55 Q52 X63 C9 C30 , append shift G1 B48 S3 F12 K93 , copy copy A90 F84 Z93 D20 O61
+prepend append reverse shift copy F42 G91 W6 K57 C1 , append U18 L30 L45 , shift prepend echo shift I77 M33 K23 , J50 Q62 K70 , shift shift reverse echo append shift B100 I39 W42 B2 S6 , echo reverse R67 C52 Y74
+prepend echo reverse echo S24 Y68 H67 M46 K71 , shift shift echo X1 J29 H84 N23 F47
+append shift reverse append reverse shift U64 F97 O30 E25 H89 , shift shift V84 L56 T9 E1 A18 , echo copy echo L51 I87 Q75
+prepend prepend echo K91 A25 R19 L68 , echo copy C87 X79 B45 Z89 C65 , append V25 W58 Y54 Z75 , echo B39 Y68 V76 O3
+echo append reverse echo T73 W1 S46 C75 A63 , append echo E58 E33 I98 T14 V94 , reverse A60 G79 F11 H11 L79
+prepend reverse append echo copy shift shift S1 S24 O47 P19 , reverse E22 Y15 L53 R75 C3 , shift shift reverse copy append echo S99 L97 F40 T74 V13 , echo shift reverse echo P55 Y19 P58 N82
+shift append D48 X20 Y59 E6 E72 , copy reverse reverse echo echo R91 T7 K40 Q30 R95
+prepend copy echo copy echo Z55 L7 T94 D10 W25 , append append copy echo O79 P23 O85 R44 , echo A34 R7 J41 H10 I25 , shift echo A19 E21 X14 Q29
+echo prepend copy shift F56 M5 N18 , copy prepend B31 I69 D8 E65 , shift C91 Z57 X13 W1
+copy append reverse copy copy V80 D15 V47 L94 C33 , reverse echo S8 U52 X17 X16 B32
+prepend echo copy O33 W44 C64 , M95 D37 M3 A26 Z57
+prepend reverse reverse reverse shift K13 O57 S64 X8 D95 , reverse reverse A49 X42 R5 W61
+echo prepend shift P53 D76 U39 U86 , echo A74 P61 A11 U80 L50
+append echo reverse B59 C50 P68 F22 , prepend prepend B19 L37 P39 X19 , shift G51 M72 B36 B36 N18 , echo echo copy B7 A24 L12 A97 O47
+echo reverse prepend prepend H67 A42 M70 V45 Q50 , reverse shift B30 I41 Y41 , echo reverse R90 I93 Z57 O34 Q89
+copy echo append append append echo X21 J34 V100 I11 , B49 C90 L3 , echo copy reverse G41 M86 K9 N65 , echo shift copy G2 R72 Z86
+prepend copy copy Q82 W16 F22 Z29 , echo copy T77 B15 B22
+echo echo echo append K1 W51 U56 , N48 H57 L13
+reverse shift D10 W44
+copy copy prepend copy echo X24 H98 C61 M28 , copy reverse copy Y61 N38 Y94 F5 I55
+copy prepend reverse shift O39 G77 R40 M85 , O93 Y15 Z67 R74 G33
+copy append shift shift copy echo O32 I49 R44 W100 T64 , shift copy append echo echo N58 K48 T58 V10 D98 , reverse I46 P71 U22 F67
+copy Y23 I55
+append append S58 T24 Z55 D69 , echo echo E93 I63 P34 N18 , shift copy copy copy echo O90 T96 W98
+echo append copy shift echo echo copy K1 S31 O25 O92 D64 , copy append copy append echo shift M59 F40 E48 C75 Z54 , copy C11 F68 W21 C27 , reverse reverse shift reverse H4 F40 E27 R46 C47
+prepend shift echo echo F83 H68 K16 V23 , echo shift prepend echo Q8 Y8 Y97 , echo I39 R100 G24
+echo append append shift U72 E95 O64 Q3 M70 , echo echo copy J72 D33 A9 L97 B14 , shift Q80 S94 Z35
+echo shift shift shift prepend B56 T17 N96 , P78 D32 L30 O86 S21
+prepend prepend copy prepend shift reverse P61 J67 L86 N75 , shift append reverse copy echo N10 J74 V7 E5 , echo S33 I50 W9 T43 I22 , reverse shift echo R48 H55 R96 J96 W53 , P93 P84 U32 P6 V95
+reverse shift R59 A96 M99 L66 Q81
+prepend reverse reverse L13 B70 E29 , T1 T86 P67 D72
+prepend append reverse A6 R29 D58 A100 , H31 V75 B96 R33 G88 , copy echo reverse R39 F31 R34 O40 N72
+reverse copy reverse D64 I49 R50 I1 Y77
+prepend echo reverse C81 X87 U95 S29 O41 , echo echo M99 A38 C60 Q59 B34
+append reverse echo V14 I54 I28 W81 F36 , shift echo W71 R85 N25 X33 R96
+echo shift append echo U13 Q46 C83 G31 , echo shift K86 R43 G3 J55
+reverse shift echo F37 J21 P8 P87 U20
+reverse append echo echo B21 C17 K95 , echo copy G36 C80 C49 X75
+prepend C22 V78 N18 , echo reverse append copy K53 F1 Q86 Q98 , H31 E98 E72 P34
+copy reverse reverse prepend reverse K52 A67 J6 P22 , prepend copy reverse L75 Q47 U4 , reverse I14 N88 H9 H100
+echo reverse reverse C45 N63 Q100 E39 A44
+prepend shift N5 Z61 X43 , echo shift echo C56 G97 I95 L77 M29
+copy shift echo J9 P7 B54 P84 Y51
+append copy echo J18 F63 G37 Q63 , shift reverse shift echo A79 G18 H8 D70 Q39
+append shift reverse reverse reverse K90 A84 G82 , O29 I52 R94
+append echo echo prepend copy H85 Y60 Q15 V7 , H95 W11 Q87 W54 , echo V44 S32 C47 V8 J52
+prepend shift echo echo P94 Z43 L96 W3 S10 , copy M78 X4 R65 D38 N84
+prepend reverse echo G30 L61 F87 M10 K66 , F45 Y85 N14
+append reverse append reverse prepend copy I29 L53 T65 P4 , Z55 W41 B88 I74 Y50 , reverse reverse shift shift C10 C13 X69 I70 U46 , Y81 P49 Y59 R99 U24
+reverse echo echo O83 M29 V40 N69
+append echo B96 I82 B28 Y91 , echo prepend prepend V10 E91 O54 U18 Q73 , S21 D79 J7 P67 , echo G40 Y14 P18 N19 C6
+copy shift prepend F23 I31 N94 , E35 W47 K46
+shift copy prepend X19 O68 X1 Z91 , G80 W93 Z78
+append reverse copy reverse prepend shift O98 U100 B53 V16 V86 , B10 B40 J28 O97 Q19 , copy copy append append copy B54 B94 K61 H39 N61 , A84 G47 L9 X8 O13 , echo shift reverse R100 D42 Y87 Q27 X42
+prepend shift reverse R42 M41 G88 , A84 N50 Q75
+append reverse copy prepend shift reverse E68 P11 L67 N45 , shift V71 C68 N48 K52 , prepend copy shift reverse prepend reverse R79 P45 C53 U23 , copy Y69 H76 A47 O5 J62 , reverse reverse reverse echo echo T24 R4 U98 W79 U91
+shift shift prepend reverse prepend R77 H32 Q100 N18 , W15 K62 R81 E63 Y75 , shift copy C70 I11 N18 H6
+copy copy L79 Z30 M10 Z17 D1
+append shift E46 E86 F88 C10 , copy echo echo Z37 F60 Y73
+prepend echo copy shift Y6 N40 D27 L13 G95 , copy shift prepend copy A12 W45 A6 A79 S97 , copy reverse U93 D28 X89 W15
+shift append echo copy F68 Y80 C80 G22 E29 , reverse echo D89 M49 L67 T31 W32
+shift copy reverse F45 S11 H30 E67
+prepend echo Y21 F17 W51 D73 P23 , echo prepend append prepend V34 H97 P100 M59 S2 , U40 F65 R88 H61 , echo prepend copy O35 J94 N42 V35 U2 , Z2 L23 F99 U73 R40 , V31 R73 E81 F70
+append shift reverse shift B47 J89 A44 R82 M96 , shift echo reverse copy echo copy V59 D43 V62 T68 Y43
+prepend reverse copy prepend copy E15 T85 B82 , U69 K77 G44 , copy reverse M82 Y19 E3 H51 R80
+prepend append V62 B21 B13 P18 , D98 Q9 P67 W29 , copy copy echo G84 R39 A87 R53
+shift echo R51 P4 J28 X76
+copy append append B47 Z74 H49 U79 E61 , B65 S40 X43 G72 , echo shift echo P26 K88 S21 F29 Q96
+prepend reverse append V32 J36 O47 C62 Z19 , E15 X29 Y45 S73 E81 , prepend I84 W11 P9 C7 , M70 Z34 Y85 D64 O6
+copy copy I63 S8 K42 A74
+prepend prepend reverse J68 F64 J16 , echo U19 J43 S19 B24 , reverse M15 T26 U87
+prepend echo U58 G61 N92 S98 U24 , append copy S54 U86 J4 A61 N17 , D9 M68 R37 L85 E16
+echo P10 T94 S62 W70 G81
+prepend reverse echo shift P40 D24 T22 A53 B54 , copy reverse B51 S4 C93 R51 M34
+echo prepend T53 A94 B45 , reverse reverse reverse P28 V53 O36 Z1
+echo copy H97 U77 K71 H42
+append append reverse reverse U58 U44 P6 T56 , copy shift Q53 M79 N25 M60 , shift reverse shift C95 G41 T9 F54 U8
+copy prepend shift shift R50 G92 W86 K86 , shift echo B56 Q99 O4 P19 L3
+shift append prepend echo echo F65 H65 E69 , echo copy echo W59 V73 Z6 , reverse B62 X87 P41 F40 Z83
+copy echo echo I46 R51 P59 H78 E95
+shift copy copy copy append H50 X25 I33 , A95 H97 X47
+append echo G5 X96 B98 , reverse copy W21 Q11 A26 F3
+echo shift prepend B63 J91 U34 , U5 Y35 O89 M7
+append append Z12 F33 K11 D49 X44 , echo echo M17 A75 J26 I66 Y80 , echo reverse copy U70 S4 H75 W74 H43
+echo echo append copy E27 U6 T82 , copy K40 R44 P46
+prepend echo append shift G7 F11 C16 N44 C37 , copy copy I73 W62 E98 , H15 F46 D21 O37
+append echo M15 X35 Z36 W89 K92 , echo append copy shift prepend Y2 G75 M12 D93 , shift reverse I9 Y46 Z10 R59 H68 , reverse reverse reverse reverse L80 X94 G47 T100
+append shift reverse B41 T18 L87 , P96 Z40 B42 J36 J21
+reverse shift shift echo J25 O48 W72 Y97
+shift copy prepend M66 I2 K85 , shift J15 B15 M96
+prepend append copy shift J34 W99 R70 R3 J10 , Q70 V33 N100 F56 , reverse M53 H70 C15 G76
+copy reverse shift Q82 R22 Y39 T11 B22
+append prepend copy F89 S98 E92 J84 , K48 S42 D56 W84 A30 , shift shift copy M14 W68 K17 A100 C40
+shift shift shift append reverse echo echo echo copy append H54 K15 X7 , S48 U74 P16 T1 I36 , prepend C22 H70 G87 Q42 K82 , prepend copy K53 Y9 T40 W97 , M76 B39 Y77 U62
+prepend copy reverse copy Z85 H6 W53 , shift echo H45 X65 Y11 Q69
+append copy reverse A67 F7 A100 P35 T19 , echo reverse Y69 O86 V32 L23 O47
+prepend shift append shift shift X12 C47 R95 P31 T25 , R67 Z93 L80 V16 N58 , prepend echo copy copy W27 Y19 M98 G22 , echo H100 P28 B100 Z33
+append copy reverse reverse copy copy J10 K10 U46 , echo copy reverse prepend copy W90 S95 C82 , shift reverse copy reverse E33 L71 T34
+prepend shift reverse shift W71 R9 O59 I36 M68 , copy O47 B26 W96 V42 D7
+copy prepend echo I25 B25 M98 V41 , prepend Q94 L17 X2 H50 Y43 , append J14 Q54 X15 F13 , copy T33 T93 U78 D17 O84
+append reverse append copy prepend Y75 R94 O34 N70 , O62 E75 E91 G64 N56 , reverse echo O96 W78 Z95 G29 T19 , echo shift append echo P81 W55 D84 Y46 , U56 Y68 X44 D84
+append reverse copy echo U58 D27 Y6 H98 , prepend copy copy B90 A58 O97 P88 K66 , echo A88 R78 K19 F53 J2
+append shift shift copy echo K41 R76 O54 F24 F45 , shift append reverse E52 Q45 Q9 X21 , echo K20 V97 N71 Q56
+shift append reverse append U29 S7 Q55 T60 S71 , copy C78 X46 X37 R56 E60 , shift echo reverse Q70 N34 U88 J47
+append append reverse reverse echo append reverse shift copy S76 P87 F43 U93 Z59 , copy I87 V94 M69 , D59 E45 A56 O28 , Q82 Q9 F64 G63 W48
+append copy shift echo N28 A24 P93 X93 , append reverse copy shift shift echo copy C63 P3 Y72 T59 , R57 G99 V17
+append prepend copy reverse append Y51 N61 A79 U29 F89 , Y97 H98 B48 H15 , copy Z65 G1 U71 B83 , copy echo reverse shift D57 H20 C7 D87 W80
+prepend copy shift S72 G19 Y19 E80 , append F31 F94 W87 J13 , copy reverse E9 O36 E2 U70
+prepend shift J14 J13 F19 , echo copy V87 Y16 G99 I19
+shift copy reverse prepend Y87 T13 S78 , copy shift reverse echo O34 X88 V28 O27 I82
+shift shift copy copy echo Y30 Z43 P24 W81 Q62
+shift echo append copy C68 E94 P56 V78 J22 , echo copy reverse W72 P63 N58
+append echo copy I2 S11 Q40 , copy H14 I67 L35 H48
+append shift echo copy O75 H25 B44 Z50 V96 , append copy M35 Y68 W48 , reverse J18 I60 Q13 Q32 V16
+prepend echo shift reverse echo F99 W48 C48 , echo reverse T64 S91 Q32
+reverse append B84 Q1 R67 I14 , echo K57 U49 C49
+prepend copy reverse H60 H46 P45 E35 Z44 , copy reverse K54 S97 D97
+copy append echo copy E19 F7 Q64 V27 , prepend Z37 N73 Q66 D42 Y97 , reverse Y52 A22 K37 B14
+append copy echo reverse echo X79 U32 C5 , reverse reverse reverse shift echo O97 H66 W50 B69
+reverse reverse prepend T52 E2 P62 O84 F29 , W94 W34 T85 I93
+shift append copy B42 X4 L50 , copy echo prepend copy T20 J100 G99 A23 , shift B16 O14 F78 R73
+append reverse echo S15 K85 F9 I97 D85 , copy reverse S1 M63 G24 C43 X66
+append copy reverse H42 T66 , shift E54 O30
+shift copy shift F28 H19 T20 P12 F58
+shift append M5 P49 E100 , copy echo echo reverse W74 B49 W7 M60
+copy echo prepend copy H41 X37 M81 R61 , echo echo echo J13 T17 Z68 M16
+prepend reverse echo copy K38 F54 A63 , shift echo copy echo S85 N18 A99 V38
+echo append copy reverse shift Y38 W22 M27 , shift reverse append W94 M62 R71 J22 U4 , F35 V73 C63
+shift reverse echo D84 R82 H42 R37 Z39
+reverse copy J32 K1
+reverse append copy echo shift prepend shift F17 X22 J15 G80 M3 , reverse echo echo shift shift I77 Z94 O92 X20 , echo echo reverse reverse reverse copy copy echo W49 R50 U3 V2 V45
+prepend echo copy copy reverse N43 Y52 R32 P64 W91 , reverse echo shift I98 R60 U46 T96
+copy echo reverse append reverse Q72 N92 G86 X48 , shift N96 M95 H62 G98 O55
+shift prepend append echo reverse echo U67 P13 N61 Y73 R69 , copy D7 E66 D53 C50 M24 , M51 Q12 D74 X87 N70
+shift prepend append echo prepend C70 D44 U42 C97 , copy T71 K59 V82 Q30 , echo append reverse J52 I64 X23 N27 , E63 V82 F92 R3 V66 , echo B60 X89 K47 E4
+copy copy append reverse append echo echo X34 D30 A96 U51 R65 , copy copy reverse F84 L17 Z37 , append copy reverse D52 Q34 V5 G64 , echo reverse Z51 U73 S59
+append prepend reverse W69 I17 V71 P71 , shift shift O69 Z80 Y42 G75 Q22 , prepend copy B65 J24 V95 H20 , Y77 V19 C73 B7 L99
+copy prepend reverse B91 C25 M37 W28 T20 , shift echo A10 Q8 F45 K88 X60
+prepend shift shift R42 L95 F91 Q99 , reverse prepend U96 H69 R13 R21 , copy K77 T16 O11 E51
+echo echo prepend shift K62 B29 W65 V45 W49 , prepend reverse F53 I73 E48 K65 Z94 , Q6 M51 D28 Z35
+shift append Y38 W60 N15 T13 , echo echo reverse prepend B11 A16 T89 T61 G13 , copy reverse X28 L90 K53 A51
+copy shift append O49 J33 T34 G68 X93 , copy H74 T69 S6
+shift append B76 C59 F48 N53 , shift K58 Q26 P63
+append append copy copy copy V82 H66 V52 C24 , echo S87 W99 U89 A64 , reverse reverse reverse X7 U48 C88 A14 K40
+echo prepend L84 Q58 H77 T89 P46 , reverse append B50 U75 W12 S71 , reverse reverse J62 N93 D38 B4
+prepend append reverse copy reverse copy I84 U81 E15 , copy V77 B4 L28 D53 A4 , copy M55 T83 K31 C17
+copy prepend reverse append N14 W36 V86 O53 , echo shift copy N60 H34 W71 P59 , copy copy shift copy copy echo prepend shift Y96 W59 J39 , F92 T34 A82 R6
+echo append echo J57 P77 E70 Q4 X85 , echo Z25 I70 Z47 I79
+prepend reverse shift echo E29 H97 L31 S26 , copy echo echo P15 Y72 N96
+reverse Q43 I78 I16 I5
+echo shift copy append prepend shift I10 I53 T2 , reverse N23 Z50 J55 T2 E30 , shift shift V6 E31 Y45
+prepend shift reverse T22 V25 B5 S52 , append I91 U59 C86 X21 , reverse echo echo U48 P13 S92
+prepend prepend O25 J37 U20 C51 Z92 , A83 M18 C93 , copy echo echo reverse echo F79 J38 V46 A17 V58
+append F54 A48 J12 , reverse shift B50 V63 T64
+prepend copy U8 E8 P77 , shift echo H83 U90 D8
+append echo append Y95 P8 N21 B100 , echo shift echo J33 N15 Y36 N4 , echo shift copy reverse F15 B36 C90 M35
+prepend echo append reverse echo R49 K89 C50 U24 Q37 , copy reverse A63 O57 C21 D5 G35 , reverse append append L51 F60 N28 Y97 W27 , copy echo K7 X3 K94 Q1 , reverse shift prepend M88 C1 G16 J35 , Z52 E10 R96 S21 V98
+reverse append reverse shift copy T25 I17 C13 L56 , reverse echo B78 S43 B70 J75
+shift echo prepend shift copy reverse shift L13 I6 Y18 E30 V62 , append J90 W27 T31 , shift prepend U18 U2 E93 I42 S88 , shift reverse Y60 S54 K56 Z3 F78
+reverse echo P49 Y46 A92 Q67
+reverse shift U2 C2 L82 B32 A60
+prepend reverse Y7 J95 H38 S59 , append echo F40 S80 R15 Y28 , prepend echo G66 L55 I79 P27 V73 , reverse Z81 G34 C10 U80
+append G76 N69 O59 W35 I2 , append shift reverse copy D11 D30 E68 G59 , copy reverse echo Q100 U43 W12 L94 T52
+reverse reverse shift copy R46 T25 D99 F4 D37
+shift copy append copy P100 L95 I6 G38 A74 , I89 B54 Q84 W97 X2
+prepend reverse echo copy copy G43 W45 C44 W100 , append prepend copy echo copy reverse copy R61 E66 D48 X52 Q50 , copy append shift shift R6 Q94 Q94 G52 , echo R81 L47 T83 J63 J44 , L34 G20 Q70 T65
+prepend C53 U89 V86 I21 Z12 , reverse echo prepend L15 M91 R40 W54 , copy H73 J35 L47 Y26
+append reverse prepend C5 P24 G39 , shift echo U17 F25 F98 , append prepend B52 Y91 X86 K27 , S34 T35 W57 , echo C86 P35 W32 O33 B25
+prepend echo Z23 K81 O48 S66 V37 , reverse copy shift C41 I29 A81 M97 N96
+append reverse shift reverse shift copy prepend V17 P60 J32 W39 V28 , B71 R71 Q64 Z83 V16 , echo Z63 L70 B44 I74 A69
+shift copy prepend append S50 V7 X29 A82 K98 , shift reverse D54 O89 C45 X93 , append copy U7 Y92 N80 I27 , copy R87 P53 N19 Q74
+prepend echo append echo echo A68 O84 Y80 D48 , append U26 P70 D37 Q49 , copy Q5 T80 J57 W11 , reverse copy reverse L53 M7 H89 J13
+shift prepend append S71 L60 R66 H47 M51 , Q91 N39 E70 X92 , echo shift reverse S100 V94 K32 I16
+append append Y38 C59 B23 Z26 , shift shift reverse R89 D2 T7 K90 A92 , shift W12 C67 X37 Y2
+prepend append echo copy copy L81 U54 A70 , reverse reverse copy C94 S60 I54 Z19 D16 , K55 W74 D40 I47 E89
+prepend append echo echo reverse copy shift X1 D63 Q63 Z34 , shift T88 B65 V7 L11 , K46 O72 G89 W46
+reverse copy prepend S25 K83 T95 Q87 , prepend V13 U76 C22 A89 F19 , D100 R30 E24 S11
+echo reverse prepend shift echo shift E25 R48 F16 M55 , B21 R46 X47 T9 H74
+reverse echo copy echo prepend O78 Z87 S33 , G35 Q83 B83 Z83 H4
+prepend prepend shift E73 I3 A84 X75 , shift echo reverse echo R9 C61 V43 , reverse copy M92 G47 M39 K13
+prepend shift copy X4 R53 Q15 N96 M20 , copy shift echo G77 K37 Z15 G23 I28
+shift reverse copy V33 H6 X72 A67 J3
+append shift shift echo Z74 X45 F44 H73 Y22 , copy echo shift echo reverse echo X69 O7 N93 E80 R35
+append shift shift prepend echo shift reverse append N68 F34 S42 , W96 X96 O82 , R31 W98 Q64 B51 I60 , shift M82 A60 K70 X72 L8
+prepend shift prepend echo echo E69 P83 G26 Q81 , copy reverse append P78 I57 P83 I75 W13 , Z66 M9 K27 Q3 , copy shift shift V67 F47 G83 R90 Z79
+echo append copy shift H56 O31 Z62 E80 J92 , copy O13 R13 W22
+echo append shift reverse G6 O27 C16 F91 , L47 L60 H10 T3
+append reverse O24 H19 O95 K56 , append prepend echo copy Q83 B64 P64 O81 N76 , shift J44 Q74 R11 O52 M37 , H14 R78 N70 C100
+prepend echo echo echo reverse reverse echo shift Q13 L57 N11 S85 , copy shift shift echo copy copy P98 V42 W42 W38 Q33
+prepend prepend A31 J29 F93 , echo V73 I51 M83 M4 , echo copy append echo T38 F15 G36 G10 E97 , Z91 T63 V2 A38 N9
+reverse shift B53 J3 X96 D100 O62
+append shift O5 T80 G31 J24 , L57 H58 R79 Y78
+prepend reverse Q45 V71 W32 L49 C94 , prepend reverse O18 H31 S97 N35 I69 , shift V94 O1 O41 K18 L75
+echo prepend copy J8 R85 F8 L94 B37 , append S57 X22 E8 E34 Y10 , append copy echo H14 K100 A43 N53 , D19 F42 J82 X22 B36
+reverse append N12 E91 T11 X59 E21 , prepend echo J91 S45 U88 B64 , reverse S73 B50 N49 N98 M56
+reverse echo prepend shift Q46 I87 L77 C50 , copy copy prepend U46 R46 I84 , P40 R97 V76
+prepend shift shift copy L7 R82 J18 , M5 G21 B89 B99
+prepend copy echo reverse X42 K94 K72 , copy copy echo Q2 K38 R77 D95 F32
+prepend append N56 N9 M20 G78 L85 , copy echo reverse copy U86 E1 I70 I77 , append reverse reverse shift G49 B73 O7 M20 M17 , M66 Y77 D24 J93 F7
+shift copy F42 Z54
+reverse reverse reverse copy K48 V42 T8 G87
+prepend append copy copy shift L88 V46 N100 , shift reverse shift E83 P28 N88 W80 G26 , H87 X39 V11 Q19 Y69
+copy prepend prepend V18 J26 T65 R80 M1 , reverse W78 L91 D97 U54 U74 , copy J91 D22 O11 Y31 Y48
+append prepend echo shift L74 N94 C68 D29 , V46 G92 R48 E94 , E9 Z70 K71 V56 T52
+shift echo G94 H75 T46 R56
+copy shift copy append shift M5 H44 M25 N49 , copy append shift shift S64 G8 D7 N8 Z95 , reverse H3 Y79 M97
+append copy echo prepend copy shift echo shift copy J28 O40 G24 , shift shift B1 C60 S60 Y35 I1 , prepend echo L22 D6 I49 S3 , shift copy reverse copy reverse Z88 S88 I67 O5
+append append reverse echo T76 H88 R92 P88 , reverse copy echo reverse N42 A35 X73 , reverse prepend G85 M83 H2 , shift copy U18 F11 M20 A76
+prepend copy echo reverse echo G79 T31 E3 S26 A36 , append copy H79 W56 L37 K49 , shift append echo K90 A40 B5 O51 B4 , echo R26 L23 R46 N6
+prepend I10 P23 A27 , echo O78 R89 X99
+echo copy S20 A23 F48 N73
+append append shift reverse echo R91 M38 S74 N55 , shift shift J32 I79 J47 D48 , reverse G99 B25 W17
+copy append Y18 Z61 E13 K52 D11 , U94 D12 B54 W32
+append echo copy I14 X4 X3 X78 T84 , reverse shift X73 P50 F64
+append copy append reverse reverse shift D93 A37 M43 D57 F1 , shift echo echo D11 O13 N47 X16 G10 , echo echo W44 Y34 E15 B81 B61
+copy append prepend echo O49 C21 J88 S43 Y15 , J56 V66 D44 R54 , copy Q93 Z76 E51 K58 U1
+copy prepend T68 L58 R88 O16 L35 , shift O36 Z30 Z82 H78 G6
+prepend echo echo O33 K85 B51 N34 O46 , copy copy L67 W5 R36 G55 Z60
+append shift shift V92 A1 C81 R99 N37 , echo prepend H69 K99 O7 C13 C96 , N66 X30 P32 J30 O92
+reverse reverse prepend prepend shift Z35 D77 E85 U10 P33 , shift append X81 A27 A15 I12 J100 , T86 M84 H95 L30 A32 , copy copy G64 M91 Y38 H60 O24
+reverse echo prepend E19 J63 D91 N75 , T89 R46 T46 F1
+prepend W20 H78 T24 E46 , reverse echo O87 U81 N89
+shift copy prepend echo copy reverse L23 S64 Y5 , prepend T45 A5 S60 T47 Q95 , F41 Y99 J68 Y16 C1
+reverse append reverse reverse S78 Y63 K79 I91 , shift U97 K19 G19 J79
+prepend echo reverse reverse reverse A95 L22 M7 K58 , echo echo reverse echo P48 G69 C78 G52 N4
+prepend reverse copy prepend echo echo D4 L68 O30 X43 M95 , shift copy D24 X40 V1 J25 X100 , copy shift reverse V95 F45 K20
+prepend copy echo G67 M22 O44 , shift copy echo shift Y77 J97 F29 R91 I21
+copy reverse W7 J80
+copy W11 R98 A53 G13
+shift copy echo copy append M17 A58 C91 , K63 L70 F6
+prepend append reverse copy shift A97 Z89 R5 K47 , copy copy T54 P48 X92 Z58 , shift copy prepend J16 C73 I90 W75 , echo M1 V63 M58 J87
+prepend shift shift Z89 Q40 S16 V33 Q47 , L75 S18 Y39 L89 N68
+append echo copy copy Z55 K36 I89 V49 , reverse echo copy reverse C62 J44 P100 G63 O52
+shift echo copy M82 B27 L63 S91
+prepend reverse shift append copy J47 W57 Y88 U6 , N36 X77 V10 R9 , shift L76 Y36 Y75 Y27 Q49
+copy shift copy Q43 P26 W37
+prepend M91 E53 J34 M12 , echo append shift echo prepend echo G19 T59 O77 , reverse U51 G29 M56 Y64 , copy reverse prepend shift reverse reverse shift Z14 N69 J96 B57 K9 , C95 R62 V15 S43
+prepend G37 C26 H88 W12 , shift prepend prepend L54 Z31 T49 C30 , I8 S83 M53 F100 , echo reverse H27 G46 J90 M28 W20
+reverse echo prepend copy reverse echo O45 Y83 G51 U63 , echo reverse P14 D12 A66 D83 R12
+prepend append copy L27 P58 A60 Y98 Z73 , copy G51 H76 R29 W46 T97 , reverse reverse D36 F9 H83 A84 X80
+prepend echo copy X44 R56 N83 , shift R3 R40 D79
+echo copy echo prepend reverse A48 B91 O9 , shift O9 Q44 R52 L84 R35
+prepend shift copy prepend copy K20 D92 W77 X1 , Q5 K16 F30 Y38 , prepend shift T26 Q27 X35 P8 R51 , echo T66 D66 Z3 I69 Q95
+copy reverse reverse K99 A65 Y32 M77 V32
+append append reverse copy append shift Q80 K34 S71 E7 P26 , echo echo copy Y15 V20 Q25 R1 , shift reverse copy J99 M25 M6 D1 H6 , G98 S58 L67 F39 N73
+shift copy G76 P66 R100 C9
+reverse shift M12 I97
+prepend copy echo S50 E43 Q96 R50 S54 , copy reverse U96 C4 W16 H34 T18
+reverse shift P77 X81 F63 L37 V44
+prepend A65 W43 H20 B37 Z29 , echo echo copy prepend shift U12 Q86 V91 A44 P56 , echo H46 P68 R55 H100
+reverse prepend Q25 C22 K30 , echo copy R66 U89 B86 J97
+prepend append prepend echo shift shift D69 G41 F19 G6 , copy copy T41 Q47 V7 F82 J62 , echo echo reverse U20 I22 H87 T60 , echo Y1 K7 L85
+prepend shift reverse echo H31 R83 M98 S44 , reverse shift shift reverse H24 K4 F62
+reverse shift V34 H14
+prepend prepend reverse K50 K17 T17 A32 L93 , C94 J46 Q17 E7 A87 , append shift M54 C85 S35 Y20 Y60 , copy shift shift U72 S26 J22 V98
+prepend echo shift shift Y64 P84 G79 M45 K6 , copy shift Z62 Z1 R55 D99 C82
+append append reverse copy reverse T46 Q40 B42 L96 , reverse N46 G94 P6 V87 , shift reverse echo F33 J14 P43 R26 J62
+reverse shift append F54 P34 I23 C61 , Z53 A66 X36
+shift reverse echo append prepend echo V7 Z2 E11 , echo F30 K17 X50 F81 X43 , copy echo W23 E65 B24
+append shift Q74 U52 T87 Q21 , echo echo M42 Z83 E93
+reverse append shift prepend shift shift reverse L90 Q23 Q86 A60 , echo Q87 U68 P10 I82 C37 , copy reverse B9 D3 N97 C76 O68
+reverse append shift echo echo O72 V43 , shift shift echo E31 L56 V35
+prepend echo reverse copy echo copy F92 G34 Y71 E83 , reverse append append echo copy N55 T31 R44 D66 , J7 D64 Y94 S97 N38 , reverse shift M58 L83 P97 B100
+copy append F61 M21 S92 F24 , V3 A34 H11
+append copy reverse echo Z49 U19 C58 , echo K4 B32 Q39 I53
+prepend echo shift H79 B80 H45 L36 , shift echo echo F61 Y46 O28 Q77 Z70
+shift append copy J58 G69 T46 W21 , reverse U1 U54 Q100 B35
+copy append echo reverse echo append A20 R60 M79 L73 , echo append reverse shift echo reverse X35 M28 Y10 , copy reverse V14 Q72 N10 Y81 , shift reverse echo copy prepend copy J24 M14 J13 Z76 I8 , shift copy copy S100 Z28 W92
+prepend R63 Q21 I17 J8 W43 , shift N84 O71 H27
+copy echo prepend shift copy K48 Z63 N68 , G78 G44 Y97
+shift copy prepend copy reverse echo R79 M84 E11 A36 , shift echo echo Q58 R58 J63 G74
+copy prepend P38 S14 X52 E6 O69 , reverse R52 A6 H46 F87 E76
+prepend append shift shift K57 E66 E52 , W70 K44 A52 M1 , echo echo shift shift echo shift shift T56 K19 N55 O33
+append E9 X63 M3 P30 D5 , reverse shift shift reverse prepend W25 Z92 Z38 L77 , K58 J71 W10 Q97 D83
+prepend prepend A48 K100 Z43 , B66 S14 N39 , append J54 G43 J29 L37 , shift shift reverse shift K39 D14 T61 X60
+reverse append C29 P83 Y12 B70 J60 , M75 G1 C90 P53
+reverse prepend append B24 E20 G4 , N45 B77 W93 B38 , shift R80 B46 G98 D75
+echo append reverse reverse D54 L10 Y94 Q38 , reverse W86 F29 Q4 K78
+append I89 J18 G26 , echo reverse reverse V14 I18 F33
+prepend copy B4 C16 H90 J93 Q65 , echo prepend copy shift J57 E37 X25 Y23 , reverse echo Q77 V9 A38 Q45
+copy prepend append shift copy echo R24 S53 X56 U52 , reverse K82 I95 D88 , reverse prepend echo shift reverse Y32 J1 J89 , echo D8 W37 N67
+shift shift reverse echo append reverse prepend N75 C76 O24 W29 D78 , F95 T88 Z25 W62 A91 , B38 X43 Y6 P63
+append copy append echo copy P68 Z72 A45 B75 R78 , copy C20 V59 Q53 E69 , shift Y37 B45 L31 S51 Q60
+append reverse reverse Q34 I34 G19 B59 , prepend copy reverse L6 I27 H53 W97 F93 , Z41 X91 Y67 S51 U17
+prepend shift copy I56 E48 U98 X19 B25 , echo X74 V94 T72
+append reverse prepend shift P38 T56 L72 X23 K21 , reverse N7 P84 X32 Q100 A79 , reverse copy V20 X80 D18 P38 K68
+append prepend D57 Z50 N32 L76 , prepend reverse copy J67 W38 R58 B10 , shift echo H28 U21 O86 Q53 , echo reverse W29 I29 T36 H22 L18
+append F28 T85 V20 V42 , shift L83 B6 S39
+prepend L98 Q56 E23 G76 , copy copy prepend reverse N41 Y18 S97 , echo L18 U31 D61 U82 Y55
+copy shift reverse shift prepend copy E60 E39 D61 W38 E4 , I16 I33 S34 R92
+prepend reverse copy shift R69 J37 O82 , reverse append A69 V63 M47 , A72 M66 N64
+shift echo prepend reverse shift N88 B29 T77 , reverse G87 L50 R19
+shift copy shift W77 O69 S49 G56 C49
+append reverse echo U51 Q87 J4 Z61 , echo prepend W67 I88 Z30 I3 V79 , reverse prepend echo M14 V17 R13 Q24 , O22 R80 P42 U76 I81
+prepend copy copy reverse copy J15 O5 R93 B44 , copy shift reverse reverse copy T5 R38 J90 P3 X66
+reverse echo copy append echo echo copy shift reverse shift I43 D28 M53 M61 X60 , reverse append J48 X45 U79 T13 , shift D3 K77 G75 O32 X17
+prepend append shift append append copy U24 K24 B40 K20 , copy L67 Q6 V65 Y96 , E55 Z95 M44 A25 Z27 , shift reverse echo echo copy copy G16 K12 X42 G79 , echo reverse reverse shift echo reverse reverse I25 M59 X10
+copy prepend shift T35 C73 C73 J93 T94 , copy G3 K96 B64 A77
+prepend shift echo shift reverse append T72 G87 H68 E72 , C56 H23 P50 , echo echo B11 B15 S53 C31
+copy prepend shift E24 O6 Y18 , B51 T33 T58
+prepend J52 L60 I99 J43 D1 , reverse L25 F100 E60 N99 P22
+prepend echo copy Z95 I19 J18 , reverse X67 D3 F59 Y19
+echo reverse reverse J30 G57 G39 O30
+prepend append append G70 J56 R40 B90 , prepend shift echo D85 G77 H98 U57 L50 , echo T97 K66 Y16 I29 , reverse prepend echo reverse reverse append echo copy copy copy shift I56 K53 O94 H6 , S10 U82 B5 B24 , copy reverse shift E31 N61 C88 J57 , H50 H18 V7 V9 B91
+append I56 C17 T29 N38 C71 , shift prepend copy echo reverse N45 W26 C4 W60 G13 , echo I65 U73 P1
+echo prepend echo P74 M100 G1 S85 , prepend echo copy shift O88 P16 O29 T55 , shift Y100 V35 K15 O76 V43
+append echo shift M20 V91 J33 P83 Q5 , T65 Z68 Q16 L38 P83
+shift prepend echo copy M11 M48 W13 V15 N46 , reverse shift R24 K1 N17 N36
+echo echo append Y68 Y60 L93 N78 Z56 , shift L80 G96 B51 D5
+append append reverse shift M54 J57 L52 M43 L77 , reverse reverse Q36 Q9 B64 T99 , append reverse S35 E62 E61 K3 , D10 I46 X84 Y27 G90
+shift prepend prepend S8 X89 N92 T41 , B77 A98 C55 D28 , V41 B41 G36 E90 E56
+append copy append P37 X21 I30 S15 , copy X11 Q10 K73 H79 , L30 B78 S54 C72
+echo append reverse prepend F22 S68 P92 I52 , copy shift reverse N39 E59 J34 Q59 , reverse shift shift copy copy shift prepend reverse S5 S47 I46 , N85 S3 H66 O39
+append append shift A78 J93 L55 , copy V36 B76 P98 D62 , reverse Q86 V68 D4
+append prepend Y10 B52 W24 N89 K98 , Q78 N64 A65 N74 N87 , prepend echo append R27 Y8 O8 N52 F97 , U36 B92 E8 M18 A4 , F24 K65 Q83 W64 R2
+copy echo append C81 N97 O23 , P78 B12 O14 T17
+prepend O35 V50 L77 Q72 J12 , shift reverse P54 P17 S10
+shift echo shift R27 S43 V79 K15 C2
+echo copy copy prepend M14 O45 H50 K37 T96 , reverse shift P21 A29 I93 O2
+copy echo prepend shift J39 H53 B50 W27 H27 , shift Q2 E89 F93 C86 Z51
+append copy reverse shift X40 V5 K93 A6 D86 , echo append D2 V68 E10 T15 X56 , reverse W78 A57 C40 G21 C6
+shift prepend append echo append echo reverse W50 W71 L84 M82 , echo shift M80 M6 C16 Y82 N4 , F17 P47 H48 Z33 , reverse shift Y36 U53 D37 A19
+prepend H50 P91 R91 , copy reverse echo M51 U87 Y18
+reverse prepend copy append reverse reverse N80 Q88 E95 G83 Y32 , append K75 B48 Z23 K90 , F54 P40 Z88 , shift shift echo reverse reverse shift D18 U53 N23
+echo append G3 I1 H27 V79 A75 , echo shift N86 P19 G55
+echo shift shift O2 P36 D55 I80 V52
+copy append Z95 C64 J13 , K19 Q13 O1
+echo prepend echo shift S37 G43 Q74 R31 , shift F97 N78 M99 R32
+copy append echo reverse U33 E33 W84 A75 , Q65 I83 W54 F73
+reverse reverse L36 F64 V25
+append copy echo reverse Y77 K65 M86 G60 , reverse L29 W88 L99
+prepend prepend reverse I26 D31 T84 N3 I92 , S22 O55 B83 Y77 P1 , prepend shift U16 G91 B42 O7 I13 , H64 V55 Z44 W50 Z89
+copy reverse copy reverse prepend reverse echo append I38 I27 U31 J1 R100 , reverse Y42 C78 P75 , shift shift L37 Y96 U25 U73 G18
+reverse copy prepend L31 Y34 F93 Y18 , M58 Q7 L72
+prepend copy reverse echo shift X20 Z2 S65 , H29 B75 N78
+prepend copy copy reverse reverse echo copy shift B94 W4 P6 M51 , echo reverse reverse shift prepend shift reverse X60 K27 T89 F77 , echo echo B39 S6 S64 F55
+prepend prepend P28 O23 W37 J68 , shift append echo Z36 T43 Q13 M40 K62 , shift Y29 P30 C2 A69 G78 , N9 G5 C8 Z25 O52
+prepend P8 E96 X36 L75 V59 , echo echo prepend T45 Q49 D61 S95 , reverse D54 O8 P74 W68
+echo prepend shift append echo M6 B70 K72 F75 , echo reverse reverse F9 K58 I82 A22 , reverse prepend T63 X58 F54 , C13 V38 C75 L72 Q61
+shift append reverse G60 K54 X36 O39 Y87 , echo shift echo A4 Y39 Z59 Z42
+prepend T64 Y93 N12 , copy copy C33 N1 W50 M4
+prepend shift prepend F15 K42 Z59 Z17 , copy shift B22 F36 S87 E42 L87 , reverse T70 H61 J19 J57 E73
+prepend copy reverse C93 F75 A65 N25 X79 , append Z40 V62 Y2 J20 , reverse reverse W1 W5 P15 G36
+append shift append E95 K42 X96 V24 M15 , prepend N61 H49 O98 M92 , shift prepend Y7 O35 D7 K30 , copy D66 N69 E95 N16 , append echo P47 P78 I66 X3 Q72 , shift reverse shift copy C76 H26 Q50 A96 K73
+append reverse B70 Q63 G46 T72 , shift echo shift P52 N49 W12
+append shift shift X7 U9 T67 C83 , M7 O32 Z48
+shift prepend shift R21 Z100 M61 V88 P54 , X47 Q7 U56
+echo append echo C68 W49 T55 E73 , append echo echo copy V82 T22 Z40 N20 , copy R89 S34 Q19 Z82 I47
+prepend copy reverse echo J53 O56 T80 Q83 W13 , echo reverse reverse F99 F31 G6 A88 J55
+prepend echo copy J21 H6 Z78 , shift echo copy P14 U100 B60
+prepend prepend reverse B65 V38 I8 W76 S52 , echo I57 U95 K61 D95 Z49 , echo copy Y21 N94 S79 B66 D54
+append copy shift X63 K17 Q21 C52 E93 , echo echo echo append reverse Z98 Z71 Q77 V59 L76 , append shift E13 R67 A54 X68 , reverse copy U25 T66 U23
+append append X20 F95 W73 O30 S41 , copy echo L49 D38 D65 R91 Q63 , echo shift copy O63 G2 A22 L8 C96
+shift prepend G11 I89 F48 P15 , shift append copy P16 T73 Y89 Y35 G63 , copy echo shift Q54 N8 Z92
+append X79 E20 X66 , shift reverse echo A73 K73 M35 G68
+append append copy reverse copy U41 G66 S43 W62 , shift shift B23 L18 Y20 K90 , reverse O86 L78 E52
+prepend shift shift echo echo echo L22 N57 A96 , append shift echo shift reverse F24 Q22 T98 N20 , Z26 G56 G74 D4
+append copy K80 I39 J78 U66 P75 , echo append append append L40 U89 R92 F70 U73 , Z66 G88 I63 Q53 , reverse append reverse E43 C30 P29 D87 P57 , O41 C37 N33 T80 W14 , R75 L76 T37 P67
+reverse prepend reverse Z4 O83 J20 I33 X60 , echo S66 Q83 G23 B64 T80
+reverse echo append shift reverse copy K51 T35 V21 U67 , append copy K100 Y90 D36 , echo Q79 R94 I77
+shift shift prepend U81 R57 V77 V75 , copy copy reverse A3 L24 V97
+prepend echo reverse copy shift copy shift shift echo V4 R17 P21 , append I99 R16 M98 , echo reverse prepend L48 M26 X35 M24 K90 , H44 Z19 S56 P63
+copy reverse reverse H97 O45 K58 Q87 J92
+echo prepend W4 G37 N22 O69 H68 , prepend copy append reverse echo copy shift U3 R33 S86 G88 K100 , shift shift copy shift F35 H99 Q87 X11 E21 , U88 Y25 Z69 H38
+copy echo H65 P81 K74 Z11
+append copy copy copy copy copy V31 J13 H53 Y2 T99 , prepend H96 D2 T74 C59 N81 , copy prepend W93 O87 M56 P84 X23 , echo reverse G31 D81 A26 V76 Q78
+prepend I16 U73 I4 X88 , shift echo echo prepend copy X7 W61 F79 R74 U52 , prepend F42 D41 T54 W39 Y57 , W33 E61 M88 A24
+reverse prepend shift K60 I25 D94 P43 , O96 M1 W94
+append echo copy T80 A31 A99 H15 , N72 K18 H73 R36
+shift A89 M25 E36 H87 S34
+reverse copy prepend reverse prepend shift A51 Q85 J84 , shift H35 M40 I30 J47 , K95 C8 U31
+shift echo shift O81 X88 M75 X59 Q84
+append copy append append shift shift echo shift copy echo R79 S38 D80 , shift copy shift copy A36 W93 Y19 N90 , copy shift reverse prepend reverse echo copy reverse copy H80 Q67 J91 R32 , M17 W11 R52 E44 , Q64 X86 H64 I46 T1
+prepend A27 R13 A64 N11 , shift reverse prepend copy P79 U64 H67 , reverse X66 K58 A94 L34 X78
+prepend copy echo shift copy reverse Z84 M91 Y3 R22 , reverse prepend echo copy E73 R33 M4 Q38 , echo prepend E93 J42 D49 I81 J36 , J4 H70 O24 N66
+append reverse echo copy U79 K20 V6 E31 , shift echo prepend T60 I69 Q41 X14 , U88 A53 P17 O17
+copy append copy copy Q4 N43 N77 A41 F79 , echo prepend N70 U20 P42 F77 , reverse A7 G42 P38 S12 B37
+shift echo reverse E15 M88 Z95 K17 T41
+copy append reverse copy A4 C72 O60 C64 I21 , reverse copy X32 A29 M54 P52
+append shift copy echo copy G10 Q63 I35 C83 D55 , echo I38 D72 O49
+echo copy S13 Y34 X49 J62 Z32
+append prepend H34 D23 B38 A29 B63 , shift shift reverse U68 E46 W56 L42 M100 , prepend prepend U81 S68 F38 C23 X58 , reverse reverse I13 V31 M87 D78 P52 , prepend reverse shift H80 Y3 Z98 K97 L18 , R29 J99 V33 T10 W73
+append shift reverse shift reverse F82 K31 U96 I49 , shift copy reverse T27 E100 J47 O80
+append R53 D39 Q37 , shift N72 Q10 L77
+append echo reverse shift reverse V47 R30 Q90 A62 M24 , echo append copy echo I31 Z85 Y56 C48 L7 , copy J76 T18 K99 T94
+copy prepend shift copy reverse P88 Q25 U88 V9 H100 , copy echo U73 R29 L59 Y49
+echo reverse reverse reverse append W90 I73 Z31 , shift copy I28 G52 R1 T56
+shift copy append echo B35 D13 L82 H9 S60 , shift copy reverse copy P65 N64 I13 V45
+prepend shift copy P13 J39 Z73 P39 G22 , append prepend copy shift append reverse N61 R59 F51 I24 , M88 N26 V48 T44 R2 , copy shift shift Z48 O51 P98 E30 C85 , reverse append echo J66 A19 W11 U26 Z88 , W85 E94 Z69 Y26
+prepend shift reverse shift A44 Y32 D88 F12 Z24 , prepend prepend echo F63 Q52 U1 S10 F37 , reverse X54 U18 Q80 H69 V14 , append echo W46 K62 Q10 Z80 S95 , K39 D69 J80 D5 T20
+append prepend prepend E26 Y89 E40 L20 , echo echo G34 C10 M96 P51 I50 , shift reverse echo R4 E54 C8 F21 , N57 Q26 A83 V37 V58
+echo prepend G76 H71 P100 , shift N76 X3 X43 F87
+shift shift append shift reverse append shift copy P72 B74 Y94 , T63 Z34 B67 U77 , shift append copy reverse N49 Q6 W83 A98 G39 , shift Q16 S87 A91 F12
+append shift echo reverse reverse S22 X91 Y65 F100 , echo P5 W38 Y22 T95
+reverse prepend copy shift echo H80 B79 P11 P28 , prepend copy reverse shift A16 U45 V9 O77 M21 , shift echo reverse M53 L98 J88 T81 A36
+prepend reverse echo K68 Y54 J11 C17 , prepend echo append echo G18 B42 G13 Q85 I34 , R54 W17 K66 H52 B70 , K64 S34 W30 T12 D3
+reverse copy echo echo append S93 O58 X69 , H97 X44 Q51
+prepend copy copy L51 X16 C53 J30 D87 , append copy shift prepend copy A59 P39 Q72 Q43 Z30 , S46 I74 M3 H5 , W24 K29 I18 D50
+append echo append copy P52 H52 F61 G95 O79 , reverse echo J38 L16 H84 , shift append copy copy I29 T8 V28 V30 S22 , shift echo reverse echo echo Q81 V42 G99 Q93 B49
+shift prepend shift F82 N24 I2 X22 , reverse reverse E7 T11 E22
+prepend copy Y3 I99 C60 N19 , echo prepend copy reverse E21 G22 B23 I19 T13 , shift reverse H34 J65 Y83 G60 F46
+append prepend echo echo append shift I58 R96 X86 J10 H69 , copy reverse reverse A38 D100 B19 W49 , shift echo reverse Q59 I20 D66 D48 T31 , J75 B13 S73 Q61 J95
+copy echo prepend B13 K50 V10 , D31 C26 P46 N59 P94
+append shift I51 T87 A21 , X35 S94 S3
+append reverse reverse B14 Q7 K91 Q12 A9 , shift echo M62 S95 R68 D18 A23
+prepend T71 F60 L3 , shift K62 Q62 N88 J87
+append reverse reverse C26 U53 L18 I45 L32 , reverse shift echo U47 U68 X15 A13
+shift shift copy shift reverse shift shift E76 Y17 I25 N52 H12
+append reverse append R32 V27 N86 J20 , copy reverse shift R66 P12 G84 C77 , copy reverse reverse copy K87 C7 R29 N78
+append append echo K52 Z95 E53 F25 , echo copy Y17 Z53 O57 J7 , copy append append copy X3 L94 H28 K82 K21 , append X90 B11 Z45 P99 , reverse M85 J98 H59 Q74 , prepend reverse P8 K8 S87 W51 B64 , G77 G75 R3 G70 C95
+prepend append I64 C97 W74 M73 D38 , Z16 W67 E57 N2 I11 , prepend echo copy Q56 H69 H19 Y30 Y53 , shift R77 H36 Z8 R22 R54
+echo prepend append reverse prepend shift reverse V100 Y35 Q72 K5 Z95 , echo W88 U60 W84 , reverse echo shift S23 C90 O80 , shift shift echo reverse F34 B89 K19
+prepend append copy shift echo X2 B95 W83 B1 V100 , reverse reverse copy reverse append Z66 B5 R14 W4 R35 , A82 L45 I55 E25 , copy reverse reverse reverse copy D80 C76 Z97 P44 X53
+append reverse echo shift copy echo Z95 O79 R21 H9 K52 , shift echo shift copy prepend T86 S64 M49 M87 , C52 K83 Q73 Y15 E67
+append shift copy append reverse reverse K23 G89 R28 Z70 F37 , A22 R39 K76 C69 Q30 , shift prepend echo X10 M78 X46 D72 , W66 T32 O95 Z19 M31
+append G54 G60 X4 , reverse echo prepend copy A50 S100 W12 A81 , P58 N47 W88 Z88
+append shift echo copy echo echo prepend copy H61 R55 E30 G50 , E4 Y1 O9 R80 P31 , echo echo shift shift echo shift P44 O41 A28 U82
+append reverse append R72 K55 G100 W18 M33 , copy echo X52 J88 D79 P46 L54 , shift shift shift P54 L29 E50 Q33
+echo append echo reverse J44 K61 T73 L54 , echo reverse reverse prepend copy O83 B74 J90 C38 L100 , reverse Z43 J56 A52 D31
+prepend reverse copy U46 E89 K63 , copy B45 A30 N41 K66 V92
+reverse append copy H80 A8 B85 P30 , R1 N3 L4 M100
+shift prepend append append copy echo L77 K55 C15 Q81 , U89 I4 I8 J61 K26 , reverse K88 S19 T48 J55 , Q38 M20 E47 V74
+reverse copy shift prepend A42 L79 I84 , reverse prepend C33 B86 Z25 S26 , prepend R66 M42 B54 R3 M10 , B23 P75 T32 O53
+append F32 K91 K40 V27 , prepend shift E43 Q73 E19 F61 , X54 N55 I72 M75
+prepend B51 S38 R4 V95 , echo append shift echo Z36 D58 U54 P14 B18 , D87 G8 N24 Y97 H48
+echo prepend O53 U88 W6 , shift echo reverse V55 B49 E97
+append W64 R86 U74 B80 R14 , copy prepend copy copy R57 T7 J23 M23 D43 , append reverse H99 C36 W63 R6 , V19 U13 B88 C65
+echo shift append shift reverse shift reverse L75 E72 M56 O93 , shift Y17 B91 A84 L65 L1
+append reverse append reverse V83 O50 A32 K79 A19 , reverse shift J50 H66 E5 , O54 F63 W54 J11
+prepend echo reverse F18 F44 K6 O27 , copy append J19 G33 F89 Z65 I75 , echo copy U60 D80 I8 Z30 W93
+shift copy echo append shift O78 A26 N56 , A61 Z72 Z10
+copy prepend append shift H82 M69 M6 Q15 , copy N90 D2 E67 N4 B65 , Q58 N79 I73 F35 N39
+shift reverse echo append append U49 T90 I12 M41 R74 , append C100 V89 V63 D79 , L93 R5 L37 L64 A24 , Q70 D29 F98 Q63
+shift append shift shift prepend shift copy echo echo I66 I10 H1 Q34 , copy copy reverse U11 D92 S9 , copy V33 I43 R58
+copy reverse copy reverse V12 N68 M20 B35
+prepend shift reverse copy reverse echo append echo I87 H100 N92 Z49 , H6 U71 M66 M90 J25 , copy echo copy shift shift reverse Q35 Y78 T49 S62
+reverse prepend append Y75 E76 F39 , I7 S54 I87 J61 , shift F79 C83 H46 H87
+shift append shift reverse E8 S83 L37 A55 , S47 B48 D56 H50 V73
+echo echo Q10 A64 H62 S40
+reverse shift append copy shift copy copy P50 W90 Q16 Q55 K98 , prepend copy reverse O72 N40 U50 A75 W36 , copy copy reverse shift echo copy reverse C52 A22 U31
+reverse append prepend reverse echo copy echo Y53 V42 V83 , copy K16 B10 C60 , reverse shift echo shift F9 I98 B100 A96 Z72
+echo reverse echo prepend shift F69 B68 O7 S19 , prepend copy reverse H26 E27 N29 M10 , T64 U89 Y34 A89 K91
+shift append C79 C42 K52 I21 , shift append I91 P4 X95 E7 , O87 O95 X57 P48 I21
+append echo reverse reverse shift reverse M44 A15 L97 , append copy echo echo H8 R65 H97 R90 J79 , shift Q31 G39 Y62
+append O18 K62 Z64 K38 F7 , prepend copy K36 W45 G45 C17 Y56 , copy prepend shift copy Y61 Q62 S86 S5 , echo C94 T23 W44 Q7
+reverse shift reverse reverse S52 L86 H35 C32 I69
+echo append N100 U7 I58 , I70 P23 H80
+prepend reverse echo Z28 W93 Y28 , reverse reverse J23 X33 R48
+reverse append echo reverse copy K48 P58 T62 R59 N34 , reverse echo shift L16 L87 D100 T78
+shift reverse Y41 U70
+echo append reverse reverse Z33 X59 G57 N96 , shift copy P5 J88 H50 H38 Q19
+copy shift K80 J83 B64 D78 D26
+reverse shift append T40 S17 M37 , append shift G90 Y37 R92 H48 W26 , shift G29 H87 L58
+prepend echo prepend F21 D18 O4 K39 E52 , U90 O23 F54 S22 , copy T51 N37 D5 J24
+copy shift prepend echo reverse A70 R82 H84 , echo copy R20 Z1 V72 I27 I18
+prepend copy U88 C29 G46 , Z35 E82 I11
+copy shift prepend shift reverse copy shift Y35 A9 X24 E94 S8 , copy reverse shift reverse C85 N68 J25 V21 A85
+copy echo shift H62 U93 L71
+append prepend reverse reverse shift J4 F3 J82 B8 , copy reverse X27 M63 A11 P58 , echo reverse append S21 R10 G40 L38 , copy W5 W90 S56 Z20
+reverse prepend prepend G17 X93 G15 T37 K97 , reverse Z97 E61 N57 N56 N61 , shift reverse append copy E65 Q96 J82 J19 H93 , echo Q47 L21 W10 N62
+prepend reverse copy V27 I71 K74 , reverse B24 N71 F82 D100 S85
+reverse append copy W87 M14 K51 , echo C3 K11 V55
+append shift shift echo A68 A54 N28 Z87 J71 , prepend reverse A38 V61 N31 M97 R89 , echo prepend L62 U97 V46 Y54 , N5 Q16 K51 B77 D31
+append echo prepend reverse reverse shift O26 F29 E74 N91 , copy reverse G6 Z84 H48 X3 A82 , copy copy shift copy D16 T98 X93 U36
+reverse echo reverse Z29 N28 W2 I14 L34
+prepend T8 R75 E1 J94 S27 , append shift reverse Q8 K2 Q50 T2 H45 , reverse copy shift copy O80 Y75 J37
+append echo prepend shift shift copy shift shift G35 Y88 R96 F60 Y68 , prepend Q35 Z21 R51 N55 , copy copy reverse echo M44 L100 A46 G37 , reverse shift copy shift U97 A36 J94 C57
+reverse prepend reverse reverse shift Y5 I34 C49 , prepend append C90 Y29 K44 J61 , J50 D78 M90 Q90 B13 , reverse A7 F31 F76
+echo prepend E57 I27 Y25 R92 L29 , append copy shift D48 A64 M97 N55 E13 , echo N35 H35 O85 D10
+append reverse P70 Z43 O73 , A100 P97 B48
+reverse copy copy echo append Q74 V38 J78 , copy shift F39 L63 W99 V9 Z35
+append echo echo reverse L16 S58 B86 J25 Z39 , reverse reverse D47 E19 P58 G54
+echo append Q71 C23 I16 U40 A8 , shift append copy echo copy V96 C35 J39 X86 , echo shift copy L65 L60 V33 A86 S75
+prepend copy echo N78 P20 A43 , reverse T4 R22 O25 P73
+append prepend prepend append echo copy echo S13 T48 J19 C69 U73 , D18 I73 Y76 R29 V41 , U42 Z70 F52 Y71 , Q66 B70 C19 V2 , echo shift echo echo Z1 W1 Z86 K64 R76
+reverse prepend append echo I55 D41 H56 T41 F8 , append P17 E1 H60 O4 S49 , reverse H40 K65 B22 Q12 C61 , copy shift copy D53 X11 H24 R55 P74
+append copy echo B25 W78 U19 R56 , shift prepend append K94 M76 N79 V9 U69 , D87 B100 U74 J66 J23 , reverse shift K37 P83 V55 J5
+prepend echo copy copy C30 I98 M61 Y11 K86 , echo copy copy shift R31 Y23 K48 Y76
+reverse prepend I63 D3 Y57 U21 , copy T66 A88 J28
+shift append prepend reverse echo H10 T29 G95 , R6 Y2 C88 C21 O35 , prepend shift shift echo shift shift J29 N53 D7 O30 , shift shift prepend O5 E25 X64 , shift echo U2 I65 X32 V17
+prepend prepend echo O27 U61 I28 L16 , echo copy Z85 Y4 Z91 I83 , reverse reverse copy copy G78 L29 J41 U46 V69
+append P70 C9 Z3 , echo I99 T73 O67
+append D35 A77 H24 , copy shift U13 X37 U48
+shift shift Q12 P89 D62 T19
+echo prepend echo reverse copy reverse E45 E41 S19 X13 , prepend echo shift echo O15 F100 X24 Q58 , echo echo shift Q29 U93 P45 V37
+prepend reverse echo echo B64 S25 N1 J59 O35 , echo copy append append shift E4 M82 A41 D31 K1 , P44 S41 P80 N87 , reverse echo J56 N93 X40 N39 U80
+append echo copy reverse copy shift prepend H55 E76 A72 T93 C46 , P45 D65 J39 P19 O68 , echo O81 W99 G62 H81 P19
+reverse reverse prepend Z31 N44 W89 R10 , prepend Z22 M15 F9 W59 G46 , Y71 G10 U90 Z27 Z3
+prepend shift shift shift U10 L46 P85 X15 , prepend shift copy echo shift copy reverse P77 Q77 Y70 M41 , X27 E87 I18
+copy prepend shift copy T30 H34 V17 , echo append V88 I33 S10 Y98 , shift C54 Z9 U72 M82
+reverse copy Q21 J90 Y66
+prepend append R14 H70 R97 D59 , reverse reverse N70 F40 B26 B73 , Z78 M78 O35 C21 F5
+reverse append echo O82 Y24 F98 X96 P38 , copy reverse Y24 X2 X82 W29 T9
+prepend shift append prepend echo echo shift copy P27 J90 Q91 X52 F14 , reverse copy B48 R25 F15 H92 , P57 P86 K25 C83 , shift prepend X34 T71 R8 I21 , echo echo reverse W32 W41 J51 T19
+prepend H93 Q39 K84 N61 , copy copy shift reverse copy X23 S51 Y24 R38 Y59
+append reverse echo copy shift copy S42 N18 P77 Y79 , prepend shift prepend reverse prepend U62 W49 W40 R54 K97 , shift S56 F38 L74 J12 B94 , copy reverse copy echo reverse B80 X9 R36 B27 Y67 , shift reverse echo M74 G56 O89 T47 Y62
+append prepend I98 J86 V84 L35 , reverse reverse K71 J83 Q64 A35 L100 , prepend A6 N4 A12 K74 , copy W79 Q26 Y38 C16
+echo reverse prepend shift copy P38 A96 R63 O19 S73 , V70 O65 S22 J77 Y78
+prepend reverse shift prepend R30 X42 E48 A99 K26 , R63 B43 O26 T94 P42 , append L93 E50 G91 N30 B75 , copy P14 B4 I20 W6
+echo echo reverse J91 G18 W25 K33 N41
+append shift reverse reverse O28 F96 R27 U49 J26 , copy copy echo echo V17 P95 X32 G52 X24
+echo copy P62 W72
+prepend echo S91 F92 I70 L19 , echo prepend Q15 Y33 C54 A14 U52 , Y74 V98 K95 I69
+append append shift shift U30 D73 C84 J85 , E64 G51 G95 F52 , K35 T44 V94 F3 S88
+reverse append copy echo A100 B75 Z68 , J44 U2 H22
+reverse shift append copy Q65 Y18 O100 V77 A37 , Y19 I66 B27
+shift reverse prepend reverse append C51 K17 V58 D36 , E6 H89 T88 T23 J18 , reverse copy C39 R18 H39 A30
+echo copy copy C16 H74 T70 K50 T100
+append prepend V80 M74 V5 Z11 Q39 , echo copy Q30 K43 I90 R67 , C31 R78 R40 T32
+echo reverse reverse R45 N94 P90 H5 M16
+prepend O81 V98 T34 T33 , reverse prepend reverse T55 Z18 Q35 , copy copy shift reverse shift H16 I27 C98
+prepend copy echo B79 S43 T19 R29 E30 , shift reverse A75 U52 T49 O61 E76
+prepend append Q100 J32 K58 H3 , prepend echo echo U91 B25 N98 O87 , P40 G67 C38 E63 G71 , shift copy prepend reverse echo R15 M1 Q76 L50 G8 , Z53 O5 S55 T87 W38
+shift append shift shift Y77 X61 A65 I11 X41 , H2 S10 R18 W19
+shift prepend reverse R8 R60 Y20 A81 C26 , S33 R37 K26
+shift prepend append A59 H73 K39 W42 S11 , echo C74 X19 G46 Z68 G42 , reverse G75 B1 B53 R80 T1
+append echo copy echo append R34 M92 F94 F43 T44 , reverse N29 X43 G18 U72 , echo copy O63 E48 I34 L59 L84
+prepend copy copy copy shift reverse copy X90 G42 F91 , shift append shift echo P79 O36 A23 M25 Z88 , reverse W52 N12 A70 T47
+copy prepend copy copy reverse W41 R43 T54 W24 K75 , reverse reverse copy Z84 Z90 A29
+append echo Q48 W24 P99 E15 , prepend append reverse A41 U49 G40 P20 , L94 C89 I87 K11 , P15 K51 T82 V76 X72
+prepend R16 O52 C42 M39 , append prepend shift R92 P20 L65 P37 E56 , shift X34 E42 W37 G38 , shift S21 W61 I81 A35 D12
+echo reverse copy Y28 L70 L15 U50 I62
+prepend prepend reverse shift D84 H19 J82 V93 M43 , echo copy E70 Q58 B78 G47 , copy copy shift J2 D60 A42 X52 C1
+prepend echo copy echo P80 X94 T8 J20 , shift append H71 C17 N78 O84 Q57 , shift append J22 V84 Q50 U81 , reverse X41 U76 C10 U38
+prepend reverse append S22 B27 Y12 , V82 D94 O97 , reverse reverse D6 L55 M79 M27
+append copy reverse echo echo shift echo Y53 N62 X76 , shift append echo copy O27 H85 N24 Y33 P63 , reverse E88 O99 J72 K76
+prepend append V79 R86 M10 E82 F28 , echo copy reverse reverse M24 T16 H29 , reverse reverse B57 R59 P44 X56
+copy prepend shift echo echo Y95 U80 G80 K73 A73 , P56 D10 D23 P25 Q18
+append copy reverse Q91 U28 R53 A28 G85 , shift reverse reverse C3 Z78 S80 Q78
+append prepend echo prepend Q67 X49 F38 H33 X91 , shift G20 S45 O81 E45 T55 , echo shift echo prepend Q3 H95 E68 P22 J8 , reverse L16 H8 D55 J42 V69 , copy echo echo L49 T34 E65 A31
+prepend copy copy copy Z83 F66 A70 L37 I83 , copy prepend prepend M59 W40 F71 M62 , echo C97 H42 I31 X88 B80 , R37 Y11 D90 Q81
+reverse prepend reverse append echo W13 L49 U10 Z17 Q82 , D70 F55 A80 O12 L70 , copy shift O42 G18 C26 F12 C91
+append shift S39 J67 Z35 , append X44 P48 B71 , append X33 S94 J40 X46 , S26 A45 H22 S56
+prepend copy F5 W75 L37 N52 T82 , V29 J25 X64
+copy shift append K9 K45 X83 I26 , copy E30 P78 O25 X50 M93
+shift append echo H26 B32 X20 , R32 J32 O17 D96
+reverse echo U14 Z61 H94 V74 E20
+prepend shift copy shift reverse echo Q29 S38 D32 C86 , shift append shift I89 B66 L3 H72 W45 , copy shift R59 I14 G4 O7
+copy shift echo S1 E100 D85
+append prepend Q12 F5 M4 B52 P76 , prepend V92 N79 J17 Z89 , echo shift shift I3 H82 T51 H20 , K36 Y21 K54 Q3 I33
+prepend prepend Q8 N100 Z91 J47 E66 , echo O80 W35 V60 U56 , shift T57 H72 U75 R54
+append copy echo append shift shift reverse S40 P48 M73 B64 X39 , copy echo reverse echo I15 Y43 G33 , reverse echo echo shift reverse reverse copy reverse E57 O89 K64 P60
+copy reverse prepend G43 H94 C86 V91 , append N4 A52 U58 B41 , P25 N94 W31 Q27 B98
+append append echo append reverse H26 H43 G41 D90 O10 , shift G93 P62 X10 H33 , copy R77 L55 J83 N18 , prepend echo I74 M53 G20 S13 , copy M28 X9 U72 X24
+echo reverse append echo E56 H36 K68 T72 C95 , append Y23 L24 P4 Z48 F58 , echo T93 X55 V99 G93
+prepend copy shift shift V82 O13 M31 A83 T14 , copy reverse R39 E71 K87 Y72 S21
+append copy copy D54 G39 W58 Y95 V61 , append copy M3 H15 B69 U64 , reverse K61 J71 U63 Z78 C50
+shift shift append D29 G48 Q47 , shift U34 W93 W24
+echo append copy I43 U77 Q18 T63 , shift K17 O79 A18 B93 Q28
+echo shift append shift M51 H72 Q49 R42 , P13 U42 S32 T47
+reverse append copy E84 U99 D64 , L41 Y25 I76 T6
+prepend Q16 D6 O89 D62 , append reverse copy echo N96 D81 C5 U69 T58 , reverse D72 P59 F66 B87
+copy prepend echo shift X14 J98 O53 I33 Q78 , shift shift R20 S66 L16 M41 T15
+append copy shift shift Y65 X20 D76 A1 , reverse reverse reverse U71 Z39 M38 H62
+echo shift copy Y28 A80 L1 F54
+prepend X33 F62 N65 , append copy shift echo reverse I6 R26 I67 B31 P92 , copy echo prepend copy reverse shift P62 D57 F7 L79 P63 , B20 Z18 G6 H9 Y73
+copy append H59 R6 J45 V74 , shift M11 O73 C12 Y39
+prepend shift copy W69 R96 P12 A40 D20 , shift echo J96 F100 O57
+append copy E44 G74 G65 E27 T24 , N35 V75 W56
+append reverse append echo shift I98 F32 W46 F24 B49 , G90 Y14 Z30 L56 C15 , echo echo shift shift M57 L82 U58 D77 Q37
+shift prepend shift echo prepend W48 Y43 M94 Q46 , append C9 D8 E6 C52 , C2 I39 W35 E26 H62 , shift W34 A51 Q58 X9 S13
+copy append shift shift echo W33 S47 , copy reverse copy H23 H93 L79
+reverse copy shift S96 X15 A48 M41 G42
+shift append shift P59 A34 H94 , reverse prepend copy K50 B59 R71 B68 , L26 T81 T69 K89 V50
+shift shift reverse echo echo F93 D31 N52 N40 M39
+shift copy reverse V80 E38 Z72 T66 T76
+append append F2 A50 G72 K85 U40 , echo E90 M80 S73 N10 , copy M91 A60 I10 W76
+shift reverse append L45 X34 C34 N32 , echo reverse Q47 F20 W19 P93
+append Y33 I91 S9 H58 D6 , prepend reverse prepend shift copy R69 G13 J20 , reverse echo echo copy U72 L6 D75 T65 , reverse echo copy copy copy C36 R44 O93
+shift prepend M91 G34 V90 M22 , copy reverse append echo M61 N54 M13 , reverse U64 T42 P51 J62 M73
+append prepend shift reverse append J89 A69 S30 W35 , H50 L35 Q5 , copy shift T42 C13 Y26 A67 , prepend copy G69 M29 Q64 D96 T64 , T63 N90 H70 C52
+reverse echo prepend R54 P17 U22 , A82 C51 I79 C55
+prepend copy echo shift echo H93 J30 P66 C21 Z49 , echo copy P81 C22 A100 R21 K67
+echo append echo reverse C20 S7 V3 Y1 , reverse shift T98 B89 C81 X36 L93
+prepend shift shift echo Z10 E75 T30 X14 V13 , shift prepend copy X65 J43 Y55 R35 R85 , shift W23 X100 O13 K38
+prepend shift prepend C35 W42 D67 W35 , echo R45 R57 O89 , T28 U45 Z23
+prepend Q48 L40 S81 Q89 , copy prepend shift copy G32 V98 H63 H13 M72 , Y31 L98 L52 C16 C17
+reverse copy reverse V19 Q14 B98 A88 G34
+copy echo append J60 O80 L17 P96 , F24 L66 L83
+shift reverse copy O82 G25 U88 C74 T6
+append copy echo K33 F90 Y74 X62 , reverse L10 R6 B99
+append append reverse append prepend K47 S6 S88 C27 , U73 J24 X76 M52 R76 , Z45 H41 M68 S77 , echo C49 A78 O50 S71 U74 , reverse A62 D14 A15 I91 V18
+append W59 Z76 K15 J35 U31 , shift G25 I96 R80
+prepend shift R52 O80 Q78 , R51 N85 T25
+append copy reverse echo G70 A41 T82 X88 M29 , copy append echo E48 Q81 I4 F68 L69 , copy K29 U17 Q13 K5 Z95
+append copy A40 O68 V54 D45 , reverse copy append shift reverse F6 Z57 V39 J73 T87 , copy echo B39 T12 R14
+copy reverse append shift append I4 Y20 L84 P98 , Y95 E3 X91 Z34 M59 , reverse reverse S44 U94 I55 V90
+copy prepend append G95 D23 W76 M26 D65 , shift reverse E42 M49 A67 Y51 , append prepend copy reverse T58 S3 X74 F25 , copy D11 C73 X83 A97 F14 , V20 Y46 C76 B75 Q14
+append shift echo prepend copy copy V65 V100 U96 O41 H19 , echo echo copy shift W8 N43 H43 , copy shift J1 R4 P33 Q76
+copy reverse append shift S26 I12 B88 M11 O96 , reverse O72 O48 R31 X36 V81
+append prepend G53 Y69 Y84 N84 R5 , reverse reverse reverse shift P32 N46 X98 L61 , append copy copy echo B37 N63 V24 I88 V56 , D4 Y13 D10 K30 S37
+reverse append echo B11 B28 A97 , reverse J28 G71 C74 Z46 F21
+append echo echo copy U67 N93 Q97 , prepend echo append reverse reverse echo reverse echo T41 I7 Z5 , reverse echo A31 H15 F2 , shift echo shift J75 F61 M87
+copy prepend prepend X1 E88 K6 T42 U49 , shift shift O31 T76 N17 T10 , copy reverse append Y64 X94 H24 P5 O71 , reverse Z56 A30 J60 D10 U3
+append append prepend reverse reverse H64 D46 I54 N87 C81 , reverse P31 D68 Y9 A24 R18 , shift H10 R26 I84 P13 S72 , prepend P94 D41 X26 B48 B4 , shift reverse copy B60 J50 O78 J38 D81
+reverse copy reverse N25 M66 M66 I95
+append echo A33 P75 G99 X33 , copy copy reverse echo copy L12 F37 B94 P70 W93
+prepend K5 X23 J56 C63 U8 , append reverse prepend reverse echo N61 N42 K32 , copy copy echo reverse Y19 X77 R86 D25 , echo shift echo shift reverse F65 B59 B10
+prepend shift echo P6 U5 W25 L94 I78 , reverse shift R10 O7 O12 Y48
+copy prepend copy Y43 Z19 J19 , E70 C59 Z60 N85
+copy echo append J94 W47 I14 W1 I2 , R66 E87 Z83 C8 I46
+copy prepend reverse U84 S63 B41 Z49 N9 , copy P93 A99 Y11 I100
+echo copy append X16 T82 R3 , X83 X65 L9 T3 H44
+reverse reverse shift copy echo prepend shift shift reverse echo X76 B62 Z35 I30 N1 , copy copy reverse J67 W10 L91
+reverse reverse shift append W42 O48 Q41 A18 Q56 , copy B25 Z43 W56 B33 R34
+reverse copy append O67 R2 J5 L40 , copy T90 D69 R80 Z60 M5
+prepend append prepend reverse C35 M82 L93 W47 Y39 , echo F94 V79 Z44 F12 P49 , echo M43 W56 O21 A32 H53 , shift reverse A83 U92 W62 M39
+append shift V88 Q1 M86 N97 , reverse shift prepend echo echo C1 P81 X90 X25 S56 , reverse copy F26 P73 P38
+shift echo prepend N69 E15 X35 U39 , F2 L15 B60 M14 K58
+shift prepend append I29 W83 A50 T10 M69 , O32 X42 Z7 A31 N89 , reverse shift Y25 L29 F65 S55
+prepend shift copy T59 J95 H65 V79 G18 , shift shift B55 K50 R2 P2 O3
+append reverse shift prepend copy L32 J46 A16 W65 F81 , copy append E6 R1 Q35 O22 , J50 X25 J22 G60 , X92 P9 S81 V84 Y30
+reverse echo copy prepend reverse copy W89 G48 T79 G77 B95 , N56 K84 E84 O23 Z54
+append P48 G86 T90 O4 L79 , shift echo W94 L41 B76
+copy copy copy G26 L57 C76 E88 X52
+append prepend F32 F27 R39 D13 U30 , O9 C49 B16 R80 , echo reverse reverse prepend echo echo K46 K34 N49 Y25 V74 , echo echo L100 M43 N99 U86 A36
+append S74 Y87 J6 Y63 S17 , shift prepend echo reverse T67 M70 P80 U41 B35 , append echo V46 X24 J35 J8 , V21 P32 L54 Q13
+prepend echo shift I9 E90 O60 S99 J74 , copy shift H89 F12 B55 K87
+prepend echo echo shift echo R25 Z100 F52 Z87 U93 , prepend copy append D82 N32 O42 A95 , copy shift Z2 L29 B81 K6 , shift copy append append A100 M83 Q94 T27 Q59 , copy N49 C56 Q35 L42 , H1 C55 B37 Q62
+echo prepend shift M39 Z24 Y76 P86 K62 , Z99 M19 V77 K12 K16
+prepend copy K100 G21 T53 , reverse G45 H28 U22
+reverse reverse append copy shift copy I65 D88 W47 G54 , prepend echo reverse A73 Y42 Q28 T58 S40 , echo echo L36 Z8 U28 O90
+copy shift copy M100 X48 H56 X21 G68
+shift shift echo N85 D35 O24 B12
+shift echo shift Z46 T94 X4 U78 W2
+prepend echo shift X94 N47 H100 , copy echo copy copy V10 S85 M52 G45 X61
+reverse shift shift echo append W71 O55 F5 , R90 C95 J35 M8
+append G58 D83 M92 J72 , prepend shift shift reverse T13 P19 G12 C8 S39 , shift H20 D91 M88
+shift copy append P20 W48 T57 , H16 S27 B32 N15
+echo reverse reverse K17 H96 R39
+append reverse shift S70 E18 C45 J6 , append H26 N5 L63 X55 , shift echo Q53 A33 M42 M26
+copy shift I9 G1 I90 J53 J71
+append shift reverse K22 E87 T2 D98 S79 , echo reverse U19 O51 L11 L69
+prepend M100 S8 P39 D9 , shift copy M78 N36 C57 Q64
+prepend copy Q82 K14 I70 T57 R12 , echo U49 M49 O48 G51 M10
+prepend copy E68 Q82 A85 Q78 I90 , reverse shift N67 L79 I89
+append shift copy J13 A39 W19 A62 G27 , append prepend copy B3 V32 A14 V20 , S5 N58 N9 J88 , Z58 H83 Y9 Z99
+reverse copy prepend shift copy reverse G25 I71 E33 A20 , prepend reverse W60 P86 L64 K97 X58 , prepend T93 M8 F23 K57 U11 , W35 S33 Y43 R74 B76
+copy prepend echo G38 G49 H32 Q36 V64 , append shift reverse shift T56 S85 Y14 E69 , shift echo F67 A97 O67 T51 I1
+copy prepend Z74 P59 S26 , F77 Y32 A34
+copy reverse prepend echo X85 D89 T59 , Z40 K7 D21
+append copy reverse reverse echo echo I23 E98 L21 F82 O32 , copy shift prepend reverse U3 S71 P95 I32 P11 , shift C15 B25 T77 Z48
+prepend echo copy P14 I72 W95 , copy reverse E21 C69 G56 J86 O52
+append reverse echo I88 D18 F95 Q58 G68 , shift S92 I50 S48 Q31 U73
+prepend echo A13 T12 C42 N95 V5 , reverse prepend echo prepend J37 G9 U89 V35 I19 , K69 M43 S28 , reverse D72 N92 T51 V46
+shift echo copy T14 V99 B22 P44 Q51
+prepend T48 T66 H31 V25 , copy copy Z51 K65 Z57 Q62 P44
+prepend echo copy copy X64 R91 V28 B59 Q75 , shift reverse shift U42 H1 U91
+append reverse reverse X6 T56 A96 G71 G44 , reverse W27 K24 H47 F17 Z38
+append echo prepend copy C13 H38 F46 B31 R35 , prepend U14 E70 B87 T65 , D16 A32 K89 N100 , copy echo echo reverse A45 U12 G14 E97 X86
+echo append shift copy copy U35 S63 S54 C93 H35 , shift A65 C51 K12 Q9 I12
+prepend echo H20 J90 S36 U45 K20 , copy prepend echo echo copy T43 M42 M28 H64 , prepend reverse prepend E75 Q33 X51 S6 P55 , I91 X51 G82 Z31 Q68 , X25 L30 B9 T7
+prepend shift copy U17 M87 B100 , D61 M80 Q50
+prepend echo copy copy S96 I55 W60 G14 H94 , reverse A90 P4 V2 M42 B18
+copy echo append D76 L86 A20 N46 I27 , prepend shift F100 G89 G16 K19 I91 , shift reverse echo shift A72 O74 R63
+append echo shift shift reverse T89 C83 J93 H55 , shift shift copy shift F7 M66 P66 T20 K8
+shift reverse prepend shift echo J19 P90 Y84 J4 M56 , copy echo T69 T57 K26
+echo reverse Z33 X90 Y3 R1 D26
+append reverse echo copy copy Z40 C12 Y46 J43 F22 , shift copy W23 U10 L58 T30 T86
+append echo echo prepend A76 K31 I88 , copy copy N24 A24 M99 , copy shift prepend shift reverse R16 C25 P46 E22 , copy shift reverse C9 N37 Q20
+reverse prepend prepend Z56 A51 G11 T68 , reverse N38 W61 S100 R33 O71 , append S27 G92 Q11 X39 W56 , A69 X28 N93 I7 E99
+reverse prepend prepend copy shift echo R27 U57 B96 G85 , reverse copy echo F32 V46 L95 K91 , shift copy echo copy L48 Y47 K77 S54 Q30
+shift prepend shift echo copy E84 V10 S26 C67 , copy append copy Y31 I67 V7 , reverse echo D67 Z32 X4
+append echo reverse L33 V30 K66 K36 O11 , append reverse echo V26 B64 Y3 G61 G20 , P37 G16 E61 R88
+echo append shift echo D74 S35 B95 L16 , append D86 E28 V3 , copy shift copy T35 A63 N21
+shift prepend shift copy S12 K80 V27 M47 U14 , copy X2 T67 K39 B17 E30
+append echo A80 Z75 W11 I30 X24 , echo D44 U4 L7 F56 O29
+append copy reverse copy B44 B89 U78 Y99 V83 , echo J67 L39 I69 L13 Q11
+append prepend echo reverse copy echo V74 B51 T65 Y98 , echo copy C14 J41 G69 F42 N86 , prepend D70 N50 K91 D21 H8 , reverse echo shift copy J58 L15 I23 H31
+append shift reverse echo Q93 O34 D93 Z33 Y64 , reverse reverse echo shift G39 L88 X8 M79 G90
+shift reverse echo echo prepend prepend reverse shift copy Z26 W62 D92 O99 , shift V23 H97 E71 K66 , reverse echo reverse echo shift copy G93 Q73 D77
+reverse reverse D10 M55 I64 N15 Y90
+echo echo prepend echo H63 R20 T78 B77 , copy J42 B1 U14 G32
+shift shift copy H64 O41 Y36 L90 H100
+append prepend echo X30 F91 K30 C62 P29 , echo reverse copy A2 O36 K100 N42 , echo echo echo echo reverse R41 K50 X9 E76
+copy shift prepend P52 G79 X2 W44 , X14 Y67 S27 E58
+reverse prepend reverse shift copy shift S60 L75 B36 A17 , reverse echo copy G3 M25 G40 C89 X90
+append reverse append echo shift J22 J20 W41 , L71 U97 F56 , shift reverse shift U74 G46 X7 F81 H75
+append shift append H20 U88 B54 B3 , A72 Q2 K30 C48 G61 , prepend shift echo K75 V23 L24 V98 N45 , copy echo V16 A15 J72 P83 I70
+reverse shift shift W64 J91 M50 L63 H72
+reverse reverse append W44 K51 C8 V49 , prepend J50 G75 P40 J29 X11 , Y23 B42 Q51 N84
+shift append I42 O46 Y76 , shift Q72 X62 R67 R98 G86
+copy reverse reverse K49 I18 U3 N28 H66
+shift prepend reverse reverse reverse reverse X27 X44 V86 X36 , reverse echo echo W18 R73 L38 F14 C65
+reverse append Z30 T27 U39 F26 , V78 W85 N43 G43
+prepend shift T30 T89 W93 L14 , prepend N75 I51 W50 D28 Y22 , echo M85 B37 C65 N16 R62
+shift append R66 L47 G58 U55 , reverse append X88 P72 I47 K22 , G64 D94 X1 V34 Q89
+append S34 F80 W49 S93 , append reverse shift echo C8 I53 Y60 I81 F36 , echo copy reverse J1 L18 B37 R62 Y19
+prepend reverse echo N52 O56 N15 , Z69 A97 P9 U12 R77
+echo echo prepend copy append echo shift X83 Y27 B9 H41 T39 , Z64 Q66 I25 Z37 X8 , echo reverse shift reverse E28 Z47 Q68 J97 C54
+prepend K76 M52 O92 X82 , reverse shift V13 D1 S34 B16
+prepend copy prepend copy E53 B24 C86 G22 , reverse copy copy shift U48 U41 P65 Z36 , echo reverse reverse reverse shift G13 M46 T54
+prepend echo append A49 N55 J23 Y78 D23 , echo S28 P95 L15 , echo V29 T41 P84 F14 H2
+reverse prepend J80 J49 I30 , reverse reverse X61 B54 U45
+prepend echo copy G65 C62 Z33 P57 R61 , shift R47 G21 R48
+echo prepend H4 M42 M49 S62 , echo prepend shift H19 M50 R60 S62 E33 , reverse reverse shift C71 O96 J3
+reverse copy J29 F41 S74 A67 V87
+reverse shift copy T75 Q8 T84 K73 I8
+append copy copy reverse Z83 G1 S35 , echo N7 M29 H8 K84
+append reverse K32 U37 W1 N49 , echo reverse append copy reverse V30 T75 D81 K32 N4 , copy copy F71 L85 I31
+append copy copy append copy X37 N47 G12 K54 F37 , U2 F47 P60 J92 M31 , copy echo B70 R74 B57 M98 H42
+append copy shift S36 M38 X44 B95 , reverse Y12 J96 L28
+append reverse shift D33 F99 N90 , Z31 Y57 T56 J71
+shift append shift F42 A77 W41 U60 , R6 N6 G38
+shift prepend echo B87 N5 X11 V71 P94 , prepend copy B20 Z99 O83 Y4 O11 , reverse I99 F60 M77 F20 J51
+reverse copy H1 L86 B31 U95 W41
+shift reverse append append O69 M38 M9 L22 E85 , prepend append copy O24 Y36 K24 L40 H29 , echo M32 Z30 N80 Y96 , shift copy copy N87 W55 D29 B73 T47 , prepend copy reverse Z1 E95 O7 N95 K26 , echo copy Z45 F16 U89 C42 F11
+prepend prepend copy copy Y36 G67 J41 C24 , S18 M58 M56 G94 F56 , copy echo C6 L66 F60 Q85 E72
+shift shift copy E31 R35 K94 L81 S97
+append echo echo W76 J52 O76 C47 M76 , echo reverse G14 F43 N25 L80 J9
+shift append prepend prepend reverse copy H95 P92 B45 W46 , reverse N2 J66 J84 O9 F51 , copy echo shift Z19 Z13 U73 V46 , echo echo echo P69 N38 Y36 Y70 N85
+echo prepend append R83 L90 Q1 S31 , shift R8 V67 T33 M25 R25 , shift M71 X17 X28 K49 N20
+echo prepend copy copy echo copy H79 F26 G15 D47 H66 , append prepend reverse reverse R60 S65 N93 R33 V25 , shift K18 B31 J92 D21 , prepend shift shift echo R31 W40 F84 X96 , reverse X52 D26 P6 Q84 V42
+append append reverse V46 W5 K34 , Q64 Q83 N100 M91 F58 , copy E9 F38 G80
+reverse append prepend L22 Y69 B40 C45 , I96 N49 T35 P15 , echo append copy reverse echo E60 H57 C11 G62 Z36 , V99 W89 O94
+prepend append shift prepend W76 R55 C70 M78 F84 , reverse H87 T54 R22 E65 , J85 B20 U46 T40 A26 , echo shift append K82 J70 O29 M11 I88 , S65 Y89 L43 M35 R54
+prepend copy P44 X66 O13 , X24 D11 U65
+shift prepend shift C59 M51 X21 V50 , copy W17 T4 B54 H17 E38
+reverse prepend U22 R76 H38 , I93 F26 Z18
+echo prepend reverse T27 Y44 B93 , copy echo A92 X100 I29 O50 R98
+prepend shift append D39 X60 O81 E56 Y92 , copy Y7 W15 O71 H96 A38 , prepend shift reverse O83 Z19 O87 Q30 N28 , shift reverse Y15 N26 L8 O46 L26
+append append reverse J50 C57 N51 , reverse echo shift N62 P75 O70 T12 , N13 T25 C57 J64 S40
+prepend append append echo copy M39 Z8 N30 X58 L30 , reverse Q55 J50 P7 G53 X85 , append copy O69 O11 T95 E21 O27 , W15 X1 Z84 N96 K80 , prepend J13 P15 N7 B48 V77 , G43 K6 R7 R81 A80
+shift prepend echo echo copy shift shift L49 X85 U60 B61 Y7 , copy prepend reverse shift shift H72 I45 L99 , D81 C52 Y90 B59 W67
+append prepend shift copy append echo T26 G41 Z37 K31 , P80 K6 A63 L30 Q2 , W69 M15 S81 O73 , prepend reverse prepend reverse Q77 M15 I81 L7 , echo copy echo O94 Z16 X81 A53 , V9 X62 Q57 F26 S13
+append append echo copy L91 J75 G74 V96 , reverse N46 V71 V71 G42 M71 , reverse shift echo prepend P88 L23 T63 F36 M33 , copy Q95 Q69 A8 Z18
+reverse append W27 X63 I44 X30 , prepend echo H35 C11 P43 A98 V88 , V53 L27 S4 Y79 B7
+prepend copy shift prepend echo shift K66 J81 Z49 K94 , shift J65 S47 L68 Q51 , prepend reverse shift copy append copy A43 X50 H5 N95 , copy A83 R23 M49 I38 B54 , copy shift echo shift reverse Z40 W81 H52 C95 G84
+prepend Y63 O46 C9 L4 , reverse append prepend M37 A44 P67 H73 , G3 R23 Y99 G80 , echo echo G23 F72 B27 E44 W19
+reverse shift shift R44 D23 U2
+reverse copy prepend copy shift M39 X20 , copy reverse L2 F73 F33 D10
+prepend copy echo append copy V35 R53 J95 S56 , T53 X14 S93 M14 , echo H18 R16 C69 Z44 O37
+prepend append shift shift C94 U98 J92 C65 , shift H14 R81 W31 U9 V90 , copy echo reverse prepend R23 P39 N77 L43 A54 , reverse B45 K20 D10 P20
+shift shift shift B100 X43 L45 R6
+copy reverse append append D89 B49 Q49 K96 M15 , reverse reverse E8 B60 D46 I63 Q13 , copy T9 U22 O19 D64 T63
+shift prepend append echo copy J34 I78 P63 , echo reverse reverse G16 U1 N86 , shift L59 Z90 C97 Y93 L9
+copy prepend H52 E30 G57 P53 , append O44 R82 L74 I42 , reverse J92 L42 S8 Y46 O22
+append append copy copy echo H85 O71 M76 P72 , prepend reverse X24 C38 K95 Z66 W18 , copy A31 P87 O62 P65 F43 , copy V97 J14 J22 J91
+prepend echo copy shift reverse copy I11 N19 K60 , prepend copy append echo M91 L43 F66 H4 P48 , shift copy N6 X80 Z32 I91 , reverse shift echo shift echo echo P25 G29 R74 R47
+reverse copy append echo echo shift S48 L17 K68 X15 Y42 , prepend reverse A41 D94 K99 O96 Q20 , J86 H27 G96 R50 F14
+append echo J36 Y27 N71 , copy N33 N16 M34
