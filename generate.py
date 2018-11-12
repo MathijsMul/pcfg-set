@@ -3,13 +3,15 @@ import random
 import tasks
 import sys
 
-sys.setrecursionlimit(50)
+from naturalize import DataNaturalization
 
 class MarkovTree():
     """
     PCFG
     """
     def __init__(self, unary_functions, binary_functions, alphabet, prob_unary, prob_func, lengths, placeholders, omit_brackets):
+        sys.setrecursionlimit(50)
+
         self.unary_functions = unary_functions
         self.binary_functions = binary_functions
         self.all_functions = self.unary_functions + self.binary_functions
@@ -108,79 +110,103 @@ class MarkovTree():
             else:
                 return(tree[0].__name__ + ' ( ' + self.write(tree[1]) + ' , ' + self.write(tree[2]) + ' )')
 
-def generate_data(task, random_probs, prob_unary, prob_func, lengths, total_samples, no_split, train_ratio, data_root, placeholders=False, omit_brackets=False):
-    # so far: same weight to functions within classes
-    unary_functions = task.unary_functions
-    binary_functions = task.binary_functions
-    alphabet = task.alphabet
-
-    t = MarkovTree(unary_functions=unary_functions,
-                   binary_functions=binary_functions,
-                   alphabet=alphabet,
-                   prob_unary=prob_unary,
-                   prob_func=prob_func,
-                   lengths=lengths,
-                   placeholders=placeholders,
-                   omit_brackets=omit_brackets)
-
-    if no_split:
-        file = open(data_root + '.txt', 'w')
-    else:
-        train_file = open(data_root + '_train.txt', 'w')
-        test_file = open(data_root + '_test.txt', 'w')
+def generate_data(pcfg_tree, total_samples, data_root, random_probs):
+    t = pcfg_tree
+    output_file_name = data_root + '.txt'
+    output_file = open(output_file_name, 'w')
 
     for i in range(total_samples):
         if random_probs:
             t.set_probabilities(prob_unary=random.random(),
                                 prob_func = random.random())
-                                #prob_func=random.uniform(0.0, 0.9)) # keep prob_func a bit low to prevent recursion errors
         try:
             tree = t.build()
             written_tree = t.write(tree)
+
             # Control maximum tree size
-            if len(written_tree) < 300:
-                if no_split:
-                    file.write(written_tree+ '\t' + ' '.join(t.evaluate_tree(tree)) + '\n')
-                else:
-                    if random.random() < train_ratio:
-                        train_file.write(written_tree + '\t' + ' '.join(t.evaluate_tree(tree)) + '\n')
-                    else:
-                        test_file.write(written_tree + '\t' + ' '.join(t.evaluate_tree(tree)) + '\n')
+            if len(written_tree) < 500:
+                output_file.write(written_tree+ '\t' + ' '.join(t.evaluate_tree(tree)) + '\n')
         except RecursionError:
             pass
+
+    return(output_file_name)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--task', type=str, help='The PCFG SET task to use', default='default')
+    parser.add_argument('--alphabet_ratio', type=int, help='How many times to increase alphabet size', default=1)
     parser.add_argument('--random_probs', action='store_true', help='Use different random probabilities for each sample')
-    # TODO: distribution input lengths
     parser.add_argument('--prob_unary', type=float, help='P(unary|function)', default=0.75)
     parser.add_argument('--prob_func', type=float, help='P(function|argument)', default=0.25)
-    parser.add_argument('--lengths', type=int, help='Lengths of string arguments', default=[2, 3, 4, 5]) # TODO: make this adaptive, also dependent on distribution
+    parser.add_argument('--lengths', type=int, help='Lengths of string arguments', default=[2, 3, 4, 5])
     parser.add_argument('--nr_samples', type=int, help='Number of samples to generate', default=2500)
     parser.add_argument('--no_split', action='store_true', help='Do not split into train and test yet')
     parser.add_argument('--train_ratio', type=float, help='Fraction of generated data to use for training', default=0.8)
     parser.add_argument('--data_root', type=str, help='Data path root')
     parser.add_argument('--placeholder_args', action='store_true', help='Generate data with placeholder arguments, containing only X characters')
     parser.add_argument('--omit_brackets', action='store_true', help='Do not use brackets')
+    parser.add_argument('--naturalize', action='store_true', help='Impose natural language distribution on data')
+    parser.add_argument('--nl_file', type=str, help='Natural language file to mimic distribution from')
     opt = parser.parse_args()
 
     if not opt.data_root:
         parser.error('Data path root required.')
 
-    if not opt.task:
-        parser.error('Specify PCFG SET task.')
+    if opt.naturalize:
+        opt.random_probs = True
+        opt.placeholder_args = True
+        opt.no_split = True
 
     task = getattr(tasks, opt.task)
 
-    generate_data(task=task,
-                  random_probs=opt.random_probs,
-                  prob_unary=opt.prob_unary,
-                  prob_func=opt.prob_func,
-                  lengths=opt.lengths,
+    unary_functions = task.unary_functions
+    binary_functions = task.binary_functions
+    alphabet = [letter + str(i) for letter in task.alphabet for i in range(1, opt.alphabet_ratio + 1)]
+
+    pcfg_tree_generator = MarkovTree(unary_functions=unary_functions,
+                   binary_functions=binary_functions,
+                   alphabet=alphabet,
+                   prob_unary=opt.prob_unary,
+                   prob_func=opt.prob_func,
+                   lengths=opt.lengths,
+                   placeholders=opt.placeholder_args,
+                   omit_brackets=opt.omit_brackets)
+
+
+    output_file = generate_data(pcfg_tree=pcfg_tree_generator,
                   total_samples=opt.nr_samples,
-                  no_split=opt.no_split,
-                  train_ratio=opt.train_ratio,
                   data_root=opt.data_root,
-                  placeholders=opt.placeholder_args,
-                  omit_brackets=opt.omit_brackets)
+                  random_probs=opt.random_probs)
+
+    if opt.naturalize:
+        naturalizer = DataNaturalization(alphabet=alphabet,
+                                         unary_functions=unary_functions,
+                                         binary_functions=binary_functions)
+
+        depth_intervals = range(1, 2)
+        length_intervals = range(1, 6)
+
+        opt_kl_div = 999
+        for depth_interval in depth_intervals:
+            for length_interval in length_intervals:
+                try:
+                    # Default: mimic English WMT test file
+                    kl_div, new_output_file = naturalizer.force_dist_on_data(
+                        data_gold_dist=opt.nl_file,
+                        data_to_be_transformed=output_file,
+                        depth_interval=depth_interval,
+                        length_interval=length_interval)
+                    if kl_div < opt_kl_div:
+                        opt_kl_div = kl_div
+                        opt_dep_len = (depth_interval, length_interval)
+                        opt_file = new_output_file
+                except:
+                    pass
+
+        print('Best results for depth_interval={0}, length_interval={1}'.format(opt_dep_len[0], opt_dep_len[1]))
+
+        naturalizer.finalize(file=opt_file)
+
+# python3 generate.py --naturalize --alphabet_ratio 40 --data_root 'pcfg_12funcs_1040letters' --nr_samples 150000
+
+#1 - (((1 - ((1/1040)^2))^4)^(0.85*37300))
