@@ -207,6 +207,3 @@ if __name__ == '__main__':
 
         naturalizer.finalize(file=opt_file)
 
-# python3 generate.py --naturalize --alphabet_ratio 40 --data_root 'pcfg_12funcs_1040letters' --nr_samples 150000
-
-#1 - (((1 - ((1/1040)^2))^4)^(0.85*37300))
