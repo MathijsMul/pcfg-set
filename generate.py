@@ -207,3 +207,4 @@ if __name__ == '__main__':
 
         naturalizer.finalize(file=opt_file)
 
+# python3 generate.py --alphabet_ratio 20 --random_probs --nr_samples 100000 --no_split --data_root 'pcfg_10funcs_520letters_100K' --placeholder_args --naturalize
