@@ -29,6 +29,7 @@ import numpy as np
 import seaborn as sns
 import pandas as pd
 import matplotlib.pyplot as plt
+import matplotlib.ticker as ticker
 import operator
 import random
 import itertools
@@ -76,7 +77,7 @@ class DependencyParseNL():
             # Account for ROOT by taking -1 instead of 0
             return -1
         else:
-            return(1 + max([self.get_tree_depth(tree[subtree]) for subtree in tree]))
+            return(max([self.get_tree_depth(tree[subtree]) for subtree in tree]) + 1)
 
 class DependencyParsePCFG():
     def __init__(self, sample, alphabet):
@@ -146,12 +147,16 @@ class DataNaturalization():
         df = pd.DataFrame({name1: np.array(var1), name2: np.array(var2)})
         g = sns.JointGrid(x=name1, y=name2, data=df, space=0, xlim=(0,15), ylim=(0,40))
         g = g.plot_joint(sns.kdeplot, shade_lowest=False, shade=True)
+
         sns.kdeplot(df[name1], color="b", shade=True, ax=g.ax_marg_x, legend=False, bw=0.25)
         sns.kdeplot(df[name2], color="b", shade=True, vertical=True, ax=g.ax_marg_y, legend=False)
 
         #g.ax_joint.legend_.remove()
+        g.ax_joint.xaxis.set_major_locator(ticker.MultipleLocator(5))
+        g.ax_joint.yaxis.set_major_locator(ticker.MultipleLocator(10))
+
         g.fig.set_dpi(300)
-        #plt.show()
+
         plt.savefig('dist_wmt_largefont.pdf', format='pdf')
 
     def kl_divergence(self, mean1, cov1, mean2, cov2):
@@ -330,8 +335,10 @@ class DataNaturalization():
 
 # dn = DataNaturalization(alphabet=None, unary_functions=None, binary_functions=None)
 # depth, length = dn.get_tree_statistics('data/pcfg_set/10K/pcfg_10funcs_520letters_brackets.txt', type='pcfg')
+# depth = [d - 1 for d in depth]
 # dn.plot_dist(depth, length, 'depth', 'length')
 
 # dn = DataNaturalization(alphabet=None, unary_functions=None, binary_functions=None)
 # depth, length = dn.get_tree_statistics('/Users/mathijs/Documents/Studie/AI/Thesis/data/wmt_ende_sp/test.en', type='nl')
+# depth = [d - 1 for d in depth]
 # dn.plot_dist(depth, length, 'depth', 'length')
